@@ -95,7 +95,8 @@ def record(title, authors, url, source, date='', abstract='', ids=None, version=
 def identity_keys(paper):
     result = {f'{k}:{v.lower()}' for k, v in paper['identifiers'].items()}
     result.update('doi:' + d.lower() for d in paper.get('related_dois', []))
-    result.update('url:' + u.rstrip('/') for u in paper['links'].values() if u)
+    result.update('url:' + u.rstrip('/') for kind, u in paper['links'].items()
+                  if kind in ('Paper', 'Preprint', 'Published') and u)
     return result
 
 

@@ -30,6 +30,15 @@ class CatalogTests(unittest.TestCase):
         self.assertFalse(merge(papers, [journal], [], '2026-09-22'))
         self.assertEqual(papers[0]['first_seen'], '2026-09-20')
 
+    def test_shared_code_repository_does_not_merge_distinct_papers(self):
+        first = record('Model version one', 'A', 'https://doi.org/10.1000/one', 'source')
+        second = record('Model version two', 'A', 'https://doi.org/10.1000/two', 'source')
+        first['links']['Code'] = second['links']['Code'] = 'https://github.com/example/model'
+        papers = []
+        merge(papers, [first, second], [], '2026-09-20')
+        self.assertEqual(len(papers), 2)
+        self.assertEqual({p['identifiers']['doi'] for p in papers}, {'10.1000/one', '10.1000/two'})
+
     def test_excluded_stays_excluded(self):
         p = record('Protein design', 'A', 'https://arxiv.org/abs/2601.12345v2', 'arXiv')
         self.assertEqual(identifiers(p['links']['Paper']), {'arxiv': '2601.12345'})
