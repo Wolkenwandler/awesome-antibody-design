@@ -4,9 +4,451 @@
 
 # Reviews & Tutorials
 
-**19 papers** · 19 curated · 0 pending review
+**45 papers** · 19 curated · 26 pending review
 
 > Automatically retrieved candidates are not human recommendations.
+
+---
+
+### Design rules for bioorthogonal glycan-based tools.
+
+Pending review · Published 2026-10-01 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1042/bcj20260542>)
+
+<details>
+<summary>Authors & source</summary>
+
+Hoddle F, Schmidt SD, Sridhar S, Schumann B.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Alzheimer's disease biomarkers in relation to non-cognitive domains within the intrinsic capacity framework: a narrative review.
+
+Pending review · Published 2026-09-19 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1007/s11357-026-02544-w>)
+
+<details>
+<summary>Authors & source</summary>
+
+Wei X, Shao R, Rolland Y, Vellas B, de Souto Barreto P.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### \[Corrigendum\] Bcl11b regulates enamel matrix protein expression and dental epithelial cell differentiation during rat tooth development.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.3892/mmr.2026.14024>)
+
+<details>
+<summary>Authors & source</summary>
+
+Li Z, Chen G, Yang Y, Guo W, Tian W.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Immune memory engineering in mRNA therapeutics.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1016/j.jconrel.2026.115370>)
+
+<details>
+<summary>Authors & source</summary>
+
+Wen J, Tao W, Zhou X.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Immune Cell Engager Therapy for Brain Cancer.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.1093/neuonc/noag227>)
+
+<details>
+<summary>Authors & source</summary>
+
+Sluijter DA, van Garderen R, van Haveren I, Meeldijk J, Crnko S, Koorman T, Ten Broeke T, Schakelaar MY, Bovenschen N.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Randomised treatment of acute pancreatitis with infliximab: protocol for a double-blind, placebo-controlled, multi-centre, adaptive, phase 2 superiority trial (RAPID-I).
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.1136/bmjopen-2026-118729>)
+
+<details>
+<summary>Authors & source</summary>
+
+Lin J, Smyth M, Spowart C, Brown M, Powell I, Latawiec D, Wu D, Huang W, Mukherjee R, Szatmary P, Baron R, Dunne D, Evans J, Srinivas S, Bond-Smith G, Cooper J, Smith A, Manzelli A, Elkhodair S, O'Reilly D, Mitra V, Body R, Siriwardena AK, Subramanian S, Plumpton C, Hughes DA, Mclaren T, Lucas A, Gamble C, Jaki T, Sutton R.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Twenty-Year Retrospective Analysis of Bone Morphogenetic Protein (BMP) Use in Anterior Cervical Fusion: Incidence of Severe Dysphagia and Airway Complications in a Single-Surgeon Study.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1097/bsd.0000000000002175>)
+
+<details>
+<summary>Authors & source</summary>
+
+Hebeka BN, Reilly JA, Jones AJ, Edwards CC.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Overcoming melanoma drug resistance: Mechanisms and clinical progress of oncolytic viruses combined with immune checkpoint inhibitors (Review).
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.3892/or.2026.9197>)
+
+<details>
+<summary>Authors & source</summary>
+
+He Y, Lin W, Chen H, Guan Y, Guan C, Zhang Y, Pan D.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Artificial Intelligence as a Discovery Engine for Routine Molecular Techniques: Extracting Biological Insight from Western Blotting, ELISA, Immunostaining, and Immunoprecipitation.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1007/s12013-026-02171-4>)
+
+<details>
+<summary>Authors & source</summary>
+
+Almazari R, Abu-El-Rub E, Alzu'bi A.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Associations Between Peripheral Blood Inflammatory and Immune Markers and Osteoporotic and Fragility Fractures: A Systematic Review and Meta-Analysis.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1007/s00223-026-01606-7>)
+
+<details>
+<summary>Authors & source</summary>
+
+Li C, Zhao C, Fu R, Zhong S, Yuan Q, Li P, Fan Y, Zhang Y.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Synthetic Receptors for Specific Cell Imaging and Signal Transduction
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Antibody · Nanobody
+
+[Paper](<https://doi.org/10.20944/preprints202609.1540.v1>)
+
+<details>
+<summary>Authors & source</summary>
+
+Tiren Z, Horrix L, Floß DM, Malaczynski S, Czekelius C, Temme S.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Prospecting the protein design landscape.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Antibody · Peptide
+
+[Paper](<https://doi.org/10.1002/1873-3468.70459>)
+
+<details>
+<summary>Authors & source</summary>
+
+Riccabona JR, Stonig KT, Meiler J, Schoeder CT, Fernández-Quintero ML.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### A Pilot Pangenome-Based Screen of Ten Campylobacter jejuni Genomes Reveals Candidate Genus-Specific Diagnostic Markers
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1099/acmi.0.001319.v2>)
+
+<details>
+<summary>Authors & source</summary>
+
+Uddin N, Tasnim A, Ahamed Talukder MF, Md. Bin Mostofa FI.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### NLA proteins: Master regulators that integrate nutrient homeostasis, stress adaptation, and plant development.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1093/jxb/erag476>)
+
+<details>
+<summary>Authors & source</summary>
+
+Wu T, Yang Z, Kant S, Shi L, Hu C.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Extracellular Vesicles for Androgenetic Alopecia: Current Evidence, Mechanisms, and Clinical Prospects.
+
+Pending review · Published 2026-09-13 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.2147/ijn.s621203>)
+
+<details>
+<summary>Authors & source</summary>
+
+Tang WZ, Liao CY, Xu HY, Huang WT, Lan ZH, Wu ZX, Yang YH, Li MS, Liu TH, Wang YH.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Hyaluronidase-enhanced delivery in gene therapy and regenerative medicine for improved vector, cell, and cargo access.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Enzyme
+
+[Paper](<https://doi.org/10.3389/fddev.2026.1906950>)
+
+<details>
+<summary>Authors & source</summary>
+
+Sewell PE, Jensen C.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Reframing ATR: from the immunologic/nonimmunologic dichotomy to adaptive, innate, and physicochemical drivers within the allergy-inflammation-coagulation axis.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.3389/fimmu.2026.1892622>)
+
+<details>
+<summary>Authors & source</summary>
+
+Sakurai Y.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Extracellular polymeric substances as local nucleation microenvironments in ureolytic MICP for concrete crack sealing: a mini review.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Enzyme · Diffusion
+
+[Paper](<https://doi.org/10.3389/fmicb.2026.1921241>)
+
+<details>
+<summary>Authors & source</summary>
+
+Yan Z, Liu H, Sun J, Wang H, Song F, Xiuying W, Chen T, Li X, Xia L.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Mammalian cell-derived extracellular vesicles remodel the immune-repair microenvironment in osteoarthritis: from pathological signal transmission to regenerative therapy.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.3389/fimmu.2026.1936617>)
+
+<details>
+<summary>Authors & source</summary>
+
+Zhang L, Yang X, Yu Y, Yang L.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Impact of antibody-mediated rejection detected on one-year protocol biopsies on long-term kidney allograft survival.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.3389/fmed.2026.1938644>)
+
+<details>
+<summary>Authors & source</summary>
+
+Severova G, Karanfilovski V, Trajceska L, Rambabova-Bushljetik I, Dzekova-Vidimliski P, Nikolov IG, Gjorgjievski N, Petrushevska G, Kostadinova-Kunovska S, Spasovski G, Ivanovski N.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### T-cell redirecting therapies in lung cancer - a comprehensive analysis of clinical trials.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.3389/fimmu.2026.1917770>)
+
+<details>
+<summary>Authors & source</summary>
+
+Zhao J, Bangolo A, Zhang L, Gutierrez M, Gonzalez-Velez M.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Artificial intelligence in obesity management: clinical evidence, translational gaps, and implementation priorities-a structured narrative review.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Peptide · Language model
+
+[Paper](<https://doi.org/10.3389/fendo.2026.1955223>)
+
+<details>
+<summary>Authors & source</summary>
+
+Liu W, Zhao J, Zhang D, Dang C, Lu Y, Du X.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Pharmaco-multiomics in major depressive disorder: a narrative review and proposed translational framework for difficult-to-treat and treatment-resistant depression.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.3389/fphar.2026.1934360>)
+
+<details>
+<summary>Authors & source</summary>
+
+Baune BT.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Therapeutic strategies in prion disease: current evidence, translational challenges, and emerging directions.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.3389/fnins.2026.1924347>)
+
+<details>
+<summary>Authors & source</summary>
+
+Zhu Y, Bradford BM, Mabbott NA.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Silk sericin and its biomedical applications: extraction methods, genetic insights (Ser1-Ser6), and developments of multifunctional biomaterials for tissue regeneration.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.3389/fbioe.2026.1835198>)
+
+<details>
+<summary>Authors & source</summary>
+
+Thamaraiselvi P, Nayak S.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Vaccines for Autoimmune Diseases: Stopping Triggers, Restoring BalanceA Systematic Review with Qualitative Synthesis.
+
+Pending review · Published 2026-06-12 · Added 2026-09-20 · Peptide
+
+[Paper](<https://doi.org/10.31138/mjr.111225.rba>)
+
+<details>
+<summary>Authors & source</summary>
+
+de Carvalho JF, Caldas CAM, Shoenfeld Y.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
 
 ---
 

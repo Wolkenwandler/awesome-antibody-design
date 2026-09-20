@@ -4,9 +4,536 @@
 
 # 抗体与纳米抗体专题
 
-**56 篇论文** · 56 篇精选 · 0 篇待审核
+**87 篇论文** · 56 篇精选 · 31 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
+
+---
+
+### \[Corrigendum\] Bcl11b regulates enamel matrix protein expression and dental epithelial cell differentiation during rat tooth development.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3892/mmr.2026.14024>)
+
+<details>
+<summary>作者与来源</summary>
+
+Li Z, Chen G, Yang Y, Guo W, Tian W.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### MH-Penile-002: a phase II, prospective, single-arm trial of neoadjuvant anti-EGFR antibody-drug conjugate plus PD-1 inhibitor in penile cancer with challenging penile preservation or regional lymph node metastasis.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1080/14796694.2026.2732579>)
+
+<details>
+<summary>作者与来源</summary>
+
+Wang JY, Shao YX, Yang LL, Li HS, Liu JQ, Liu RZ, Zhang S, Li X, Liu JY.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### An Artificial Intelligence Model for Longitudinal Assessment of TCR Repertoires in SARS-CoV-2 Vaccine Recipients
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体 · 语言模型
+
+[论文](<https://doi.org/10.64898/2026.09.16.752071>)
+
+<details>
+<summary>作者与来源</summary>
+
+Wang Z, Zhao Y, Xiao X, He B, Sun Y, Xiong S, Qin C, Zhou Z, Chang L, Bai J, Zhao W, Liang W, Yao J.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### \[Expression of Concern\] Ginsenoside Rg1 protects against H2O2‑induced neuronal damage due to inhibition of the NLRP1 inflammasome signalling pathway in hippocampal neurons in vitro.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3892/ijmm.2026.5988>)
+
+<details>
+<summary>作者与来源</summary>
+
+Xu TZ, Shen XY, Sun LL, Chen YL, Zhang BQ, Huang DK, Li WZ.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Linear antibody epitope prediction using AlphaFold2.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体 · 肽
+
+[论文](<https://doi.org/10.7554/elife.98369>)
+
+<details>
+<summary>作者与来源</summary>
+
+DeRoo J, Terry JS, Zhao N, Stasevich TJ, Snow C, Geiss BJ.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Immune Cell Engager Therapy for Brain Cancer.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1093/neuonc/noag227>)
+
+<details>
+<summary>作者与来源</summary>
+
+Sluijter DA, van Garderen R, van Haveren I, Meeldijk J, Crnko S, Koorman T, Ten Broeke T, Schakelaar MY, Bovenschen N.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Randomised treatment of acute pancreatitis with infliximab: protocol for a double-blind, placebo-controlled, multi-centre, adaptive, phase 2 superiority trial (RAPID-I).
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1136/bmjopen-2026-118729>)
+
+<details>
+<summary>作者与来源</summary>
+
+Lin J, Smyth M, Spowart C, Brown M, Powell I, Latawiec D, Wu D, Huang W, Mukherjee R, Szatmary P, Baron R, Dunne D, Evans J, Srinivas S, Bond-Smith G, Cooper J, Smith A, Manzelli A, Elkhodair S, O'Reilly D, Mitra V, Body R, Siriwardena AK, Subramanian S, Plumpton C, Hughes DA, Mclaren T, Lucas A, Gamble C, Jaki T, Sutton R.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Synthetic Receptors for Specific Cell Imaging and Signal Transduction
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体 · 纳米抗体
+
+[论文](<https://doi.org/10.20944/preprints202609.1540.v1>)
+
+<details>
+<summary>作者与来源</summary>
+
+Tiren Z, Horrix L, Floß DM, Malaczynski S, Czekelius C, Temme S.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Immunohistochemical Expression of MSH2 and MLH1 and Their Correlation with Histological Grades of Colorectal Carcinoma at Uganda Cancer Institute
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.21203/rs.3.rs-10173287/v1>)
+
+<details>
+<summary>作者与来源</summary>
+
+Mutale G.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Prospecting the protein design landscape.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体 · 肽
+
+[论文](<https://doi.org/10.1002/1873-3468.70459>)
+
+<details>
+<summary>作者与来源</summary>
+
+Riccabona JR, Stonig KT, Meiler J, Schoeder CT, Fernández-Quintero ML.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Novel two-stage deep learning-based approach applied to gene expression data pertaining to esophageal adenocarcinoma boosting biological knowledge discovery
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.64898/2026.09.12.751181>)
+
+<details>
+<summary>作者与来源</summary>
+
+Jamie F, Turki T, Alsolami F, Taguchi Y.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Freeze-thaw-directed interfacial assembly of a gold nanoparticle/MXene electrochemical aptamer sensor for antibody-free myeloperoxidase detection.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1007/s00604-026-08406-8>)
+
+<details>
+<summary>作者与来源</summary>
+
+Min C, Sun H, Zhang H, Zhang J, Ding M, Zhang X.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### In vitro induction of human germinal center B cells.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1126/sciimmunol.aeg5223>)
+
+<details>
+<summary>作者与来源</summary>
+
+Priest DG, Demir MF, Ise W, Wing JB.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### From Infant Protection to Healthy Respiratory Aging: Potential Long-Term Benefits of RSV Prevention in Latin America and the Caribbean
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.20944/preprints202609.1535.v1>)
+
+<details>
+<summary>作者与来源</summary>
+
+Debbag R, Ávila-Agüero ML, Brea J, Kfouri RdÁ, Muñoz FM, Couto P, Pérez Marc G, Ruiz de Castilla EM, Torres-Martinez CN, Gutierrez-Tobar IF, Beltran-Arroyave C, Arias AF, Benítez I, Bonilla JE, Castellano V, Dueñas L, Estripeaut D, Gutiérrez V, Jacinto L, Juárez MdV, Lazo G, Mayrides M, Palmieri M, Parra-Buitrago A, Pujadas M, Ramírez JM, Rapaport S, Zambrano G, Rodríguez-Morales AJ.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Design and functional characterization of recombinant chimeras as vaccine candidates against Lawsonia intracellularis.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1007/s10529-026-03786-6>)
+
+<details>
+<summary>作者与来源</summary>
+
+Costa AV, Conrad NL, Greco JPG, Kremer FS, Leite FPL.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### The impact of TcdB conformational dynamics on vaccination against Clostridioides difficile.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1371/journal.ppat.1014627>)
+
+<details>
+<summary>作者与来源</summary>
+
+Kempher ML, Shadid TM, Lang GA, Honold ST, May JN, Hall EJ, Larabee JL, Lang ML, Ballard JD.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Accelerated discovery of thermostable vaccines using data-efficient AI
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.64898/2026.09.17.752370>)
+
+<details>
+<summary>作者与来源</summary>
+
+Tian J, Tran KT, Pogostin BH, Sheridan O, Mursalova S, Lee AH, Liu S, Hamkins J, Antov D, Power AL, Dash ZS, Yun D, Konakovic Lukovic M, Langer R, Jaklenec A.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Antigenic landscape of rabies and related lyssaviruses revealed by cryo-EM.
+
+待审核 · 发表 2026-09-17 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1016/j.celrep.2026.117993>)
+
+<details>
+<summary>作者与来源</summary>
+
+Callaway HM, Zyla DS, Hastie KM, Harkins SS, Kothalawalage S, Samarasinghe N, Flynn A, Hariharan C, Yin J, Corti D, Bourhy H, Dessain SK, Saphire EO.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Design and synthesis of reagents for generation and characterization of high-affinity antibodies for a Staphylococcus aureus serotype 8 disaccharide.
+
+待审核 · 发表 2026-09-12 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1016/j.ejcb.2026.151574>)
+
+<details>
+<summary>作者与来源</summary>
+
+Mata S, Deng S, Noble J, Nagy K, Gubler S, Teyton L, Finn MG, Savage PB.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### A randomized, double-blind, active-controlled phase 3 multicenter trial of rHSA for cirrhotic ascites.
+
+待审核 · 发表 2026-09-10 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1038/s41392-026-02951-7>)
+
+<details>
+<summary>作者与来源</summary>
+
+Jia J, An Y, Ou X, Duan W, Li Y, Deng Y, Xie J, Wang Q, Li X, Pan Z, Luo Y, Wang L, Zhong X, Wu D, Meng Z, Liu Z, Chen Z, Hong L, Zong Y, Tang Y, Zhong L, Wo C, Xu B, Shu B, Shi F, Li G, Xiao G, Song F, Zhang G, Chen H, Liao A, Wei H, Li J, An X, Li F, Pan C, Pan J, Lin Z, Hou W, Li H, Chen J, Wu X, Sun S, Shen Y, Zhu X, Chen B, Zeng Y, Xiao X, Geng J, Zhang H, Zhao C, Chen L, Wu Q, Li Y, Liu X, Jiang X, Tian H, Li Z, Zhao M, Li H, Xiong X, Yao R, Shao L, Liu F, Fu L, Liao Y, Guan T, Luo X, Yuan W, Ji H, Zhou X, Luo Y.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Randomized phase II trial of zolbetuximab as second-line treatment in patients with claudin 18.2-positive advanced gastric/GEJ cancer with previous zolbetuximab exposure: ZELDA.
+
+待审核 · 发表 2026-09-09 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1016/j.esmogo.2026.100416>)
+
+<details>
+<summary>作者与来源</summary>
+
+Inagaki C, Oki E, Ando K, Hirano H, Furuta M, Narita Y, Esaki T, Murotani K, Kawakami H, Muro K.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Predicting unfavorable response to initial radioactive iodine therapy in differentiated thyroid cancer: an explainable machine learning and survival analysis approach.
+
+待审核 · 发表 2026-09-04 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fendo.2026.1943597>)
+
+<details>
+<summary>作者与来源</summary>
+
+Gu L, Zheng G, Zhao Y, Wang J, Qu L, Yao S.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### From one-size-fits-all to context-specific: the 10-day observation rule-a need for change.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fpubh.2026.1934845>)
+
+<details>
+<summary>作者与来源</summary>
+
+Wang X.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### The clinical trial landscape of bispecific antibodies in non-small cell lung cancer: mechanistic trends and developmental strategies.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fphar.2026.1901850>)
+
+<details>
+<summary>作者与来源</summary>
+
+Li Z, Wang X, Shi Q, Guo Y, Dong G, Liu Z.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Reframing ATR: from the immunologic/nonimmunologic dichotomy to adaptive, innate, and physicochemical drivers within the allergy-inflammation-coagulation axis.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fimmu.2026.1892622>)
+
+<details>
+<summary>作者与来源</summary>
+
+Sakurai Y.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Rational design of D(+)-biotin-conjugated resorcinol dibenzyl ethers as tumor-targeted PD-L1 inhibitors for precision cancer immunotherapy.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fimmu.2026.1879839>)
+
+<details>
+<summary>作者与来源</summary>
+
+Du JJ, Liu R, Chen L, Zhang J.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Impact of antibody-mediated rejection detected on one-year protocol biopsies on long-term kidney allograft survival.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fmed.2026.1938644>)
+
+<details>
+<summary>作者与来源</summary>
+
+Severova G, Karanfilovski V, Trajceska L, Rambabova-Bushljetik I, Dzekova-Vidimliski P, Nikolov IG, Gjorgjievski N, Petrushevska G, Kostadinova-Kunovska S, Spasovski G, Ivanovski N.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Comparative immunogenicity and protective efficacy of BECC438 and BECC470 adjuvants in a vaccine formulation against Pseudomonas aeruginosa.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fimmu.2026.1908082>)
+
+<details>
+<summary>作者与来源</summary>
+
+Halder P, Howlader DR, Biswas S, Haldar R, Maiti S, Das S, Dietz ZK, Lu T, Whittier SK, Ernst RK, Picking WD, Picking WL.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### T-cell redirecting therapies in lung cancer - a comprehensive analysis of clinical trials.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fimmu.2026.1917770>)
+
+<details>
+<summary>作者与来源</summary>
+
+Zhao J, Bangolo A, Zhang L, Gutierrez M, Gonzalez-Velez M.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Mapping the research landscape of antibody therapy for Ebola virus disease: a bibliometric analysis.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fimmu.2026.1919677>)
+
+<details>
+<summary>作者与来源</summary>
+
+Kou Z, Liu Y, Qian W, Zhang S, Lou S, Shao D.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Subcutaneous MG1113 in severe hemophilia A and B: phase 1b study for safety, pharmacokinetics, and pharmacodynamics.
+
+待审核 · 发表 2026-08-15 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1016/j.rpth.2026.106910>)
+
+<details>
+<summary>作者与来源</summary>
+
+You CW, Baek HJ, Park YS, Kim BR, Lee H, Kim SH, Hwang SH, Choi EJ.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 

@@ -4,9 +4,26 @@
 
 # Sequence Design & Inverse Folding
 
-**11 papers** · 11 curated · 0 pending review
+**12 papers** · 11 curated · 1 pending review
 
 > Automatically retrieved candidates are not human recommendations.
+
+---
+
+### Unlocking Programmable and Creative RNA Sequence Design with RDiffusion
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Diffusion
+
+[Paper](<https://doi.org/10.21203/rs.3.rs-10604812/v1>)
+
+<details>
+<summary>Authors & source</summary>
+
+Wang J, Dong J, Yang L, Li T, Yin J, Chen J, Dong Y, Li J, Tan C.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
 
 ---
 

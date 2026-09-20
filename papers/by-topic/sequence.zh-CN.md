@@ -4,9 +4,26 @@
 
 # 序列设计与逆折叠
 
-**11 篇论文** · 11 篇精选 · 0 篇待审核
+**12 篇论文** · 11 篇精选 · 1 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
+
+---
+
+### Unlocking Programmable and Creative RNA Sequence Design with RDiffusion
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 扩散模型
+
+[论文](<https://doi.org/10.21203/rs.3.rs-10604812/v1>)
+
+<details>
+<summary>作者与来源</summary>
+
+Wang J, Dong J, Yang L, Li T, Yin J, Chen J, Dong Y, Li J, Tan C.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 

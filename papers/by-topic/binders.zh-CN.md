@@ -4,9 +4,77 @@
 
 # 靶标导向的结合蛋白设计
 
-**8 篇论文** · 8 篇精选 · 0 篇待审核
+**12 篇论文** · 8 篇精选 · 4 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
+
+---
+
+### Latent generative search unlocks de novo design of untapped biomolecular interactions at scale
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 联合设计
+
+[论文](<https://doi.org/10.64898/2026.09.12.751118>)
+
+<details>
+<summary>作者与来源</summary>
+
+Didi K, Reidenbach D, Penner M, Ravichandran S, Case M, Nichols M, Swanson E, Reis A, Prescott M, Qian Y, Qian D, Yang J, Li W, Li L, Shonai D, Gay S, Basu Mallik B, Chim HY, Chen L, Atienza Juanatey M, Klein H, Rieger D, Schlegel P, Macintyre AU, Secor M, Granata D, Cha S, Cao Z, Zhou G, Geffner T, Chen X, Livne M, Zhang Z, Zhang T, Gion K, Bronstein MM, Steinegger M, Deibler K, Soderling S, Schoeder CT, Khmelinskaia A, Hollfelder F, Dallago C, Kucukbenli E, Vahdat A, Ogden P, Kreis K.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 肽
+
+[论文](<https://doi.org/10.64898/2026.09.15.751537>)
+
+<details>
+<summary>作者与来源</summary>
+
+Igashov I, Schneuing A, Dobbelstein AW, Morozova I, Neeser RM, Zielinski K, Abriata LA, Petruzzella AS, Pavel Iosub DR, Gampp O, Lyubimov AY, Elizarova E, Ferrara I, Sousa PMF, Lemos AR, Testori F, Miranda Herrera PA, Kanis L, Schmidt J, Braza MKE, Amaro RE, Thoma N, Ferraris DM, Riek R, Fraser JS, Schwaller P, Bronstein M, Correia B.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Antigenic landscape of rabies and related lyssaviruses revealed by cryo-EM.
+
+待审核 · 发表 2026-09-17 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.1016/j.celrep.2026.117993>)
+
+<details>
+<summary>作者与来源</summary>
+
+Callaway HM, Zyla DS, Hastie KM, Harkins SS, Kothalawalage S, Samarasinghe N, Flynn A, Hariharan C, Yin J, Corti D, Bourhy H, Dessain SK, Saphire EO.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Comparative immunogenicity and protective efficacy of BECC438 and BECC470 adjuvants in a vaccine formulation against Pseudomonas aeruginosa.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fimmu.2026.1908082>)
+
+<details>
+<summary>作者与来源</summary>
+
+Halder P, Howlader DR, Biswas S, Haldar R, Maiti S, Das S, Dietz ZK, Lu T, Whittier SK, Ernst RK, Picking WD, Picking WL.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 

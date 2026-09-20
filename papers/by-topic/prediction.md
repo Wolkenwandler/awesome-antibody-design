@@ -4,9 +4,230 @@
 
 # Structure & Interaction Prediction
 
-**19 papers** · 19 curated · 0 pending review
+**32 papers** · 19 curated · 13 pending review
 
 > Automatically retrieved candidates are not human recommendations.
+
+---
+
+### Uncovering Anti-Cancer Potential of Clausena anisata Bioactives via Network Pharmacology-Based Target Prediction, Virtual Screening, Docking, ADMET Analysis, and Molecular Dynamics Simulation
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.21203/rs.3.rs-11047499/v1>)
+
+<details>
+<summary>Authors & source</summary>
+
+Mazumdar PN, Kalita K, Dutta PP, Gogoi D, Bora NN, Sarma MP.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Multifunctional Defense of Achelura yunnanensis Cocoon: High-Strength Tough Silk Fiber, Biomineral Reinforcement, and Protease Degradation Resistance.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Enzyme
+
+[Paper](<https://doi.org/10.1021/acsami.6c14733>)
+
+<details>
+<summary>Authors & source</summary>
+
+Wang N, Wang Y, Liu N, Liu W, Wang Y, Li X, Luo Q, Zhang X, Guo P, Zhang Y, Wang X, Xia Q, Dong Z.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Integrated multi-omics and experimental analyses reveal VIPR1 as a potential mediator linking environmental bisphenol A exposure to MASH-HCC progression.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1016/j.ecoenv.2026.120809>)
+
+<details>
+<summary>Authors & source</summary>
+
+Li M, Yang Y, Zhong L, Zhang L, Liu G, Liang K, Fu Z, Zhang J, Li N, Chen Y.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### BFVD v3–UniProt-complete, improved viral protein structure predictions
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.64898/2026.09.16.752260>)
+
+<details>
+<summary>Authors & source</summary>
+
+Kim RS, Pimenova O, Levy Karin E, Mirdita M, Steinegger M.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Cyproconazole-Induced Systemic Neuro-Immunotoxicity: An Integrated In Vivo and In Silico Study of Oxidative Stress, NLRP3-Related Inflammatory Signaling, and Cholinergic Disruption.
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1002/jat.70424>)
+
+<details>
+<summary>Authors & source</summary>
+
+Asma M, Mabrouk H, Siwar R, Hanen C, Moncef M, Asma O, Hichem BJ, Saoussen C, Mohsen H, Abid S, Imen AB.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### TRACEDD: A Tool-grounded Reasoning and Agentic Coordination for Explainable Drug Design
+
+Pending review · Published 2026-09-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.64898/2026.09.12.751167>)
+
+<details>
+<summary>Authors & source</summary>
+
+Vangala SR, Kasturi VV, Bung N, Roy A.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Integrating structural and biological evidence to rerank ESMFold2 protein-protein interactions
+
+Pending review · Published 2026-09-17 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.64898/2026.09.16.751194>)
+
+<details>
+<summary>Authors & source</summary>
+
+Xie J, Li M, Chai Y, Ou G, Li W, Guo Z.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Molecular design and biological activity of novel quercetin imines: a multi-analytical approach to anti-inflammatory drug discovery.
+
+Pending review · Published 2026-09-15 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1016/j.bioorg.2026.110535>)
+
+<details>
+<summary>Authors & source</summary>
+
+Angamaly SA, Pradeep L, Linsha M, Jesudas DP.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Integrative transcriptomic analysis identifies CCL22-associated immune signatures in air pollution-related atopic dermatitis.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.3389/fpubh.2026.1906298>)
+
+<details>
+<summary>Authors & source</summary>
+
+Gao C, Chen L, Huang T, Wang Z.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Rational design of D(+)-biotin-conjugated resorcinol dibenzyl ethers as tumor-targeted PD-L1 inhibitors for precision cancer immunotherapy.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.3389/fimmu.2026.1879839>)
+
+<details>
+<summary>Authors & source</summary>
+
+Du JJ, Liu R, Chen L, Zhang J.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### All-atoms MD simulations study of newly designed ciprofloxacin derivatives as potential bacterial DHPS and DNA gyrase inhibitors.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.3389/fbinf.2026.1876643>)
+
+<details>
+<summary>Authors & source</summary>
+
+Sahoo CR, Rout M, Paidesetty SK, Dehury B, Bhattacharya D, Pati S.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Effect of Linker Sequence on the Interdomain Dynamics of Self-Sufficient CYP116B5-SOX Chimeras.
+
+Pending review · Published 2026-09-01 · Added 2026-09-20 · Enzyme
+
+[Paper](<https://doi.org/10.1021/acsomega.6c07054>)
+
+<details>
+<summary>Authors & source</summary>
+
+Giuriato D, Gorga L, Castrignanò S, Correddu D, Catucci G, Gilardi G.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Design, Synthesis, Antimycobacterial Evaluation, and In Silico Investigation of Benzisothiazole-Based Hydrazide Derivatives as Potential Anti-Tuberculosis Agents.
+
+Pending review · Published 2026-09-01 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1111/cbdd.70405>)
+
+<details>
+<summary>Authors & source</summary>
+
+Sharma V, Sharma A, Poria R, Kumar P.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
 
 ---
 

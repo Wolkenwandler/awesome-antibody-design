@@ -4,9 +4,77 @@
 
 # Target-specific Binder Design
 
-**8 papers** · 8 curated · 0 pending review
+**12 papers** · 8 curated · 4 pending review
 
 > Automatically retrieved candidates are not human recommendations.
+
+---
+
+### Latent generative search unlocks de novo design of untapped biomolecular interactions at scale
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Joint design
+
+[Paper](<https://doi.org/10.64898/2026.09.12.751118>)
+
+<details>
+<summary>Authors & source</summary>
+
+Didi K, Reidenbach D, Penner M, Ravichandran S, Case M, Nichols M, Swanson E, Reis A, Prescott M, Qian Y, Qian D, Yang J, Li W, Li L, Shonai D, Gay S, Basu Mallik B, Chim HY, Chen L, Atienza Juanatey M, Klein H, Rieger D, Schlegel P, Macintyre AU, Secor M, Granata D, Cha S, Cao Z, Zhou G, Geffner T, Chen X, Livne M, Zhang Z, Zhang T, Gion K, Bronstein MM, Steinegger M, Deibler K, Soderling S, Schoeder CT, Khmelinskaia A, Hollfelder F, Dallago C, Kucukbenli E, Vahdat A, Ogden P, Kreis K.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### A Unified 3D Generative Model for Synthesizable Structure-Based Drug Design
+
+Pending review · Published 2026-09-18 · Added 2026-09-20 · Peptide
+
+[Paper](<https://doi.org/10.64898/2026.09.15.751537>)
+
+<details>
+<summary>Authors & source</summary>
+
+Igashov I, Schneuing A, Dobbelstein AW, Morozova I, Neeser RM, Zielinski K, Abriata LA, Petruzzella AS, Pavel Iosub DR, Gampp O, Lyubimov AY, Elizarova E, Ferrara I, Sousa PMF, Lemos AR, Testori F, Miranda Herrera PA, Kanis L, Schmidt J, Braza MKE, Amaro RE, Thoma N, Ferraris DM, Riek R, Fraser JS, Schwaller P, Bronstein M, Correia B.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Antigenic landscape of rabies and related lyssaviruses revealed by cryo-EM.
+
+Pending review · Published 2026-09-17 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.1016/j.celrep.2026.117993>)
+
+<details>
+<summary>Authors & source</summary>
+
+Callaway HM, Zyla DS, Hastie KM, Harkins SS, Kothalawalage S, Samarasinghe N, Flynn A, Hariharan C, Yin J, Corti D, Bourhy H, Dessain SK, Saphire EO.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Comparative immunogenicity and protective efficacy of BECC438 and BECC470 adjuvants in a vaccine formulation against Pseudomonas aeruginosa.
+
+Pending review · Published 2026-09-03 · Added 2026-09-20 · Antibody
+
+[Paper](<https://doi.org/10.3389/fimmu.2026.1908082>)
+
+<details>
+<summary>Authors & source</summary>
+
+Halder P, Howlader DR, Biswas S, Haldar R, Maiti S, Das S, Dietz ZK, Lu T, Whittier SK, Ernst RK, Picking WD, Picking WL.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
 
 ---
 

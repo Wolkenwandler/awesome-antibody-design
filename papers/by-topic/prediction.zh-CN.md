@@ -4,9 +4,230 @@
 
 # 结构与相互作用预测
 
-**19 篇论文** · 19 篇精选 · 0 篇待审核
+**32 篇论文** · 19 篇精选 · 13 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
+
+---
+
+### Uncovering Anti-Cancer Potential of Clausena anisata Bioactives via Network Pharmacology-Based Target Prediction, Virtual Screening, Docking, ADMET Analysis, and Molecular Dynamics Simulation
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.21203/rs.3.rs-11047499/v1>)
+
+<details>
+<summary>作者与来源</summary>
+
+Mazumdar PN, Kalita K, Dutta PP, Gogoi D, Bora NN, Sarma MP.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Multifunctional Defense of Achelura yunnanensis Cocoon: High-Strength Tough Silk Fiber, Biomineral Reinforcement, and Protease Degradation Resistance.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20 · 酶
+
+[论文](<https://doi.org/10.1021/acsami.6c14733>)
+
+<details>
+<summary>作者与来源</summary>
+
+Wang N, Wang Y, Liu N, Liu W, Wang Y, Li X, Luo Q, Zhang X, Guo P, Zhang Y, Wang X, Xia Q, Dong Z.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Integrated multi-omics and experimental analyses reveal VIPR1 as a potential mediator linking environmental bisphenol A exposure to MASH-HCC progression.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.1016/j.ecoenv.2026.120809>)
+
+<details>
+<summary>作者与来源</summary>
+
+Li M, Yang Y, Zhong L, Zhang L, Liu G, Liang K, Fu Z, Zhang J, Li N, Chen Y.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### BFVD v3–UniProt-complete, improved viral protein structure predictions
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.64898/2026.09.16.752260>)
+
+<details>
+<summary>作者与来源</summary>
+
+Kim RS, Pimenova O, Levy Karin E, Mirdita M, Steinegger M.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Cyproconazole-Induced Systemic Neuro-Immunotoxicity: An Integrated In Vivo and In Silico Study of Oxidative Stress, NLRP3-Related Inflammatory Signaling, and Cholinergic Disruption.
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.1002/jat.70424>)
+
+<details>
+<summary>作者与来源</summary>
+
+Asma M, Mabrouk H, Siwar R, Hanen C, Moncef M, Asma O, Hichem BJ, Saoussen C, Mohsen H, Abid S, Imen AB.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### TRACEDD: A Tool-grounded Reasoning and Agentic Coordination for Explainable Drug Design
+
+待审核 · 发表 2026-09-18 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.64898/2026.09.12.751167>)
+
+<details>
+<summary>作者与来源</summary>
+
+Vangala SR, Kasturi VV, Bung N, Roy A.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Integrating structural and biological evidence to rerank ESMFold2 protein-protein interactions
+
+待审核 · 发表 2026-09-17 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.64898/2026.09.16.751194>)
+
+<details>
+<summary>作者与来源</summary>
+
+Xie J, Li M, Chai Y, Ou G, Li W, Guo Z.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Molecular design and biological activity of novel quercetin imines: a multi-analytical approach to anti-inflammatory drug discovery.
+
+待审核 · 发表 2026-09-15 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.1016/j.bioorg.2026.110535>)
+
+<details>
+<summary>作者与来源</summary>
+
+Angamaly SA, Pradeep L, Linsha M, Jesudas DP.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Integrative transcriptomic analysis identifies CCL22-associated immune signatures in air pollution-related atopic dermatitis.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.3389/fpubh.2026.1906298>)
+
+<details>
+<summary>作者与来源</summary>
+
+Gao C, Chen L, Huang T, Wang Z.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Rational design of D(+)-biotin-conjugated resorcinol dibenzyl ethers as tumor-targeted PD-L1 inhibitors for precision cancer immunotherapy.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20 · 抗体
+
+[论文](<https://doi.org/10.3389/fimmu.2026.1879839>)
+
+<details>
+<summary>作者与来源</summary>
+
+Du JJ, Liu R, Chen L, Zhang J.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### All-atoms MD simulations study of newly designed ciprofloxacin derivatives as potential bacterial DHPS and DNA gyrase inhibitors.
+
+待审核 · 发表 2026-09-03 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.3389/fbinf.2026.1876643>)
+
+<details>
+<summary>作者与来源</summary>
+
+Sahoo CR, Rout M, Paidesetty SK, Dehury B, Bhattacharya D, Pati S.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Effect of Linker Sequence on the Interdomain Dynamics of Self-Sufficient CYP116B5-SOX Chimeras.
+
+待审核 · 发表 2026-09-01 · 收录 2026-09-20 · 酶
+
+[论文](<https://doi.org/10.1021/acsomega.6c07054>)
+
+<details>
+<summary>作者与来源</summary>
+
+Giuriato D, Gorga L, Castrignanò S, Correddu D, Catucci G, Gilardi G.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Design, Synthesis, Antimycobacterial Evaluation, and In Silico Investigation of Benzisothiazole-Based Hydrazide Derivatives as Potential Anti-Tuberculosis Agents.
+
+待审核 · 发表 2026-09-01 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.1111/cbdd.70405>)
+
+<details>
+<summary>作者与来源</summary>
+
+Sharma V, Sharma A, Poria R, Kumar P.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 
