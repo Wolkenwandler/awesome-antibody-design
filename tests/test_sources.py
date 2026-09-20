@@ -62,3 +62,23 @@ class IndexedHistoryTests(unittest.TestCase):
         self.assertIn('FIRST_PDATE:[2025-01-01 TO 2025-01-31]', query)
         self.assertIn('PUBLISHER:"bioRxiv"', query)
         self.assertEqual(rows[0]['source'], 'bioRxiv (Europe PMC index)')
+
+
+class ArxivEndpointTests(unittest.TestCase):
+    @patch('update_papers.time.sleep')
+    @patch('update_papers.request')
+    def test_406_retries_identical_query_on_official_alternate_host(self, request, sleep):
+        from update_papers import SourceHTTPError
+        request.side_effect = [SourceHTTPError(406, ''), ET.fromstring('<feed xmlns="http://www.w3.org/2005/Atom" xmlns:o="http://a9.com/-/spec/opensearch/1.1/"><o:totalResults>0</o:totalResults></feed>')]
+        self.assertEqual(list(arxiv('2025-01-01', '2025-01-31', 1)), [])
+        original, alternate = [c.args[0] for c in request.call_args_list]
+        self.assertEqual(original.replace('export.arxiv.org', 'arxiv.org'), alternate)
+
+    @patch('update_papers.time.sleep')
+    @patch('update_papers.request')
+    def test_other_http_errors_remain_failures(self, request, sleep):
+        from update_papers import SourceHTTPError
+        request.side_effect = SourceHTTPError(400, 'invalid query')
+        with self.assertRaises(SourceHTTPError):
+            list(arxiv('2025-01-01', '2025-01-31', 1))
+        self.assertEqual(request.call_count, 1)

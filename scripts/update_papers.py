@@ -11,6 +11,12 @@ from catalog import ROOT, read_json, write_json, record, relevant, merge, CONFIG
 from render_papers import render
 
 
+class SourceHTTPError(RuntimeError):
+    def __init__(self, code, detail):
+        self.code = code
+        super().__init__(f'HTTP {code}: {detail}')
+
+
 def request(url, xml=False):
     for attempt in range(3):
         try:
@@ -22,7 +28,7 @@ def request(url, xml=False):
         except urllib.error.HTTPError as error:
             detail = error.read(1200).decode('utf-8', errors='replace')
             if attempt == 2 or error.code in (400, 406):
-                raise RuntimeError(f'HTTP {error.code}: {detail}') from error
+                raise SourceHTTPError(error.code, detail) from error
             time.sleep(2 ** (attempt + 1))
         except Exception:
             if attempt == 2:
@@ -89,8 +95,15 @@ def arxiv(start, end, max_pages):
     query = f'({objects}) AND submittedDate:[{begin}0000 TO {finish}2359]'
     for page in range(max_pages):
         time.sleep(3)
-        root = request('https://export.arxiv.org/api/query?' + urllib.parse.urlencode(
-            dict(search_query=query, start=page * 100, max_results=100, sortBy='submittedDate', sortOrder='descending')), xml=True)
+        payload = urllib.parse.urlencode(dict(search_query=query, start=page * 100,
+                                               max_results=100, sortBy='submittedDate', sortOrder='descending'))
+        try:
+            root = request('https://export.arxiv.org/api/query?' + payload, xml=True)
+        except SourceHTTPError as error:
+            if error.code != 406:
+                raise
+            # The same official API is also served at arxiv.org (Atom feed links).
+            root = request('https://arxiv.org/api/query?' + payload, xml=True)
         rows = root.findall('a:entry', ns)
         total_node = root.find('o:totalResults', ns)
         if total_node is None:
