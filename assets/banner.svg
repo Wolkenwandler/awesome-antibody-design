@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Protein Design — Literature Atlas</title>
+  <desc id="desc">An index of AI protein design and antibody engineering research.</desc>
+  <rect width="1200" height="280" rx="16" fill="#102b32"/>
+  <path d="M880 0V280M1000 0V280M1120 0V280M820 70H1200M820 140H1200M820 210H1200" stroke="#23434a" stroke-width="1"/>
+  <path d="M850 214C900 214 875 65 939 65S992 214 1044 214 1100 65 1160 65" fill="none" stroke="#77d5b7" stroke-width="5"/>
+  <path d="M850 65C900 65 875 214 939 214S992 65 1044 65 1100 214 1160 214" fill="none" stroke="#7ba9c4" stroke-width="3"/>
+  <g fill="#e8f4ee"><circle cx="939" cy="65" r="7"/><circle cx="1044" cy="214" r="7"/><circle cx="1160" cy="65" r="7"/></g>
+  <text x="56" y="60" fill="#77d5b7" font-family="Arial, sans-serif" font-size="15" letter-spacing="4">THE RESEARCH INDEX</text>
+  <text x="52" y="131" fill="#f0f5f1" font-family="Georgia, serif" font-size="57">Protein Design</text>
+  <text x="56" y="175" fill="#d2e2dc" font-family="Arial, sans-serif" font-size="24">AI methods. Antibody engineering. Open research.</text>
+  <text x="56" y="236" fill="#91b6b3" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">DISCOVER / EXPLORE / CURATE</text>
+</svg>

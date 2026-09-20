@@ -1,26 +1,40 @@
+![Protein Design — Literature Atlas](assets/banner.svg)
+
 # AI for Protein Design & Antibody Engineering
 
-追踪 AI 蛋白质设计与抗体工程。下方保留原有抗体精选；自动目录中的新论文会明确标记为待审核。
+面向蛋白质设计与抗体工程的研究索引：从基础模型、结构预测，到序列生成与功能优化。
 
-[最近收录](papers/latest.md) · [抗体与纳米抗体专题](papers/antibody.md) · [自动更新与审核指南](docs/automation.md)
+[最近收录 →](papers/latest.md) · [抗体与纳米抗体 →](papers/antibody.md) · [自动更新说明](docs/automation.md)
 
-| 研究方向 | 完整列表 |
-|---|---|
-| 综述与入门 | [Reviews & Tutorials](papers/by-topic/reviews.md) |
-| 数据集与评测 | [Datasets & Benchmarks](papers/by-topic/datasets.md) |
-| 表征与基础模型 | [Representations & Foundation Models](papers/by-topic/foundations.md) |
-| 结构与相互作用预测 | [Structure & Interaction Prediction](papers/by-topic/prediction.md) |
-| 序列设计与逆折叠 | [Sequence Design & Inverse Folding](papers/by-topic/sequence.md) |
-| 骨架生成与联合设计 | [Backbone Generation & Joint Design](papers/by-topic/generation.md) |
-| 靶标导向结合蛋白设计 | [Target-specific Binder Design](papers/by-topic/binders.md) |
-| 功能与性质工程 | [Function & Property Engineering](papers/by-topic/engineering.md) |
+> **自动发现，人工精选。** 新论文先进入待审核列表；精选标记与原文链接帮助你判断阅读优先级。
 
-以下为历史人工精选列表。
+## Explore · 按研究任务浏览
 
+| 方向 | 关注问题 |
+| :--- | :--- |
+| **01 · [综述与入门](papers/by-topic/reviews.md)** | 领域进展、方法概览与阅读起点 |
+| **02 · [数据集与评测](papers/by-topic/datasets.md)** | 序列、结构、功能数据与设计基准 |
+| **03 · [表征与基础模型](papers/by-topic/foundations.md)** | 蛋白质语言模型、通用表征与多模态学习 |
+| **04 · [结构与相互作用预测](papers/by-topic/prediction.md)** | 单体、复合物、对接与结合位点 |
+| **05 · [序列设计与逆折叠](papers/by-topic/sequence.md)** | 序列生成、补全与结构条件设计 |
+| **06 · [骨架生成与联合设计](papers/by-topic/generation.md)** | 骨架、基序支架与序列—结构联合生成 |
+| **07 · [靶标导向的结合蛋白设计](papers/by-topic/binders.md)** | Binder、抗体与纳米抗体的从头设计 |
+| **08 · [功能与性质工程](papers/by-topic/engineering.md)** | 活性、亲和力、稳定性与可开发性 |
 
+## Follow · 追踪新进展
 
+| 查看新论文 | 聚焦抗体 | 深入一个方向 |
+| :--- | :--- | :--- |
+| [最近收录](papers/latest.md)：按发现时间浏览 | [抗体专题](papers/antibody.md)：跨任务汇集相关工作 | 从上方八个研究方向进入完整目录 |
 
----
+来源覆盖 **Europe PMC · bioRxiv · arXiv**。配置为每日检索、每周扩大窗口补漏；启用方法和覆盖边界见[维护指南](docs/automation.md)。
+
+## Archive · 历史精选
+
+保留最初的抗体设计阅读清单及原始资源链接；也可通过上方分类页浏览这些论文。
+
+<details>
+<summary><strong>展开原始阅读清单</strong></summary>
 
 ## 0. Datasets
 
@@ -352,3 +366,9 @@ Ruizhe Chen, Dongyu Xue, Xiangxin Zhou, Zaixiang Zheng, xiangxiang Zeng, Quanqua
 **Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design**    
 Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, Junchi Yan  
 [[Paper](https://openreview.net/forum?id=Ja2le9YnqN)] • [[Code](https://github.com/yangnianzu0515/MFDesign)]
+
+</details>
+
+---
+
+<sub>以原始论文为依据 · 自动分类仅作阅读导航 · 欢迎通过 Pull Request 补充与修正</sub>
