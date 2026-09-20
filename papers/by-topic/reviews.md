@@ -4,9 +4,26 @@
 
 # Reviews & Tutorials
 
-**19 papers** · 19 curated · 0 pending review
+**20 papers** · 20 curated · 0 pending review
 
 > Automatically retrieved candidates are not human recommendations.
+
+---
+
+### The past, present and future of de novo protein design.
+
+Curated · Published 2026-04-29 · Added 2026-09-20 · Enzyme · Diffusion
+
+[Paper](<https://doi.org/10.1038/s41586-026-10328-7>)
+
+<details>
+<summary>Authors & source</summary>
+
+Yang W, Wang S, Lee GR, Zhang JZ, Courbet A, Juergens D, Wang X, Schlichthaerle T, Abedi M, Ragotte R, An L, Kalvet I, Pellock S, Mihaljevic L, Glasscock C, Pillai A, Broerman A, Ennist N, Haefner E, McNamara-Bordewick N, Haydon I, Stewart L, Bhardwaj G, Baker D.
+
+Europe PMC · Based on source metadata / abstract
+
+</details>
 
 ---
 

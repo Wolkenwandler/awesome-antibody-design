@@ -1809,5 +1809,394 @@
     "related_dois": [],
     "legacy_section": "3.1 Sequence-Structure Co-design",
     "legacy_entry": "**Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design**    \nNianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, Junchi Yan  \n[[Paper](https://openreview.net/forum?id=Ja2le9YnqN)] • [[Code](https://github.com/yangnianzu0515/MFDesign)]"
+  },
+  {
+    "id": "b28e108a2e5a75cc",
+    "title": "IgGM2: An All-Atom Foundation Model for Adaptive Immune Receptor Design",
+    "authors": "Ma, J.; Wu, F.; Yao, L.; Gao, J.; Wang, R.; Li, Q.; Yang, N.; Jiang, S.; Huang, D.; Pan, X.; Zhu, Y.; Hou, T.; Yao, J.; Yan, J.",
+    "links": {
+      "Paper": "https://doi.org/10.64898/2026.07.09.737510"
+    },
+    "identifiers": {
+      "doi": "10.64898/2026.07.09.737510"
+    },
+    "source": "bioRxiv",
+    "published": "2026-07-09",
+    "abstract": "Accurate immune receptor design requires modeling the coupled variation of aminoacid sequence, full-atom conformation, and target-binding geometry across antibodies, nanobodies, and T-cell receptors (TCRs). Existing methods often address only part of this problem, either by separating structure generation from sequence design, relying on fixed-backbone inverse folding, or focusing on a single receptor class. We introduce IgGM2, a unified all-atom generative framework for immune receptor structure prediction and CDR sequence-structure co-design. IgGM2 follows a structure-to-design strategy: it first learns how immune receptors are positioned around fixed target structures, and then transfers this target-conditioned structural prior to CDR design. Unlike modular design pipelines, IgGM2 jointly generates CDR residue identities and full-atom receptor structures, allowing frame-work geometry to adapt to designed CDRs without separate inverse folding or external sidechain packing. Unlike continuous residue encodings based on virtualatom geometry, IgGM2 keeps sequence prediction explicit while using atom14 placeholders only for full-atom representation. On structure prediction benchmarks, IgGM2 better captures receptor-target spatial relationships than AlphaFold3 on FoldBench and achieves strong performance on TCR-pMHC modeling. On sequence design benchmarks, IgGM2 achieves competitive amino-acid recovery and improves Rosetta-based interface preference metrics, suggesting more favorable generated binding interfaces. These results support IgGM2 as a unified all-atom framework for adaptive immune receptor structure prediction and design.",
+    "topic": "binders",
+    "tags": [
+      "Antibody",
+      "Nanobody",
+      "Inverse folding",
+      "Joint design"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "1"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "c2df1d6d9b2875c3",
+    "title": "BoltzGen: Toward Universal Binder Design",
+    "authors": "Stark, H.; Faltings, F.; Choi, M.; Xie, Y.; Hur, E.; O'Donnell, T. J.; Bushuiev, A.; Ucar, T.; Passaro, S.; Mao, W.; Reveiz, M.; Bushuiev, R.; Portnoi, T.; Pluskal, T.; Sivic, J.; Kreis, K.; Vahdat, A.; Ray, S.; Goldstein, J. T.; Savinov, A.; Hambalek, J. A.; Gupta, A.; Taquiri-Diaz, D. A.; Zhang, Y.; Snyder, S. J.; Hatstat, A. K.; Arada, A.; Kim, N. H.; Fan, H.; Tackie-Yarboi, E.; Boselli, D.; Schnaider, L.; Liu, C. C.; Li, G.-W.; Hnisz, D.; Sabatini, D. M.; DeGrado, W. F.; Wohlwend, J.; Corso, G.; Barzilay, R.; Jaakkola, T.",
+    "links": {
+      "Paper": "https://doi.org/10.1101/2025.11.20.689494",
+      "Code": "https://github.com/HannesStark/boltzgen"
+    },
+    "identifiers": {
+      "doi": "10.1101/2025.11.20.689494"
+    },
+    "source": "bioRxiv",
+    "published": "2026-06-16",
+    "abstract": "We introduce BoltzGen, an all-atom generative model for designing proteins and peptides across all modalities to bind a wide range of biomolecular targets. BoltzGen builds strong structural reasoning capabilities about target-binder interactions into its generative design process. This is achieved by unifying design and structure prediction, resulting in a single model that also reaches state-of-the-art folding performance. BoltzGens generation process can be controlled with a flexible design specification language over covalent bonds, structure constraints, binding sites, and more. We experimentally validate these capabilities in eight diverse design campaigns with functional and affinity readouts across 26 targets. In our experiments, binder modalities span from nanobodies to disulfide-bonded peptides, and targets from disordered proteins to small molecules. In particular, we identify nanobody binders for novel targets with low similarity to proteins with already known bound structures. We release model weights, data, and both inference and training code at: https://github.com/HannesStark/boltzgen.",
+    "topic": "binders",
+    "tags": [
+      "Nanobody",
+      "Peptide"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "2"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "baeaabc8b2578893",
+    "title": "De novo Design of All-atom Biomolecular Interactions with RFdiffusion3",
+    "authors": "Butcher, J.; Krishna, R.; Mitra, R.; Brent, R. I.; Li, Y.; Corley, N.; Kim, P. T.; Funk, J.; Mathis, S. V.; Salike, S.; Muraishi, A.; Eisenach, H.; Thompson, T. R.; Chen, J.; Politanska, Y.; Sehgal, E.; Coventry, B.; Zhang, O.; Qiang, B.; Didi, K.; Kazman, M.; DiMaio, F.; Baker, D.",
+    "links": {
+      "Paper": "https://doi.org/10.1101/2025.09.18.676967"
+    },
+    "identifiers": {
+      "doi": "10.1101/2025.09.18.676967"
+    },
+    "source": "bioRxiv",
+    "published": "2025-11-19",
+    "abstract": "Deep learning has accelerated protein design, but most existing methods are restricted to generating protein backbone coordinates and often neglect interactions with other biomolecules. We present RFdiffusion3 (RFD3), a diffusion model that generates protein structures in the context of ligands, nucleic acids and other non-protein constellations of atoms. Because all polymer atoms are modeled explicitly, conditioning the model on complex sets of atom-level constraints for enzyme design and other challenges is both simpler and more effective than previous approaches. RFD3 achieves improved performance compared to prior approaches on a range of in silico benchmarks with one tenth the computational cost. Finally, we demonstrate the broad applicability of RFD3 by designing and experimentally characterizing DNA binding proteins and cysteine hydrolases. The ability to rapidly generate protein structures guided by complex sets of atom-level constraints in the context of arbitrary non-protein atoms should further expand the range of functions attainable through protein design.",
+    "topic": "generation",
+    "tags": [
+      "Enzyme",
+      "Diffusion"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "2"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "1eb2bb44377c8607",
+    "title": "BoltzProt-1: Towards Efficient De Novo Binder Design with Good Developability",
+    "authors": "Ucar, T.; Bates, J.; Fu, Y.; Shi, W.; Stark, H.; Nava, D.; Cavalleri, L.; Wohlwend, J.; Corso, G.; Passaro, S.",
+    "links": {
+      "Paper": "https://doi.org/10.64898/2026.06.23.733997"
+    },
+    "identifiers": {
+      "doi": "10.64898/2026.06.23.733997"
+    },
+    "source": "bioRxiv",
+    "published": "2026-06-27",
+    "abstract": "Designing binders against novel protein targets remains a central challenge in computational drug discovery. Here we introduce BoltzProt-1, a pipeline for generating protein binders, including nanobodies, with improved hit rates and favorable developability properties. At its core lie a refined iteration of BoltzGens generative model and a novel protein-protein interaction prediction model, BoltzPPI. Employing BoltzPPI instead of BoltzGens standard structure-prediction confidence metrics to rank nanobody (VHH) designs increases the confirmed-binder hit rate from 3.3% to 8.0% across 10 novel targets. Assessed on 10 additional targets used in prior literature, the BoltzProt-1 pipeline obtains nanobody screening hits for 7 of 10 targets, surpassing the 6 of 10 previously reported by Chai-2. Finally, evaluating the developability of BoltzProt-1-designed nanobodies in terms of stability, aggregation, purity, polyspecificity and hydrophobicity reveals that 58% of its confirmed binders pass every criterion, exceeding both BoltzGen (40%) and clinical-stage VHH controls (21%). O_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=104 SRC=\"FIGDIR/small/733997v1_ufig1.gif\" ALT=\"Figure 1\"> View larger version (39K): org.highwire.dtl.DTLVardef@d86de1org.highwire.dtl.DTLVardef@115da7eorg.highwire.dtl.DTLVardef@1bbb4e9org.highwire.dtl.DTLVardef@626a68_HPS_FORMAT_FIGEXP M_FIG C_FIG",
+    "topic": "binders",
+    "tags": [
+      "Nanobody"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "1"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "675302ea43c24a1b",
+    "title": "Dual-Specific Antibody Design Using Artificial Intelligence",
+    "authors": "Peer, M.; Amit, I.; Diesendruck, Y.; Erlich, Z.; Ben David, Y.; Gadrich, M.; Oren, N.; Hartman, T.; Fischman, S.; Nimrod, G.; Strajbl, M.; Haleva, A.; Shilon, R.; Sasson, Y.; Barak-Fuchs, R.; Meir, I.; Danielpur, L.; Mor-Scheerer, Y.; Dubovski, N.; Vana, T.; Hadar, D.; Voropaev, A.; Fastman, Y.; Ofran, Y.",
+    "links": {
+      "Paper": "https://doi.org/10.64898/2026.08.03.742397"
+    },
+    "identifiers": {
+      "doi": "10.64898/2026.08.03.742397"
+    },
+    "source": "bioRxiv",
+    "published": "2026-08-05",
+    "abstract": "Multibodies, or \"two-in-one\" Immunoglobulin G (IgG) antibodies, are standard symmetrical IgG molecules engineered to competitively bind more than one antigen within a single variable fragment (Fv) binding surface. This format merges the functional advantages of bispecifics, such as multi-target binding and dynamic adaptation to target concentrations, with the superior manufacturing, developability, pharmacokinetics, and avidity of monospecific IgGs. Moreover, the co-accommodation of multiple paratopes on a single set of 6 CDRs introduces new functional possibilities that can improve efficacy and safety. Multibodies can, therefore, be thought of as force multipliers: for any format of antibodies, or fragments thereof, multibodies can bind double the number of epitopes compared to standard antibodies. While these advantages were recognized more than 15 years ago, the systematic design of multibodies has been intractable due to the challenge of optimizing two binding specificities into one Fv region, without having one of them compromising the other and without inducing poly-reactivity. To overcome this engineering barrier, we have developed an artificial intelligence (AI)-assisted computational platform that enables the design of functional multibodies against virtually any pair of targets. We applied the platform to design nine multibodies combining 15 different unrelated targets. We obtained therapeutic-grade multibodies that bind each desired pair of targets. We demonstrate that the generated multibodies possess excellent developability, high affinity, and stringent specificity, comparing favorably to clinical monospecific benchmarks. Critically, we show that these multibodies exhibit superior functional activity across a diverse range of mechanisms of action (MOAs), including internalization, T-cell engagement, and immune system modulation. This capability to reliably engineer versatile multibodies opens a new domain in antibody therapeutics, enabling complex multipharmacology and novel functions within a natural, cost-effective, and highly developable format. Two of these multibodies are currently in IND enabling studies, with first in human studies expected in 2026. The timeline from idea to a fully optimized, developable, lead candidate, ready for IND enabling studies, is 9 months.",
+    "topic": "binders",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "1"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "59b7f3cc68130556",
+    "title": "Efficient generation of epitope-targeted antibodies with Germinal.",
+    "authors": "Mille-Fragoso LS, Driscoll CL, Wang JN, Dai H, Widatalla T, Zhang JL, Zhang X, Rao B, Feng L, Hie BL, Gao XJ.",
+    "links": {
+      "Paper": "https://doi.org/10.1038/s41587-026-03187-0",
+      "Code": "https://github.com/SantiagoMille/germinal"
+    },
+    "identifiers": {
+      "doi": "10.1038/s41587-026-03187-0",
+      "pmid": "42337361"
+    },
+    "source": "Europe PMC",
+    "published": "2026-06-23",
+    "abstract": "Obtaining antibodies to specific protein targets is a widely important yet experimentally laborious process. Meanwhile, computational methods for antibody design have been limited by low success rates that require resource-intensive screening. Here we introduce Germinal, a broadly enabling generative pipeline that designs antibodies against specific epitopes with nanomolar binding affinities while requiring only low-n experimental testing. Our method co-optimizes antibody structure and sequence by integrating a structure predictor with an antibody-specific protein language model to perform de novo design of functional complementarity-determining regions onto a user-specified structural framework. When tested against four diverse protein targets, Germinal designed functional antibodies across all targets and binder formats, testing only 43-101 designs for each antigen. Validated designs also exhibited robust expression in mammalian cells and high sequence and structural novelty. We provide open-source code and full computational and experimental protocols to facilitate wide adoption.",
+    "topic": "binders",
+    "tags": [
+      "Antibody",
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "2333b22021370b40",
+    "title": "One-shot design of functional protein binders with BindCraft.",
+    "authors": "Pacesa M, Nickel L, Schellhaas C, Schmidt J, Pyatova E, Kissling L, Barendse P, Choudhury J, Kapoor S, Alcaraz-Serna A, Cho Y, Ghamary KH, Vinué L, Yachnin BJ, Wollacott AM, Buckley S, Westphal AH, Lindhoud S, Georgeon S, Goverde CA, Hatzopoulos GN, Gönczy P, Muller YD, Schwank G, Swarts DC, Vecchio AJ, Schneider BL, Ovchinnikov S, Correia BE.",
+    "links": {
+      "Paper": "https://doi.org/10.1038/s41586-025-09429-6"
+    },
+    "identifiers": {
+      "doi": "10.1038/s41586-025-09429-6",
+      "pmid": "40866699"
+    },
+    "source": "Europe PMC",
+    "published": "2025-08-27",
+    "abstract": "Protein-protein interactions are at the core of all key biological processes. However, the complexity of the structural features that determine protein-protein interactions makes their design challenging. Here we present BindCraft, an open-source and automated pipeline for de novo protein binder design with experimental success rates of 10-100%. BindCraft leverages the weights of AlphaFold2 (ref. 1) to generate binders with nanomolar affinity without the need for high-throughput screening or experimental optimization, even in the absence of known binding sites. We successfully designed binders against a diverse set of challenging targets, including cell-surface receptors, common allergens, de novo designed proteins and multi-domain nucleases, such as CRISPR-Cas9. We showcase the functional and therapeutic potential of designed binders by reducing IgE binding to birch allergen in patient-derived samples, modulating Cas9 gene editing activity and reducing the cytotoxicity of a foodborne bacterial enterotoxin. Last, we use cell-surface-receptor-specific binders to redirect adeno-associated virus capsids for targeted gene delivery. This work represents a significant advancement towards a 'one design-one binder' approach in computational design, with immense potential in therapeutics, diagnostics and biotechnology.",
+    "topic": "binders",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "c90e777723a69c8d",
+    "title": "Miniaturizing and modifying natural proteins with Raygun.",
+    "authors": "Devkota K, Shonai D, Mao J, Ko YS, Wang W, Soderling S, Singh R.",
+    "links": {
+      "Paper": "https://doi.org/10.1038/s41586-026-10842-8"
+    },
+    "identifiers": {
+      "doi": "10.1038/s41586-026-10842-8",
+      "pmid": "42527603"
+    },
+    "source": "Europe PMC",
+    "published": "2026-07-29",
+    "abstract": "Proteins have evolved over billions of years through coordinated substitutions, insertions and deletions, yet computational protein design cannot fully replicate nature's ability to engineer new proteins from existing templates. Protein language models1-3 generate informative per-residue representations, but harnessing them for large-scale, function-preserving sequence modifications has remained beyond reach. Here we introduce Raygun, a generative artificial intelligence framework that enables miniaturization, modification and augmentation of proteins, using a probabilistic encoding of protein sequences constructed from language model embeddings. Our key conceptual advance is to encode each protein not as a sequence of variable length in high-dimensional space, but as a probability distribution in fixed dimensions, making proteins of any length directly commensurable. Controlled by just two parameters governing substitutions and length changes, Raygun can shrink proteins by 10-25% (sometimes more than 50%), expand them beyond their natural size, and introduce extensive sequence diversity, all while preserving predicted structural integrity and functional sites. In cell-based validation, Raygun miniaturized fluorescent proteins (2 shorter than 96% of fluorescent proteins in FPbase) and TurboID, a synthetic biotin ligase that has been widely adopted for proteomics. It also expanded epidermal growth factor (EGF), generating variants with higher EGFR-binding affinity than the wild type. These results show that protein function can be faithfully captured in a length-agnostic representation, enabling the kind of coordinated, large-scale sequence modifications that characterize natural protein evolution.",
+    "topic": "engineering",
+    "tags": [
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "7726033756dbaaf8",
+    "title": "Zero-shot design of drug-binding proteins via neural iterative selection-expansion.",
+    "authors": "Fry B, Slaw K, Polizzi NF.",
+    "links": {
+      "Paper": "https://doi.org/10.1038/s41586-026-10670-w"
+    },
+    "identifiers": {
+      "doi": "10.1038/s41586-026-10670-w",
+      "pmid": "42343133"
+    },
+    "source": "Europe PMC",
+    "published": "2026-06-24",
+    "abstract": "The design of proteins that bind to small molecules has been challenging because it requires simultaneous optimization of the protein sequence, protein structure and ligand conformation1-7. Current deep-learning algorithms have struggled to navigate this landscape, precluding the zero-shot design of binders. Here we show that by combining two neural networks in an iterative design algorithm, small-molecule binding proteins can be created from scratch with high accuracy. We trained a graph neural network-ligand-aware sequence engineering message-passing neural network (LASErMPNN)-to design compatible protein sequences for an input protein backbone and docked ligand. We paired LASErMPNN with a structure predictor that models a three-dimensional protein-ligand complex for an input protein sequence and ligand identity. The closed-loop iteration of these reciprocal networks optimized sequence-structure-ligand compatibility, and outperformed a comparable design loop using a physics-based energy function. We used our strategy, termed neural iterative selection-expansion (NISE), to design proteins that, using different folds, specifically bind to two chemically distinct small-molecule drugs, exatecan and apixaban, with success rates of 100% and 83%, respectively. The tightest NISE binders had nanomolar-to-picomolar affinities, surpassing those of the next-leading method by 70-fold for exatecan and nearly 10,000-fold for apixaban. LASErMPNN then suggested two amino-acid substitutions that improved the affinity of the tightest exatecan binder by 100-fold without any experimental input. The optimized binder protected the labile lactone ring of exatecan from hydrolysis for days. Our work describes a general recipe for using neural networks to automate the design of small-molecule binding proteins for applications in drug delivery, sensing and catalysis.",
+    "topic": "binders",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "c00d7362eb24177b",
+    "title": "The past, present and future of de novo protein design.",
+    "authors": "Yang W, Wang S, Lee GR, Zhang JZ, Courbet A, Juergens D, Wang X, Schlichthaerle T, Abedi M, Ragotte R, An L, Kalvet I, Pellock S, Mihaljevic L, Glasscock C, Pillai A, Broerman A, Ennist N, Haefner E, McNamara-Bordewick N, Haydon I, Stewart L, Bhardwaj G, Baker D.",
+    "links": {
+      "Paper": "https://doi.org/10.1038/s41586-026-10328-7"
+    },
+    "identifiers": {
+      "doi": "10.1038/s41586-026-10328-7",
+      "pmid": "42056544"
+    },
+    "source": "Europe PMC",
+    "published": "2026-04-29",
+    "abstract": "With deep-learning-powered advances in protein design methods, there is an ongoing paradigm shift in protein engineering from random selection to intentional computational design methods. Here we describe the current state of de novo protein design. While there is still room for improvement in success rates and activities, the long-standing challenges of designing new protein structures, assemblies and protein binders are close to being solved. The key current questions in these areas are not how to design, but what to design, and open-source design methodology such as RFdiffusion and ProteinMPNN together with protein structure prediction tools enable biochemists and molecular biologists to broadly explore possible applications. There has also been considerable progress in the de novo design of small-molecule target binders, enzymes and multistate protein systems. Current challenges for methods development include design of catalysts for reactions with high energy barriers and, more generally, design of switches and nanomachines that integrate binding, conformational change and catalysis. Over the next five to ten years, we anticipate the design of sophisticated protein nanomachines and materials with functionality ranging far beyond that generated during natural evolution for a wide range of applications in medicine, technology and sustainability.",
+    "topic": "reviews",
+    "tags": [
+      "Enzyme",
+      "Diffusion"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "e4bd94d60a4e97b8",
+    "title": "Zero-shot antibody design in a 24-well plate",
+    "authors": "Chai Discovery, ; Boitreaud, J.; Dent, J.; Geisz, D.; McPartlon, M.; Meier, J.; Qiao, Z.; Rogozhnikov, A.; Rollins, N.; Wollenhaupt, P.; Wu, K.",
+    "links": {
+      "Paper": "https://doi.org/10.1101/2025.07.05.663018"
+    },
+    "identifiers": {
+      "doi": "10.1101/2025.07.05.663018"
+    },
+    "source": "bioRxiv",
+    "published": "2025-07-06",
+    "abstract": "Despite breakthroughs in protein design enabled by artificial intelligence, reliably designing functional antibodies from scratch has remained an elusive challenge. Recent works show promise but still require large-scale experimental screening of thousands to millions of designs to reliably identify hits. In this work, we introduce Chai-2, a multimodal generative model that achieves a 16% hit rate in fully de novo antibody design, representing an over 100-fold improvement compared to previous computational methods. We prompt Chai-2 to design[≤] 20 antibodies or nanobodies to 52 diverse targets, completing the workflow from AI design to wet-lab validation in under two weeks. Crucially, none of these targets have a preexisting antibody or nanobody binder in the Protein Data Bank. Remarkably, in just a single round of experimental testing, we find at least one successful hit for 50% of targets, often with strong affinities and favorable drug-like profiles. Beyond antibody design, Chai-2 achieves a 68% wet-lab success rate in miniprotein design - routinely yielding picomolar binders. The high success rate of Chai-2 enables rapid experimental validation and characterization of novel antibodies in under two weeks, paving the way toward a new era of rapid and precise atomic-level molecular engineering. O_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=56 SRC=\"FIGDIR/small/663018v1_ufig1.gif\" ALT=\"Figure 1\"> View larger version (38K): org.highwire.dtl.DTLVardef@69655borg.highwire.dtl.DTLVardef@17d44dborg.highwire.dtl.DTLVardef@133b7ddorg.highwire.dtl.DTLVardef@6c4319_HPS_FORMAT_FIGEXP M_FIG 52 antigens targeted by Chai-2. Blue boxes indicate targets with at least one successful binder out of [≤]20 assayed designs, representing 50% of the tested targets. Date: June 30, 2025 C_FIG",
+    "topic": "binders",
+    "tags": [
+      "Antibody",
+      "Nanobody"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "1"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "a5aa0fedf25087d8",
+    "title": "Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction",
+    "authors": "Passaro, S.; Corso, G.; Wohlwend, J.; Reveiz, M.; Thaler, S.; Ram Somnath, V.; Getz, N.; Portnoi, T.; Roy, J.; Stark, H.; Kwabi-Addo, D.; Beaini, D.; Jaakkola, T.; Barzilay, R.",
+    "links": {
+      "Paper": "https://doi.org/10.1101/2025.06.14.659707"
+    },
+    "identifiers": {
+      "doi": "10.1101/2025.06.14.659707"
+    },
+    "source": "bioRxiv",
+    "published": "2025-06-18",
+    "abstract": "Accurately modeling biomolecular interactions is a central challenge in modern biology. While recent advances, such as AlphaFold3 and Boltz-1, have substantially improved our ability to predict biomolecular complex structures, these models still fall short in predicting binding affinity, a critical property underlying molecular function and therapeutic efficacy. Here, we present Boltz-2, a new structural biology foundation model that exhibits strong performance for both structure and affinity prediction. Boltz-2 introduces controllability features including experimental method conditioning, distance constraints, and multi-chain template integration for structure prediction, and is, to our knowledge, the first AI model to approach the performance of free-energy perturbation (FEP) methods in estimating small molecule-protein binding affinity. Crucially, it achieves strong correlation with experimental readouts on many benchmarks, while being at least 1000x more computationally efficient than FEP. By coupling Boltz-2 with a generative model for small molecules, we demonstrate an effective workflow to find diverse, synthesizable, high-affinity binders, as estimated by absolute FEP simulations on the TYK2 target. To foster broad adoption and further innovation at the intersection of machine learning and biology, we are releasing Boltz-2 weights, inference, and training code 1 under a permissive open license, providing a robust and extensible foundation for both academic and industrial research.",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "1"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "90d5c13c6cf200f8",
+    "title": "Protenix-v1: Toward High-Accuracy Open-Source Biomolecular Structure Prediction",
+    "authors": "Zhang, Y.; Gong, C.; Zhang, H.; Ma, W.; Liu, Z.; Chen, X.; Guan, J.; Wang, L.; Yang, Y.; Xia, Y.; Xiao, W.",
+    "links": {
+      "Paper": "https://doi.org/10.64898/2026.02.05.703733",
+      "Code": "https://github.com/bytedance/Protenix"
+    },
+    "identifiers": {
+      "doi": "10.64898/2026.02.05.703733"
+    },
+    "source": "bioRxiv",
+    "published": "2026-02-22",
+    "abstract": "We introduce Protenix-v1 (PX-v1), the first fully open-source structure prediction model to attain superior performance to AlphaFold3 while strictly adhering to the same training data cutoff, model size, and inference budget. Beyond standard evaluations, we highlight the effectiveness of inference-time scaling behavior of Protenix-v1, demonstrating that increasing the sampling budget yields consistent improvements in prediction quality--a behavior previously observed in AlphaFold3 and largely absent from prior open-source models. In addition to improved accuracy, Protenix-v1 incorporates key capabilities including protein template integration and RNA MSA support. Furthermore, to better support real-world applications such as drug discovery, we additionally release Protenix-v1-20250630, a variant trained on a larger dataset (cutoff: June 30, 2025), delivering further improved prediction accuracy. Finally, we identify limitations in existing benchmarking practices and provide updated evaluation tools and year-stratified benchmarks to support more reliable and transparent assessment. Collectively, these contributions provide a robust foundation for the Protenix series and the broader field.",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "3"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "3ed502868dcfa347",
+    "title": "Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Design",
+    "authors": "Zhang, Y.; Gong, C.; Sun, J.; Guan, J.; Ren, M.; Xue, S.; Zhang, H.; Ma, W.; Liu, Z.; Chen, X.; Xiao, W.",
+    "links": {
+      "Paper": "https://doi.org/10.64898/2026.04.10.717613",
+      "Code": "https://github.com/bytedance/Protenix"
+    },
+    "identifiers": {
+      "doi": "10.64898/2026.04.10.717613"
+    },
+    "source": "bioRxiv",
+    "published": "2026-04-11",
+    "abstract": "Advances in biomolecular modeling have broadened the range of problems addressable by structure prediction and design models. Here, we present results from Protenix-v2, a system spanning high-accuracy structure prediction and biomolecular design. On the structure prediction side, Protenix-v2 achieves antibody-antigen success rates with up to 13-point gains over Protenix-v1, while 5-seed performance surpasses previous 1000-seed results. On the design side, Protenix-v2 demonstrates a 100% target-level success rate in novelty-controlled VHH-Fc campaigns, reaching hit rates up to 48%. Crucially, the model enables hit discovery on difficult GPCR targets with hit rates of 16%-88% (VHH-Fc) and up to 50% (mAb) under 16-30 testing budgets per target. Resulting hits show high developability and diversity. Beyond antibody tasks, we report improved ligand-related plausibility and successful cross-variant SARS-CoV-2 spike RBD mini-binder design. These results establish Protenix-v2 as a robust and powerful model for accelerated drug discovery.",
+    "topic": "prediction",
+    "tags": [
+      "Antibody",
+      "Nanobody"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [
+      "1"
+    ],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
+  },
+  {
+    "id": "8a9f7b66ced76da7",
+    "title": "Simulating 500 million years of evolution with a language model.",
+    "authors": "Hayes T, Rao R, Akin H, Sofroniew NJ, Oktay D, Lin Z, Verkuil R, Tran VQ, Deaton J, Wiggert M, Badkundri R, Shafkat I, Gong J, Derry A, Molina RS, Thomas N, Khan YA, Mishra C, Kim C, Bartie LJ, Nemeth M, Hsu PD, Sercu T, Candido S, Rives A.",
+    "links": {
+      "Paper": "https://doi.org/10.1126/science.ads0018"
+    },
+    "identifiers": {
+      "doi": "10.1126/science.ads0018",
+      "pmid": "39818825"
+    },
+    "source": "Europe PMC",
+    "published": "2025-01-16",
+    "abstract": "More than 3 billion years of evolution have produced an image of biology encoded into the space of natural proteins. Here, we show that language models trained at scale on evolutionary data can generate functional proteins that are far away from known proteins. We present ESM3, a frontier multimodal generative language model that reasons over the sequence, structure, and function of proteins. ESM3 can follow complex prompts combining its modalities and is highly responsive to alignment to improve its fidelity. We have prompted ESM3 to generate fluorescent proteins. Among the generations that we synthesized, we found a bright fluorescent protein at a far distance (58% sequence identity) from known fluorescent proteins, which we estimate is equivalent to simulating 500 million years of evolution.",
+    "topic": "foundations",
+    "tags": [
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "2026-09-20",
+    "versions": [],
+    "evidence": "source metadata and abstract reviewed; full text not reviewed",
+    "related_dois": [],
+    "reviewed_on": "2026-09-20"
   }
 ]

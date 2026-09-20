@@ -4,9 +4,60 @@
 
 # Structure & Interaction Prediction
 
-**19 papers** · 19 curated · 0 pending review
+**22 papers** · 22 curated · 0 pending review
 
 > Automatically retrieved candidates are not human recommendations.
+
+---
+
+### Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Design
+
+Curated · Published 2026-04-11 · Added 2026-09-20 · Antibody · Nanobody
+
+[Paper](<https://doi.org/10.64898/2026.04.10.717613>) · [Code](<https://github.com/bytedance/Protenix>)
+
+<details>
+<summary>Authors & source</summary>
+
+Zhang, Y.; Gong, C.; Sun, J.; Guan, J.; Ren, M.; Xue, S.; Zhang, H.; Ma, W.; Liu, Z.; Chen, X.; Xiao, W.
+
+bioRxiv · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Protenix-v1: Toward High-Accuracy Open-Source Biomolecular Structure Prediction
+
+Curated · Published 2026-02-22 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.64898/2026.02.05.703733>) · [Code](<https://github.com/bytedance/Protenix>)
+
+<details>
+<summary>Authors & source</summary>
+
+Zhang, Y.; Gong, C.; Zhang, H.; Ma, W.; Liu, Z.; Chen, X.; Guan, J.; Wang, L.; Yang, Y.; Xia, Y.; Xiao, W.
+
+bioRxiv · Based on source metadata / abstract
+
+</details>
+
+---
+
+### Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction
+
+Curated · Published 2025-06-18 · Added 2026-09-20
+
+[Paper](<https://doi.org/10.1101/2025.06.14.659707>)
+
+<details>
+<summary>Authors & source</summary>
+
+Passaro, S.; Corso, G.; Wohlwend, J.; Reveiz, M.; Thaler, S.; Ram Somnath, V.; Getz, N.; Portnoi, T.; Roy, J.; Stark, H.; Kwabi-Addo, D.; Beaini, D.; Jaakkola, T.; Barzilay, R.
+
+bioRxiv · Based on source metadata / abstract
+
+</details>
 
 ---
 

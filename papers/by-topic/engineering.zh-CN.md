@@ -4,15 +4,26 @@
 
 # 功能与性质工程
 
-**0 篇论文** · 0 篇精选 · 0 篇待审核
+**1 篇论文** · 1 篇精选 · 0 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
 
 ---
 
-### 持续整理中
+### Miniaturizing and modifying natural proteins with Raygun.
 
-这个方向暂未收录论文。后续检索到的相关工作会在这里展示。
+精选 · 发表 2026-07-29 · 收录 2026-09-20 · 语言模型
+
+[论文](<https://doi.org/10.1038/s41586-026-10842-8>)
+
+<details>
+<summary>作者与来源</summary>
+
+Devkota K, Shonai D, Mao J, Ko YS, Wang W, Soderling S, Singh R.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 

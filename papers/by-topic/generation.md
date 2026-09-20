@@ -4,9 +4,26 @@
 
 # Backbone Generation & Joint Design
 
-**3 papers** · 3 curated · 0 pending review
+**4 papers** · 4 curated · 0 pending review
 
 > Automatically retrieved candidates are not human recommendations.
+
+---
+
+### De novo Design of All-atom Biomolecular Interactions with RFdiffusion3
+
+Curated · Published 2025-11-19 · Added 2026-09-20 · Enzyme · Diffusion
+
+[Paper](<https://doi.org/10.1101/2025.09.18.676967>)
+
+<details>
+<summary>Authors & source</summary>
+
+Butcher, J.; Krishna, R.; Mitra, R.; Brent, R. I.; Li, Y.; Corley, N.; Kim, P. T.; Funk, J.; Mathis, S. V.; Salike, S.; Muraishi, A.; Eisenach, H.; Thompson, T. R.; Chen, J.; Politanska, Y.; Sehgal, E.; Coventry, B.; Zhang, O.; Qiang, B.; Didi, K.; Kazman, M.; DiMaio, F.; Baker, D.
+
+bioRxiv · Based on source metadata / abstract
+
+</details>
 
 ---
 

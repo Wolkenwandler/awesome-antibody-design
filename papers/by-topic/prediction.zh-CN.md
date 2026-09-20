@@ -4,9 +4,60 @@
 
 # 结构与相互作用预测
 
-**19 篇论文** · 19 篇精选 · 0 篇待审核
+**22 篇论文** · 22 篇精选 · 0 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
+
+---
+
+### Protenix-v2: Broadening the Reach of Structure Prediction and Biomolecular Design
+
+精选 · 发表 2026-04-11 · 收录 2026-09-20 · 抗体 · 纳米抗体
+
+[论文](<https://doi.org/10.64898/2026.04.10.717613>) · [代码](<https://github.com/bytedance/Protenix>)
+
+<details>
+<summary>作者与来源</summary>
+
+Zhang, Y.; Gong, C.; Sun, J.; Guan, J.; Ren, M.; Xue, S.; Zhang, H.; Ma, W.; Liu, Z.; Chen, X.; Xiao, W.
+
+bioRxiv · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Protenix-v1: Toward High-Accuracy Open-Source Biomolecular Structure Prediction
+
+精选 · 发表 2026-02-22 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.64898/2026.02.05.703733>) · [代码](<https://github.com/bytedance/Protenix>)
+
+<details>
+<summary>作者与来源</summary>
+
+Zhang, Y.; Gong, C.; Zhang, H.; Ma, W.; Liu, Z.; Chen, X.; Guan, J.; Wang, L.; Yang, Y.; Xia, Y.; Xiao, W.
+
+bioRxiv · 基于来源元数据 / 摘要整理
+
+</details>
+
+---
+
+### Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction
+
+精选 · 发表 2025-06-18 · 收录 2026-09-20
+
+[论文](<https://doi.org/10.1101/2025.06.14.659707>)
+
+<details>
+<summary>作者与来源</summary>
+
+Passaro, S.; Corso, G.; Wohlwend, J.; Reveiz, M.; Thaler, S.; Ram Somnath, V.; Getz, N.; Portnoi, T.; Roy, J.; Stark, H.; Kwabi-Addo, D.; Beaini, D.; Jaakkola, T.; Barzilay, R.
+
+bioRxiv · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 

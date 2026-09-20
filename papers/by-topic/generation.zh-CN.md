@@ -4,9 +4,26 @@
 
 # 骨架生成与联合设计
 
-**3 篇论文** · 3 篇精选 · 0 篇待审核
+**4 篇论文** · 4 篇精选 · 0 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
+
+---
+
+### De novo Design of All-atom Biomolecular Interactions with RFdiffusion3
+
+精选 · 发表 2025-11-19 · 收录 2026-09-20 · 酶 · 扩散模型
+
+[论文](<https://doi.org/10.1101/2025.09.18.676967>)
+
+<details>
+<summary>作者与来源</summary>
+
+Butcher, J.; Krishna, R.; Mitra, R.; Brent, R. I.; Li, Y.; Corley, N.; Kim, P. T.; Funk, J.; Mathis, S. V.; Salike, S.; Muraishi, A.; Eisenach, H.; Thompson, T. R.; Chen, J.; Politanska, Y.; Sehgal, E.; Coventry, B.; Zhang, O.; Qiang, B.; Didi, K.; Kazman, M.; DiMaio, F.; Baker, D.
+
+bioRxiv · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 

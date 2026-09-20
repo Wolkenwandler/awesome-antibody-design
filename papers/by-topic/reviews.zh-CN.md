@@ -4,9 +4,26 @@
 
 # 综述与入门
 
-**19 篇论文** · 19 篇精选 · 0 篇待审核
+**20 篇论文** · 20 篇精选 · 0 篇待审核
 
 > 待审核条目来自自动检索，不代表人工推荐。
+
+---
+
+### The past, present and future of de novo protein design.
+
+精选 · 发表 2026-04-29 · 收录 2026-09-20 · 酶 · 扩散模型
+
+[论文](<https://doi.org/10.1038/s41586-026-10328-7>)
+
+<details>
+<summary>作者与来源</summary>
+
+Yang W, Wang S, Lee GR, Zhang JZ, Courbet A, Juergens D, Wang X, Schlichthaerle T, Abedi M, Ragotte R, An L, Kalvet I, Pellock S, Mihaljevic L, Glasscock C, Pillai A, Broerman A, Ennist N, Haefner E, McNamara-Bordewick N, Haydon I, Stewart L, Bhardwaj G, Baker D.
+
+Europe PMC · 基于来源元数据 / 摘要整理
+
+</details>
 
 ---
 
