@@ -67,9 +67,18 @@ def tags(text):
 
 
 def relevant(title, abstract):
-    text = (title + ' ' + abstract).lower()
-    return (any(word.lower() in text for word in CONFIG['objects'])
-            and any(word in text for word in CONFIG['methods']))
+    title = clean(title).lower()
+    text = title + ' ' + clean(abstract).lower()
+    # Require explicit design/modeling concepts, not unrelated co-occurrences
+    # such as "liver enzymes" plus "machine learning" in a clinical paper.
+    def has_phrase(value):
+        return any(re.search(r'(?<!\w)' + re.escape(phrase) + r's?(?!\w)', value)
+                   for phrase in CONFIG['scope_phrases'])
+    subject_title = re.search(r'\b(proteins?|antibod(?:y|ies)|nanobod(?:y|ies)|binders?|enzymes?|peptides?|biomolecular|plm|esmfold\d*|alphafold\d*)\b', title)
+    return (has_phrase(title)
+            or (bool(subject_title) and has_phrase(text))
+            or any(re.search(pattern, title) for pattern in CONFIG['scope_title_patterns']))
+
 
 
 def record(title, authors, url, source, date='', abstract='', ids=None, version=''):

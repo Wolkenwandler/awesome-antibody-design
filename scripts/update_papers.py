@@ -24,9 +24,10 @@ def request(url, xml=False):
 
 
 def europepmc(start, end, max_pages):
-    objects = ' OR '.join(CONFIG['objects'])
-    methods = ' OR '.join('"' + w + '"' for w in CONFIG['methods'])
-    query = f'({objects}) AND ({methods}) AND FIRST_IDATE:[{start} TO {end}]'
+    scope = ' OR '.join('TITLE_ABS:"' + w + '"' for w in CONFIG['scope_phrases'])
+    objects = ' OR '.join('TITLE:' + w for w in CONFIG['objects'])
+    methods = ' OR '.join('TITLE:"' + w + '"' for w in CONFIG['methods'])
+    query = f'(({scope}) OR (({objects}) AND ({methods}))) AND FIRST_IDATE:[{start} TO {end}]'
     cursor = '*'
     for _ in range(max_pages):
         data = request('https://www.ebi.ac.uk/europepmc/webservices/rest/search?' + urllib.parse.urlencode(
@@ -54,7 +55,7 @@ def biorxiv(start, end, max_pages):
         data = request(f'https://api.biorxiv.org/details/biorxiv/{start}/{end}/{cursor}')
         message = data['messages'][0]
         if message.get('status') != 'ok':
-            raise RuntimeError('bioRxiv returned non-ok status')
+            raise RuntimeError('bioRxiv returned status: ' + str(message))
         rows = data['collection']
         for row in rows:
             p = record(row['title'], row.get('authors', ''), 'https://doi.org/' + row['doi'],
@@ -112,8 +113,10 @@ def main():
     if not 1 <= args.days <= 90 or not 1 <= args.max_pages <= 500 or not 0 <= (args.end - start).days < 90:
         parser.error('Use a 1–90 day interval and 1–500 pages per source')
     papers = read_json(ROOT / 'data/papers.json')
+    filtered = [p['title'] for p in papers if p['status'] == 'candidate' and not relevant(p['title'], p.get('abstract', ''))]
+    papers = [p for p in papers if p['status'] != 'candidate' or relevant(p['title'], p.get('abstract', ''))]
     exclusions = read_json(ROOT / 'data/exclusions.json')
-    report = {'start': str(start), 'end': str(args.end), 'sources': {}, 'changes': []}
+    report = {'start': str(start), 'end': str(args.end), 'sources': {}, 'changes': [], 'filtered_candidates': filtered}
     failed = False
     for name, fetch in [('Europe PMC', europepmc), ('bioRxiv', biorxiv), ('arXiv', arxiv)]:
         try:

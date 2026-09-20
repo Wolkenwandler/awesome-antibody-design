@@ -58,3 +58,9 @@ python3 scripts/update_papers.py --start 2026-09-01 --end 2026-09-07
 Local offline migration, rendering and unit tests were authorized for this implementation. Live API behavior, repository permissions and remote PR creation require verification in GitHub Actions. No scientific experiment is involved.
 
 References: [GitHub scheduling](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows), [create-pull-request](https://github.com/peter-evans/create-pull-request), [Europe PMC](https://europepmc.org/RestfulWebService), [bioRxiv](https://api.biorxiv.org/), [arXiv](https://info.arxiv.org/help/api/user-manual.html).
+
+## Historical backfill
+
+Use the workflow's `backfill_start` and optional `backfill_end` inputs for a one-time historical update. Retrieval runs in contiguous calendar-month windows, with at most 24 batches, a 110-minute retrieval budget and a 120-minute job limit. Each batch is capped at 30 minutes. The first failed batch stops the sequence and preserves successful data and per-window reports in the artifact. Resume from the failed window after diagnosis; do not claim full coverage from an incomplete run.
+
+Retrieval now uses explicit protein-design/modeling phrases and title context to reduce unrelated clinical results. Existing unreviewed candidates are re-filtered; human-curated entries are preserved. This remains a discovery filter, not a substitute for scientific review.

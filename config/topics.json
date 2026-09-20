@@ -9,16 +9,115 @@
     "binders": "Target-specific Binder Design",
     "engineering": "Function & Property Engineering"
   },
-  "objects": ["protein", "antibody", "antibodies", "nanobody", "nanobodies", "enzyme", "peptide", "immunoglobulin", "VHH"],
-  "methods": ["design", "engineering", "deep learning", "machine learning", "language model", "diffusion", "flow matching", "inverse folding", "structure prediction", "foundation model", "generative", "affinity maturation"],
+  "objects": [
+    "protein",
+    "antibody",
+    "antibodies",
+    "nanobody",
+    "nanobodies",
+    "enzyme",
+    "peptide",
+    "immunoglobulin",
+    "VHH"
+  ],
+  "methods": [
+    "design",
+    "engineering",
+    "deep learning",
+    "machine learning",
+    "language model",
+    "diffusion",
+    "flow matching",
+    "inverse folding",
+    "structure prediction",
+    "foundation model",
+    "generative",
+    "affinity maturation"
+  ],
   "rules": {
-    "reviews": ["review", "survey", "perspective", "primer"],
-    "datasets": ["database", "dataset", "benchmark"],
-    "binders": ["binder design", "antibody design", "nanobody design", "antigen-specific", "target-specific"],
-    "sequence": ["inverse folding", "sequence design", "sequence generation", "infilling"],
-    "generation": ["co-design", "codesign", "joint design", "backbone", "scaffolding"],
-    "prediction": ["structure prediction", "docking", "complex prediction", "folding"],
-    "engineering": ["affinity", "stability", "solubility", "humanization", "developability", "enzyme", "optimization"],
-    "foundations": ["language model", "representation", "foundation model"]
-  }
+    "reviews": [
+      "review",
+      "survey",
+      "perspective",
+      "primer"
+    ],
+    "datasets": [
+      "database",
+      "dataset",
+      "benchmark"
+    ],
+    "binders": [
+      "binder design",
+      "antibody design",
+      "nanobody design",
+      "antigen-specific",
+      "target-specific"
+    ],
+    "sequence": [
+      "inverse folding",
+      "sequence design",
+      "sequence generation",
+      "infilling"
+    ],
+    "generation": [
+      "co-design",
+      "codesign",
+      "joint design",
+      "backbone",
+      "scaffolding"
+    ],
+    "prediction": [
+      "structure prediction",
+      "docking",
+      "complex prediction",
+      "folding"
+    ],
+    "engineering": [
+      "affinity",
+      "stability",
+      "solubility",
+      "humanization",
+      "developability",
+      "enzyme",
+      "optimization"
+    ],
+    "foundations": [
+      "language model",
+      "representation",
+      "foundation model"
+    ]
+  },
+  "scope_phrases": [
+    "protein design",
+    "antibody design",
+    "nanobody design",
+    "binder design",
+    "peptide design",
+    "enzyme design",
+    "protein engineering",
+    "antibody engineering",
+    "enzyme engineering",
+    "protein language model",
+    "antibody language model",
+    "protein foundation model",
+    "protein sequence generation",
+    "protein structure prediction",
+    "antibody structure prediction",
+    "protein inverse folding",
+    "inverse folding",
+    "protein generation",
+    "protein generative",
+    "protein co-design",
+    "protein codesign",
+    "sequence-structure co-design",
+    "protein backbone",
+    "motif scaffolding",
+    "antibody humanization",
+    "antibody developability",
+    "affinity maturation"
+  ],
+  "scope_title_patterns": [
+    "\\b(?:protein|antibod(?:y|ies)|nanobod(?:y|ies)|binder|enzyme|peptide)s?\\b.{0,65}\\b(?:design|engineering|generati\\w*|language model|foundation model|inverse folding|structure prediction|optimization|humanization|developability|benchmark|dataset|database)\\b",
+    "\\b(?:design|engineering|generati\\w*|language model|foundation model|inverse folding|structure prediction|optimization|humanization|developability)\\b.{0,65}\\b(?:protein|antibod(?:y|ies)|nanobod(?:y|ies)|binder|enzyme|peptide)s?\\b"
+  ]
 }

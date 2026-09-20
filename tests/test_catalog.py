@@ -47,6 +47,9 @@ class CatalogTests(unittest.TestCase):
         self.assertTrue(relevant('Antibody design', ''))
         self.assertTrue(relevant('Protein language models', ''))
         self.assertFalse(relevant('Clinical antibody trial', 'patient outcomes'))
+        self.assertFalse(relevant('Prediction of diabetes using liver enzymes', 'We use machine learning to analyze protein biomarkers.'))
+        self.assertFalse(relevant('Antibody therapy for Ebola', 'We review clinical trial design.'))
+        self.assertTrue(relevant('Learning to generate binders', 'We introduce a protein language model for binder design.'))
 
     def test_render_is_deterministic(self):
         render()

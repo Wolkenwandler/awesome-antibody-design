@@ -8,6 +8,14 @@ on:
         description: Lookback days (1–90; blank uses 14, or 60 on Sunday)
         required: false
         default: ''
+      backfill_start:
+        description: Optional historical start date (YYYY-MM-DD; at most 24 months)
+        required: false
+        default: ''
+      backfill_end:
+        description: Optional historical end date (YYYY-MM-DD; defaults to today)
+        required: false
+        default: ''
 permissions:
   contents: write
   pull-requests: write
@@ -17,7 +25,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -39,13 +47,21 @@ jobs:
         continue-on-error: true
         env:
           REQUESTED_DAYS: ${{ inputs.days }}
+          BACKFILL_START: ${{ inputs.backfill_start }}
+          BACKFILL_END: ${{ inputs.backfill_end }}
         run: |
+          if [ -n "$BACKFILL_START" ]; then
+            args=(--start "$BACKFILL_START")
+            if [ -n "$BACKFILL_END" ]; then args+=(--end "$BACKFILL_END"); fi
+            python scripts/backfill_papers.py "${args[@]}"
+            exit $?
+          fi
           days="${REQUESTED_DAYS}"
           if [ -z "$days" ]; then
             days=14
             if [ "$(date -u +%u)" = 7 ]; then days=60; fi
           fi
-          python scripts/update_papers.py --days "$days"
+          timeout 45m python scripts/update_papers.py --days "$days"
       - name: Publish run summary
         if: always()
         run: |

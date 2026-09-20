@@ -58,3 +58,9 @@ python3 scripts/update_papers.py --start 2026-09-01 --end 2026-09-07
 本次经用户明确授权执行本地离线迁移、页面生成和单元测试。真实接口请求、GitHub token 权限及远端 PR 创建尚未执行，部署后需用手动 Actions 完成首次联网验证。本任务无科研实验。
 
 参考：[GitHub 调度](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows)、[create-pull-request](https://github.com/peter-evans/create-pull-request)、[Europe PMC](https://europepmc.org/RestfulWebService)、[bioRxiv](https://api.biorxiv.org/)、[arXiv](https://info.arxiv.org/help/api/user-manual.html)。
+
+## 历史补录
+
+手动运行时填写 `backfill_start` 和可选的 `backfill_end`。按连续自然月分批，最多 24 批，采集预算 110 分钟，工作流上限 120 分钟，单批上限 30 分钟。首个失败批次即停止，已成功数据和每月报告保留在 artifact；诊断后从失败窗口恢复，未完成的运行不代表完整覆盖。
+
+检索采用明确的蛋白设计/建模主题短语和标题线索，降低无关临床论文误收。已有待审核候选会重新筛选，人工精选不受影响；自动筛选不替代科学审阅。

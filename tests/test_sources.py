@@ -39,3 +39,14 @@ class SourceTests(unittest.TestCase):
         request.return_value = ET.fromstring('<feed/>')
         with self.assertRaises(RuntimeError):
             list(arxiv('2026-09-01', '2026-09-02', 1))
+
+
+class BackfillTests(unittest.TestCase):
+    def test_calendar_windows_are_contiguous(self):
+        from datetime import date, timedelta
+        from backfill_papers import windows
+        result = list(windows(date(2025, 12, 26), date(2026, 3, 2)))
+        self.assertEqual(result[0], (date(2025, 12, 26), date(2025, 12, 31)))
+        self.assertEqual(result[-1], (date(2026, 3, 1), date(2026, 3, 2)))
+        for left, right in zip(result, result[1:]):
+            self.assertEqual(left[1] + timedelta(days=1), right[0])
