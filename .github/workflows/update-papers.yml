@@ -67,6 +67,7 @@ jobs:
           body-path: .run/summary.md
           add-paths: |
             README.md
+            README.zh-CN.md
             data/papers.json
             papers/
       - name: Surface incomplete retrieval

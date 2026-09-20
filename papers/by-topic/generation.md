@@ -1,25 +1,27 @@
-[首页](../../README.md) / [最近收录](../latest.md) / [抗体专题](../antibody.md)
+**English** · [中文](generation.zh-CN.md)
+
+[Home](../../README.md) / [Latest](../latest.md) / [Antibodies](../antibody.md)
 
 # Backbone Generation & Joint Design
 
-**3 篇论文** · 3 篇精选 · 0 篇待审核
+**3 papers** · 3 curated · 0 pending review
 
-> 待审核条目来自自动检索，不代表人工推荐。
+> Automatically retrieved candidates are not human recommendations.
 
 ---
 
 ### Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design
 
-精选 · Antibody · Joint design
+Curated · Antibody · Joint design
 
 [Paper](<https://openreview.net/forum?id=Ja2le9YnqN>) · [Code](<https://github.com/yangnianzu0515/MFDesign>)
 
 <details>
-<summary>作者与来源</summary>
+<summary>Authors & source</summary>
 
 Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, Junchi Yan
 
-人工精选，元数据尚未重新核实
+Human curated; metadata not reverified
 
 </details>
 
@@ -27,16 +29,16 @@ Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, J
 
 ### An All-Atom Generative Model for Designing Protein Complexes
 
-精选
+Curated
 
 [Paper](<https://openreview.net/forum?id=Afmi28vgIf>) · [Code](<https://github.com/bytedance/apm>)
 
 <details>
-<summary>作者与来源</summary>
+<summary>Authors & source</summary>
 
 Ruizhe Chen, Dongyu Xue, Xiangxin Zhou, Zaixiang Zheng, xiangxiang Zeng, Quanquan Gu
 
-人工精选，元数据尚未重新核实
+Human curated; metadata not reverified
 
 </details>
 
@@ -44,21 +46,21 @@ Ruizhe Chen, Dongyu Xue, Xiangxin Zhou, Zaixiang Zheng, xiangxiang Zeng, Quanqua
 
 ### Atomically accurate de novo design of antibodies with RFdiffusion
 
-精选 · Antibody · Diffusion
+Curated · Antibody · Diffusion
 
 [Paper](<https://www.biorxiv.org/content/10.1101/2024.03.14.585103>) · [Code](<https://github.com/RosettaCommons/RFantibody>)
 
 <details>
-<summary>作者与来源</summary>
+<summary>Authors & source</summary>
 
 Nathaniel R Bennett, Joseph L Watson, Robert J Ragotte, Andrew J Borst, DéJenaé L See, Connor Weidle, Riti Biswas, Yutong Yu, Ellen L Shrock, Russell Ault, Philip JY Leung, Buwei Huang, Inna Goreshnik, John Tam, Kenneth D Carr, Benedikt Singer, Cameron Criswell, Basile IM Wicky, Dionne Vafeados, Mariana Garcia Sanchez, Ho Min Kim, Susana Vázquez Torres, Sidney Chan, Shirley M Sun, Timothy Spear, Yi Sun, Keelan O’Reilly, John M Maris, Nikolaos G Sgourakis, Roman A Melnyk, Chang C Liu, David Baker
 
-人工精选，元数据尚未重新核实
+Human curated; metadata not reverified
 
 </details>
 
 ---
 
-[返回首页](../../README.md) · [收录与审核说明](../../docs/automation.md)
+[Back to home](../../README.md) · [Curation guide](../../docs/automation.md)
 
-<sub>页面由结构化目录自动生成。</sub>
+<sub>Generated from the structured catalog.</sub>

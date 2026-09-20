@@ -1,19 +1,21 @@
-[首页](../README.md) / [最近收录](latest.md) / [抗体专题](antibody.md)
+**English** · [中文](latest.zh-CN.md)
 
-# 最近收录
+[Home](../README.md) / [Latest](latest.md) / [Antibodies](antibody.md)
 
-**0 篇论文** · 0 篇精选 · 0 篇待审核
+# Latest papers
 
-> 待审核条目来自自动检索，不代表人工推荐。
+**0 papers** · 0 curated · 0 pending review
 
----
-
-### 等待第一批新论文
-
-首次采集后，这里将展示最近收录的 100 篇论文。已收录论文可从首页和专题页浏览。
+> Automatically retrieved candidates are not human recommendations.
 
 ---
 
-[返回首页](../README.md) · [收录与审核说明](../docs/automation.md)
+### Waiting for new papers
 
-<sub>页面由结构化目录自动生成。</sub>
+After the first retrieval, the latest 100 additions will appear here. Browse existing papers on the home and topic pages.
+
+---
+
+[Back to home](../README.md) · [Curation guide](../docs/automation.md)
+
+<sub>Generated from the structured catalog.</sub>

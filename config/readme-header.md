@@ -2,31 +2,31 @@
 
 # AI for Protein Design & Antibody Engineering
 
-面向蛋白质设计与抗体工程的研究索引：从基础模型、结构预测，到序列生成与功能优化。
+A research index for AI protein design and antibody engineering, from foundation models and structure prediction to sequence generation and functional optimization.
 
-[最近收录 →](papers/latest.md) · [抗体与纳米抗体 →](papers/antibody.md) · [自动更新说明](docs/automation.md)
+[Latest papers →](papers/latest.md) · [Antibodies & nanobodies →](papers/antibody.md) · [Automation guide](docs/automation.md)
 
-> **自动发现，人工精选。** 新论文先进入待审核列表；精选标记与原文链接帮助你判断阅读优先级。
+> **Automatically discovered. Human curated.** New papers enter a review queue; curation labels and original sources help guide your reading.
 
 <a id="topics"></a>
 
-## Explore · 按研究任务浏览
+## Explore by research task
 
-| 方向 | 关注问题 |
+| Topic | Focus |
 | :--- | :--- |
-| **01 · [综述与入门](#topic-reviews)** | 领域进展、方法概览与阅读起点 |
-| **02 · [数据集与评测](#topic-datasets)** | 序列、结构、功能数据与设计基准 |
-| **03 · [表征与基础模型](#topic-foundations)** | 蛋白质语言模型、通用表征与多模态学习 |
-| **04 · [结构与相互作用预测](#topic-prediction)** | 单体、复合物、对接与结合位点 |
-| **05 · [序列设计与逆折叠](#topic-sequence)** | 序列生成、补全与结构条件设计 |
-| **06 · [骨架生成与联合设计](#topic-generation)** | 骨架、基序支架与序列—结构联合生成 |
-| **07 · [靶标导向的结合蛋白设计](#topic-binders)** | Binder、抗体与纳米抗体的从头设计 |
-| **08 · [功能与性质工程](#topic-engineering)** | 活性、亲和力、稳定性与可开发性 |
+| **01 · [Reviews & Tutorials](#topic-reviews)** | Field overviews, methods and reading guides |
+| **02 · [Datasets & Benchmarks](#topic-datasets)** | Sequence, structure, function and design evaluation |
+| **03 · [Representations & Foundation Models](#topic-foundations)** | Protein language models and multimodal representations |
+| **04 · [Structure & Interaction Prediction](#topic-prediction)** | Monomers, complexes, docking and binding sites |
+| **05 · [Sequence Design & Inverse Folding](#topic-sequence)** | Sequence generation, infilling and structure-conditioned design |
+| **06 · [Backbone Generation & Joint Design](#topic-generation)** | Backbones, motif scaffolding and sequence–structure generation |
+| **07 · [Target-specific Binder Design](#topic-binders)** | De novo binders, antibodies and nanobodies |
+| **08 · [Function & Property Engineering](#topic-engineering)** | Activity, affinity, stability and developability |
 
-## Follow · 追踪新进展
+## Follow new research
 
-| 查看新论文 | 聚焦抗体 | 深入一个方向 |
+| Discover | Focus | Explore |
 | :--- | :--- | :--- |
-| [最近收录](papers/latest.md)：按发现时间浏览 | [抗体专题](papers/antibody.md)：跨任务汇集相关工作 | 从下方八个研究章节直接阅读 |
+| [Latest papers](papers/latest.md), ordered by discovery date | [Antibody collection](papers/antibody.md), across research tasks | Read the eight topic sections below |
 
-来源覆盖 **Europe PMC · bioRxiv · arXiv**。配置为每日检索、每周扩大窗口补漏；启用方法和覆盖边界见[维护指南](docs/automation.md)。
+Sources: **Europe PMC · bioRxiv · arXiv**. Configured for daily retrieval and a wider weekly search. See the [maintenance guide](docs/automation.md) for setup and coverage limits.

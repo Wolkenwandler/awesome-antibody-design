@@ -1,27 +1,27 @@
-**English** · [中文](sequence.zh-CN.md)
+[English](sequence.md) · **中文**
 
-[Home](../../README.md) / [Latest](../latest.md) / [Antibodies](../antibody.md)
+[首页](../../README.zh-CN.md) / [最近收录](../latest.zh-CN.md) / [抗体专题](../antibody.zh-CN.md)
 
-# Sequence Design & Inverse Folding
+# 序列设计与逆折叠
 
-**11 papers** · 11 curated · 0 pending review
+**11 篇论文** · 11 篇精选 · 0 篇待审核
 
-> Automatically retrieved candidates are not human recommendations.
+> 待审核条目来自自动检索，不代表人工推荐。
 
 ---
 
 ### AbLang: an antibody language model for completing antibody sequences
 
-Curated · Antibody · Language model
+精选 · 抗体 · 语言模型
 
-[Paper](<https://doi.org/10.1093/bioadv/vbac046>) · [Code](<https://github.com/oxpig/AbLang>)
+[论文](<https://doi.org/10.1093/bioadv/vbac046>) · [代码](<https://github.com/oxpig/AbLang>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -29,16 +29,16 @@ Human curated; metadata not reverified
 
 ### Learning inverse folding from millions of predicted structures
 
-Curated · Inverse folding
+精选 · 逆折叠
 
-[Paper](<https://proceedings.mlr.press/v162/hsu22a/hsu22a.pdf>) · [Code](<https://github.com/facebookresearch/esm>)
+[论文](<https://proceedings.mlr.press/v162/hsu22a/hsu22a.pdf>) · [代码](<https://github.com/facebookresearch/esm>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Chloe Hsu, Robert Verkuil, Jason Liu, Zeming Lin, Brian Hie, Tom Sercu, Adam Lerer, Alexander Rives
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -46,16 +46,16 @@ Human curated; metadata not reverified
 
 ### Robust deep learning–based protein sequence design using ProteinMPNN
 
-Curated
+精选
 
-[Paper](<https://doi.org/10.1126/science.add2187>) · [Code](<https://github.com/dauparas/ProteinMPNN>)
+[论文](<https://doi.org/10.1126/science.add2187>) · [代码](<https://github.com/dauparas/ProteinMPNN>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Justas Dauparas, Ivan Anishchenko, Nathaniel Bennett, Hua Bai, Robert J Ragotte, Lukas F Milles, Basile IM Wicky, Alexis Courbet, Rob J de Haas, Neville Bethel, Philip JY Leung, Timothy F Huddy, Sam Pellock, Doug Tischer, Frederick Chan, Brian Koepnick, Hannah Nguyen, Alex Kang, Banumathi Sankaran, Asim K Bera, Neil P King, David Baker
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -63,16 +63,16 @@ Human curated; metadata not reverified
 
 ### Inverse folding for antibody sequence design using deep learning
 
-Curated · Antibody · Inverse folding
+精选 · 抗体 · 逆折叠
 
-[Paper](<https://icml-compbio.github.io/2023/papers/WCBICML2023_paper61.pdf>) · [Code](<https://zenodo.org/records/8164693>)
+[论文](<https://icml-compbio.github.io/2023/papers/WCBICML2023_paper61.pdf>) · [代码](<https://zenodo.org/records/8164693>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Frédéric A. Dreyer, Daniel Cutting, Constantin Schneider, Henry Kenlay, Charlotte M. Deane
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -80,16 +80,16 @@ Human curated; metadata not reverified
 
 ### IgLM: Infilling language modeling for antibody sequence design
 
-Curated · Antibody · Language model
+精选 · 抗体 · 语言模型
 
-[Paper](<https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5>) · [Code](<https://github.com/Graylab/IgLM>)
+[论文](<https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5>) · [代码](<https://github.com/Graylab/IgLM>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Richard W. Shuai, Jeffrey A. Ruffolo, Jeffrey J. Gray
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -97,16 +97,16 @@ Human curated; metadata not reverified
 
 ### Addressing the antibody germline bias and its effect on language models for improved antibody design
 
-Curated · Antibody · Language model
+精选 · 抗体 · 语言模型
 
-[Paper](<https://doi.org/10.1093/bioinformatics/btae618>) · [Code](<https://github.com/oxpig/AbLang2>)
+[论文](<https://doi.org/10.1093/bioinformatics/btae618>) · [代码](<https://github.com/oxpig/AbLang2>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -114,16 +114,16 @@ Human curated; metadata not reverified
 
 ### AntiFold: improved structure-based antibody design using inverse folding
 
-Curated · Antibody · Inverse folding
+精选 · 抗体 · 逆折叠
 
-[Paper](<https://doi.org/10.1093/bioadv/vbae202>) · [Code](<https://github.com/oxpig/AntiFold>)
+[论文](<https://doi.org/10.1093/bioadv/vbae202>) · [代码](<https://github.com/oxpig/AntiFold>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Magnus Haraldson Høie, Alissa M Hummer, Tobias H Olsen, Broncio Aguilar-Sanjuan, Morten Nielsen, Charlotte M Deane
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -131,16 +131,16 @@ Human curated; metadata not reverified
 
 ### Structure-informed Language Models Are Protein Designers
 
-Curated · Language model
+精选 · 语言模型
 
-[Paper](<https://dl.acm.org/doi/10.5555/3618408.3620189>) · [Code](<https://github.com/BytedProtein/ByProt>)
+[论文](<https://dl.acm.org/doi/10.5555/3618408.3620189>) · [代码](<https://github.com/BytedProtein/ByProt>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Zaixiang Zheng, Yifan Deng, Dongyu Xue, Yi Zhou, Fei Ye, Quanquan Gu
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -148,16 +148,16 @@ Human curated; metadata not reverified
 
 ### De novo generation of SARS-CoV-2 antibody CDRH3 with a pre-trained generative large language model
 
-Curated · Antibody · Language model
+精选 · 抗体 · 语言模型
 
-[Paper](<https://www.nature.com/articles/s41467-024-50903-y>) · [Code](<https://github.com/TencentAILabHealthcare/PALM>)
+[论文](<https://www.nature.com/articles/s41467-024-50903-y>) · [代码](<https://github.com/TencentAILabHealthcare/PALM>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Haohuai He, Bing He, Lei Guan, Yu Zhao, Feng Jiang, Guanxing Chen, Qingge Zhu, Calvin Yu-Chian Chen, Ting Li, Jianhua Yao
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -165,16 +165,16 @@ Human curated; metadata not reverified
 
 ### IgDesign: In vitro validated antibody design against multiple therapeutic antigens using inverse folding
 
-Curated · Antibody · Inverse folding
+精选 · 抗体 · 逆折叠
 
-[Paper](<https://www.biorxiv.org/content/10.1101/2023.12.08.570889>) · [Code](<https://github.com/AbSciBio/igdesign>)
+[论文](<https://www.biorxiv.org/content/10.1101/2023.12.08.570889>) · [代码](<https://github.com/AbSciBio/igdesign>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Amir Shanehsazzadeh, Julian Alverio, George Kasun, Simon Levine, Ido Calman, Jibran A. Khan, Chelsea Chung, Nicolas Diaz, Breanna K. Luton, Ysis Tarter, Cailen McCloskey, Katherine B. Bateman, Hayley Carter, Dalton Chapman, Rebecca Consbruck, Alec Jaeger, Christa Kohnert, Gaelin Kopec-Belliveau, John M. Sutton, Zheyuan Guo, Gustavo Canales, Kai Ejan, Emily Marsh, Alyssa Ruelos, Rylee Ripley, Brooke Stoddard, Rodante Caguiat, Kyra Chapman, Matthew Saunders, Jared Sharp, Douglas Ganini da Silva, Audree Feltner, Jake Ripley, Megan E. Bryant, Danni Castillo, Joshua Meier, Christian M. Stegmann, Katherine Moran, Christine Lemke, Shaheed Abdulhaqq, Lillian R. Klug, Sharrol Bachas
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -182,21 +182,21 @@ Human curated; metadata not reverified
 
 ### Large scale paired antibody language models
 
-Curated · Antibody · Language model
+精选 · 抗体 · 语言模型
 
-[Paper](<https://arxiv.org/abs/2403.17889>) · [Code](<https://zenodo.org/records/10876909>)
+[论文](<https://arxiv.org/abs/2403.17889>) · [代码](<https://zenodo.org/records/10876909>)
 
 <details>
-<summary>Authors & source</summary>
+<summary>作者与来源</summary>
 
 Henry Kenlay, Frédéric A. Dreyer, Aleksandr Kovaltsuk, Dom Miketa, Douglas Pires, Charlotte M. Deane
 
-Human curated; metadata not reverified
+人工精选，元数据尚未重新核实
 
 </details>
 
 ---
 
-[Back to home](../../README.md) · [Curation guide](../../docs/automation.md)
+[返回首页](../../README.zh-CN.md) · [收录与审核说明](../../docs/automation.zh-CN.md)
 
-<sub>Generated from the structured catalog.</sub>
+<sub>页面由结构化目录自动生成。</sub>
