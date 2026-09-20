@@ -19,8 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - name: Verify offline behavior
@@ -50,7 +50,7 @@ jobs:
         if: always()
         run: |
           if [ -f .run/summary.md ]; then cat .run/summary.md >> "$GITHUB_STEP_SUMMARY"; fi
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         if: always()
         with:
           name: retrieval-report
@@ -59,7 +59,7 @@ jobs:
           retention-days: 30
       - name: Create or update review PR
         if: always() && (steps.retrieve.outcome == 'success' || steps.retrieve.outcome == 'failure')
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: codex/literature-update
           commit-message: 'docs: update literature catalog'
