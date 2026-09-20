@@ -56,13 +56,15 @@ def main():
             break
     manifest = dict(start=str(args.start), end=str(args.end), planned_batches=len(batches),
                     code=os.environ.get('GITHUB_SHA', ''), run_id=os.environ.get('GITHUB_RUN_ID', ''),
-                    status='incomplete' if failed else 'complete', reports=reports)
+                    status='incomplete' if failed else 'complete',
+                    coverage='Europe PMC and indexed preprints; arXiv index is partial, direct API unavailable on hosted runner', reports=reports)
     write_json(folder / 'manifest.json', manifest)
     write_json(ROOT / '.run/report.json', manifest)
     papers = read_json(ROOT / 'data/papers.json')
     summary = (f'# Historical literature update\n\nRequested: {args.start}–{args.end}\n\n'
                f'Status: {manifest["status"]}; batches recorded: {len(reports)}/{len(batches)}.\n\n'
-               f'Catalog: {len(papers)} records. Candidates require relevance and category review.\n\n')
+               f'Catalog: {len(papers)} records. Candidates require relevance and category review.\n\n'
+               f'Coverage: {manifest["coverage"]}.\n\n')
     for r in reports:
         summary += f'- {r["start"]}–{r["end"]}: ' + json.dumps(r.get('sources', r.get('status')), ensure_ascii=False) + '\n'
     summary += '\nFull per-window reports and logs are retained in the retrieval-report artifact.\n'

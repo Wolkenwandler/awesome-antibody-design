@@ -66,3 +66,5 @@ python3 scripts/update_papers.py --start 2026-09-01 --end 2026-09-07
 检索采用明确的蛋白设计/建模主题短语和标题线索，降低无关临床论文误收。已有待审核候选会重新筛选，人工精选不受影响；自动筛选不替代科学审阅。
 
 历史 bioRxiv 补录通过 Europe PMC 的官方预印本索引（`SRC:PPR AND PUBLISHER:"bioRxiv"`）按 `FIRST_PDATE` 检索，避免遍历全学科帖子。记录明确标记索引来源，不声称完整拉取历史修订列表；每日增量仍直接查询 bioRxiv。arXiv 使用简化的对象/日期查询，再本地筛选相关性。
+
+当前 hosted runner 连最小 arXiv 查询也返回 HTTP 406（诊断运行 35506844401）。历史模式因此使用 Europe PMC 的 **arXiv 部分预印本索引**，并明确标记来源。运行完成只表示请求的索引窗口处理完毕，不代表穷尽 arXiv；直连限制仍保留记录，不把失败当作直接检索零结果。

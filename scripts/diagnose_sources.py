@@ -1,5 +1,6 @@
 """Read-only, bounded arXiv diagnostics on the actual GitHub runner."""
 import json
+import time
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -17,6 +18,7 @@ def main():
         ('custom-agent', 'https://export.arxiv.org/api/query?' + urllib.parse.urlencode(params),
          {'User-Agent': 'awesome-protein-literature/1.0'})]
     for name, url, headers in variants:
+        time.sleep(3)
         try:
             with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=20) as response:
                 data = response.read()

@@ -133,13 +133,23 @@ def biorxiv_indexed(start, end, max_pages):
         yield paper
 
 
+def arxiv_indexed(start, end, max_pages):
+    """Partial arXiv coverage indexed by Europe PMC; not a full arXiv substitute."""
+    for paper in europepmc(start, end, max_pages,
+                           extra_query='AND SRC:PPR AND PUBLISHER:"arXiv"',
+                           date_field='FIRST_PDATE'):
+        paper['source'] = 'arXiv (Europe PMC index)'
+        paper['evidence'] = 'Europe PMC indexed arXiv metadata/abstract; partial arXiv coverage'
+        yield paper
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--days', type=int, default=14)
     parser.add_argument('--start', type=date.fromisoformat)
     parser.add_argument('--end', type=date.fromisoformat, default=date.today())
     parser.add_argument('--max-pages', type=int, default=200)
-    parser.add_argument('--historical-index', action='store_true', help='Use the Europe PMC bioRxiv index for historical discovery')
+    parser.add_argument('--historical-index', action='store_true', help='Use Europe PMC preprint indexes for historical discovery (arXiv coverage is partial)')
     args = parser.parse_args()
     start = args.start or args.end - timedelta(days=args.days - 1)
     if not 1 <= args.days <= 90 or not 1 <= args.max_pages <= 500 or not 0 <= (args.end - start).days < 90:
@@ -149,8 +159,10 @@ def main():
     papers = [p for p in papers if p['status'] != 'candidate' or relevant(p['title'], p.get('abstract', ''))]
     exclusions = read_json(ROOT / 'data/exclusions.json')
     report = {'start': str(start), 'end': str(args.end), 'sources': {}, 'changes': [], 'filtered_candidates': filtered}
+    if args.historical_index:
+        report['coverage_note'] = 'Europe PMC plus bioRxiv and arXiv indexes; arXiv index is partial, direct API unavailable on hosted runner.'
     failed = False
-    for name, fetch in [('Europe PMC', europepmc), ('bioRxiv (indexed)' if args.historical_index else 'bioRxiv', biorxiv_indexed if args.historical_index else biorxiv), ('arXiv', arxiv)]:
+    for name, fetch in [('Europe PMC', europepmc), ('bioRxiv (indexed)' if args.historical_index else 'bioRxiv', biorxiv_indexed if args.historical_index else biorxiv), ('arXiv (indexed subset)' if args.historical_index else 'arXiv', arxiv_indexed if args.historical_index else arxiv)]:
         try:
             rows = list(fetch(start, args.end, args.max_pages))
             accepted = [p for p in rows if relevant(p['title'], p['abstract'])]
