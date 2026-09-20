@@ -50,3 +50,15 @@ class BackfillTests(unittest.TestCase):
         self.assertEqual(result[-1], (date(2026, 3, 1), date(2026, 3, 2)))
         for left, right in zip(result, result[1:]):
             self.assertEqual(left[1] + timedelta(days=1), right[0])
+
+class IndexedHistoryTests(unittest.TestCase):
+    @patch('update_papers.request')
+    def test_biorxiv_index_uses_publication_date_and_explicit_platform(self, request):
+        from urllib.parse import urlparse, parse_qs
+        from update_papers import biorxiv_indexed
+        request.return_value = {'resultList': {'result': [{'title': 'Protein design', 'source': 'PPR', 'id': 'PPR1', 'doi': '10.1101/example'}]}}
+        rows = list(biorxiv_indexed('2025-01-01', '2025-01-31', 1))
+        query = parse_qs(urlparse(request.call_args[0][0]).query)['query'][0]
+        self.assertIn('FIRST_PDATE:[2025-01-01 TO 2025-01-31]', query)
+        self.assertIn('PUBLISHER:"bioRxiv"', query)
+        self.assertEqual(rows[0]['source'], 'bioRxiv (Europe PMC index)')

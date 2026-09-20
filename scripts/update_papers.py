@@ -3,6 +3,7 @@ import argparse
 from datetime import date, timedelta
 import json
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -13,21 +14,27 @@ from render_papers import render
 def request(url, xml=False):
     for attempt in range(3):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': 'awesome-protein-literature/1.0'})
+            req = urllib.request.Request(url, headers={'User-Agent': 'awesome-protein-literature/1.0',
+                                                          'Accept': 'application/atom+xml, application/xml;q=0.9, */*;q=0.8' if xml else 'application/json'})
             with urllib.request.urlopen(req, timeout=40) as response:
                 data = response.read()
             return ET.fromstring(data) if xml else json.loads(data)
+        except urllib.error.HTTPError as error:
+            detail = error.read(1200).decode('utf-8', errors='replace')
+            if attempt == 2 or error.code in (400, 406):
+                raise RuntimeError(f'HTTP {error.code}: {detail}') from error
+            time.sleep(2 ** (attempt + 1))
         except Exception:
             if attempt == 2:
                 raise
             time.sleep(2 ** (attempt + 1))
 
 
-def europepmc(start, end, max_pages):
+def europepmc(start, end, max_pages, extra_query="", date_field="FIRST_IDATE"):
     scope = ' OR '.join('TITLE_ABS:"' + w + '"' for w in CONFIG['scope_phrases'])
     objects = ' OR '.join('TITLE:' + w for w in CONFIG['objects'])
     methods = ' OR '.join('TITLE:"' + w + '"' for w in CONFIG['methods'])
-    query = f'(({scope}) OR (({objects}) AND ({methods}))) AND FIRST_IDATE:[{start} TO {end}]'
+    query = f'(({scope}) OR (({objects}) AND ({methods}))) AND {date_field}:[{start} TO {end}] {extra_query}'
     cursor = '*'
     for _ in range(max_pages):
         data = request('https://www.ebi.ac.uk/europepmc/webservices/rest/search?' + urllib.parse.urlencode(
@@ -75,10 +82,11 @@ def biorxiv(start, end, max_pages):
 
 def arxiv(start, end, max_pages):
     ns = {'a': 'http://www.w3.org/2005/Atom', 'o': 'http://a9.com/-/spec/opensearch/1.1/'}
-    objects = ' OR '.join('all:' + w for w in CONFIG['objects'])
-    methods = ' OR '.join('all:"' + w + '"' for w in CONFIG['methods'])
+    # Keep server-side expressions compact; relevance filtering happens locally.
+    # The former long phrase/Boolean expression received HTTP 406 on hosted runners.
+    objects = ' OR '.join('all:' + w for w in ('protein', 'antibody', 'nanobody', 'enzyme', 'peptide'))
     begin, finish = str(start).replace('-', ''), str(end).replace('-', '')
-    query = f'({objects}) AND ({methods}) AND submittedDate:[{begin}0000 TO {finish}2359]'
+    query = f'({objects}) AND submittedDate:[{begin}0000 TO {finish}2359]'
     for page in range(max_pages):
         time.sleep(3)
         root = request('https://export.arxiv.org/api/query?' + urllib.parse.urlencode(
@@ -102,12 +110,23 @@ def arxiv(start, end, max_pages):
     raise RuntimeError('arXiv page budget exceeded; narrow date window')
 
 
+def biorxiv_indexed(start, end, max_pages):
+    """Historical topic discovery through the official Europe PMC bioRxiv index."""
+    for paper in europepmc(start, end, max_pages,
+                           extra_query='AND SRC:PPR AND PUBLISHER:"bioRxiv"',
+                           date_field='FIRST_PDATE'):
+        paper['source'] = 'bioRxiv (Europe PMC index)'
+        paper['evidence'] = 'Europe PMC indexed bioRxiv metadata/abstract; version history not fetched'
+        yield paper
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--days', type=int, default=14)
     parser.add_argument('--start', type=date.fromisoformat)
     parser.add_argument('--end', type=date.fromisoformat, default=date.today())
     parser.add_argument('--max-pages', type=int, default=200)
+    parser.add_argument('--historical-index', action='store_true', help='Use the Europe PMC bioRxiv index for historical discovery')
     args = parser.parse_args()
     start = args.start or args.end - timedelta(days=args.days - 1)
     if not 1 <= args.days <= 90 or not 1 <= args.max_pages <= 500 or not 0 <= (args.end - start).days < 90:
@@ -118,7 +137,7 @@ def main():
     exclusions = read_json(ROOT / 'data/exclusions.json')
     report = {'start': str(start), 'end': str(args.end), 'sources': {}, 'changes': [], 'filtered_candidates': filtered}
     failed = False
-    for name, fetch in [('Europe PMC', europepmc), ('bioRxiv', biorxiv), ('arXiv', arxiv)]:
+    for name, fetch in [('Europe PMC', europepmc), ('bioRxiv (indexed)' if args.historical_index else 'bioRxiv', biorxiv_indexed if args.historical_index else biorxiv), ('arXiv', arxiv)]:
         try:
             rows = list(fetch(start, args.end, args.max_pages))
             accepted = [p for p in rows if relevant(p['title'], p['abstract'])]

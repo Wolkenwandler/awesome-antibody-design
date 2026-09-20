@@ -41,7 +41,7 @@ def main():
         try:
             with (folder / (name + '.log')).open('w') as log:
                 result = subprocess.run([sys.executable, str(ROOT / 'scripts/update_papers.py'),
-                                         '--start', str(start), '--end', str(end)],
+                                         '--start', str(start), '--end', str(end), '--historical-index'],
                                         stdout=log, stderr=subprocess.STDOUT, timeout=min(remaining, 30 * 60))
             report = read_json(ROOT / '.run/report.json')
             report['exit_code'] = result.returncode

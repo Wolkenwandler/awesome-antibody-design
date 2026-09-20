@@ -30,3 +30,13 @@
 - 根因：identity_keys 将所有资源链接作为身份依据；同一代码仓库可对应多个独立版本的论文。
 - 解决方案：链接去重仅使用 Paper、Preprint、Published，继续使用 DOI/arXiv/PMID 和明确的发表关系；Code/Homepage 不参与身份判定。
 - 验证：独立 DOI、不同题名、相同代码仓库的两条记录保持独立；现有正式发表关联和重复执行用例通过。本地离线测试经用户授权执行。
+
+## SOL-20260920-04
+
+- 状态：pending
+- 日期：2026-09-20
+- 分类：literature / historical-retrieval
+- 症状：Actions 35505470507 补录 2025 年 1 月用时约 22 分钟；Europe PMC 和 bioRxiv 成功，arXiv HTTP 406 导致停止。
+- 根因：bioRxiv 日期接口不支持主题检索，单月扫描了 5214 条全领域记录；arXiv 406 的服务端具体原因未明确，原查询包含较长的布尔短语表达式。
+- 解决方案：历史 bioRxiv 改用 Europe PMC 的 `SRC:PPR AND PUBLISHER:"bioRxiv"` 官方索引和发表日期窗口，保留原始 DOI，并明确标记索引来源；每日更新仍访问 bioRxiv 日期接口。arXiv 简化服务端对象查询，在本地执行主题筛选，显式声明 Atom Accept；记录 HTTP 错误响应正文供诊断。
+- 验证：原失败运行的月度 manifest 和日志已保存；离线索引查询测试、来源标记和既有测试通过。arXiv 新查询的联网结果待后续运行确认，不能将 406 当作零结果。
