@@ -1,0 +1,5 @@
+# Representations & Foundation Models
+
+自动生成；请修改 `data/papers.json`。待审核条目不代表人工推荐。
+
+暂无条目。

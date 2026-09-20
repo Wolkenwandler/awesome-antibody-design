@@ -1,4 +1,21 @@
-# List of papers about Antibody Design using Deep Learning
+# AI for Protein Design & Antibody Engineering
+
+追踪 AI 蛋白质设计与抗体工程。下方保留原有抗体精选；自动目录中的新论文会明确标记为待审核。
+
+[最近收录](papers/latest.md) · [抗体与纳米抗体专题](papers/antibody.md) · [自动更新与审核指南](docs/automation.md)
+
+| 研究方向 | 完整列表 |
+|---|---|
+| 综述与入门 | [Reviews & Tutorials](papers/by-topic/reviews.md) |
+| 数据集与评测 | [Datasets & Benchmarks](papers/by-topic/datasets.md) |
+| 表征与基础模型 | [Representations & Foundation Models](papers/by-topic/foundations.md) |
+| 结构与相互作用预测 | [Structure & Interaction Prediction](papers/by-topic/prediction.md) |
+| 序列设计与逆折叠 | [Sequence Design & Inverse Folding](papers/by-topic/sequence.md) |
+| 骨架生成与联合设计 | [Backbone Generation & Joint Design](papers/by-topic/generation.md) |
+| 靶标导向结合蛋白设计 | [Target-specific Binder Design](papers/by-topic/binders.md) |
+| 功能与性质工程 | [Function & Property Engineering](papers/by-topic/engineering.md) |
+
+以下为历史人工精选列表。
 
 
 

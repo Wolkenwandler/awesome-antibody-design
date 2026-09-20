@@ -1,0 +1,73 @@
+name: Update literature
+on:
+  schedule:
+    - cron: '23 1 * * *'
+  workflow_dispatch:
+    inputs:
+      days:
+        description: Lookback days (1–90; blank uses 14, or 60 on Sunday)
+        required: false
+        default: ''
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: literature-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify offline behavior
+        run: python -m unittest discover -s tests -v
+      # Preserve accumulated candidates while a previous update PR awaits review.
+      - name: Restore pending catalog
+        run: |
+          if git ls-remote --exit-code --heads origin codex/literature-update; then
+            git fetch origin codex/literature-update
+            git show FETCH_HEAD:data/papers.json > .pending-papers.json
+            python scripts/restore_pending.py
+            rm .pending-papers.json
+          fi
+      - name: Retrieve papers
+        id: retrieve
+        continue-on-error: true
+        env:
+          REQUESTED_DAYS: ${{ inputs.days }}
+        run: |
+          days="${REQUESTED_DAYS}"
+          if [ -z "$days" ]; then
+            days=14
+            if [ "$(date -u +%u)" = 7 ]; then days=60; fi
+          fi
+          python scripts/update_papers.py --days "$days"
+      - name: Publish run summary
+        if: always()
+        run: |
+          if [ -f .run/summary.md ]; then cat .run/summary.md >> "$GITHUB_STEP_SUMMARY"; fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: retrieval-report
+          path: .run/
+          include-hidden-files: true
+          retention-days: 30
+      - name: Create or update review PR
+        if: always() && (steps.retrieve.outcome == 'success' || steps.retrieve.outcome == 'failure')
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: codex/literature-update
+          commit-message: 'docs: update literature catalog'
+          title: 'docs: review new protein and antibody literature'
+          body-path: .run/summary.md
+          add-paths: |
+            data/papers.json
+            papers/
+      - name: Surface incomplete retrieval
+        if: steps.retrieve.outcome == 'failure'
+        run: exit 1

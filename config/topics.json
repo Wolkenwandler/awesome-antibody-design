@@ -1,0 +1,24 @@
+{
+  "topics": {
+    "reviews": "Reviews & Tutorials",
+    "datasets": "Datasets & Benchmarks",
+    "foundations": "Representations & Foundation Models",
+    "prediction": "Structure & Interaction Prediction",
+    "sequence": "Sequence Design & Inverse Folding",
+    "generation": "Backbone Generation & Joint Design",
+    "binders": "Target-specific Binder Design",
+    "engineering": "Function & Property Engineering"
+  },
+  "objects": ["protein", "antibody", "antibodies", "nanobody", "nanobodies", "enzyme", "peptide", "immunoglobulin", "VHH"],
+  "methods": ["design", "engineering", "deep learning", "machine learning", "language model", "diffusion", "flow matching", "inverse folding", "structure prediction", "foundation model", "generative", "affinity maturation"],
+  "rules": {
+    "reviews": ["review", "survey", "perspective", "primer"],
+    "datasets": ["database", "dataset", "benchmark"],
+    "binders": ["binder design", "antibody design", "nanobody design", "antigen-specific", "target-specific"],
+    "sequence": ["inverse folding", "sequence design", "sequence generation", "infilling"],
+    "generation": ["co-design", "codesign", "joint design", "backbone", "scaffolding"],
+    "prediction": ["structure prediction", "docking", "complex prediction", "folding"],
+    "engineering": ["affinity", "stability", "solubility", "humanization", "developability", "enzyme", "optimization"],
+    "foundations": ["language model", "representation", "foundation model"]
+  }
+}

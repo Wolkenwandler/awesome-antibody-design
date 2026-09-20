@@ -1,0 +1,1813 @@
+[
+  {
+    "id": "8d5e1d99c4fd8d2d",
+    "title": "AbDiver: a tool to explore the natural antibody landscape to aid therapeutic design",
+    "authors": "Jakub Młokosiewicz, Piotr Deszyński, Wiktoria Wilman, Igor Jaszczyszyn, Rajkumar Ganesan, Aleksandr Kovaltsuk, Jinwoo Leem, Jacob D Galson, Konrad Krawczyk",
+    "links": {
+      "Paper": "https://academic.oup.com/bioinformatics/article/38/9/2628/6547051",
+      "Homepage": "http://naturalantibody.com/abdiver",
+      "Code": "https://github.com/sarahsirin/AB-Bind-Database"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.1 Sequence Datasets",
+    "legacy_entry": "**AbDiver: a tool to explore the natural antibody landscape to aid therapeutic design**  \nJakub Młokosiewicz, Piotr Deszyński, Wiktoria Wilman, Igor Jaszczyszyn, Rajkumar Ganesan, Aleksandr Kovaltsuk, Jinwoo Leem, Jacob D Galson, Konrad Krawczyk  \n[[Paper](https://academic.oup.com/bioinformatics/article/38/9/2628/6547051)] • [[Homepage](http://naturalantibody.com/abdiver)] • [[Code](https://github.com/sarahsirin/AB-Bind-Database)]"
+  },
+  {
+    "id": "af868087fcb77342",
+    "title": "CoV-AbDab: the coronavirus antibody database",
+    "authors": "MIJ Raybould, A Kovaltsuk, C Marks, CM Deane",
+    "links": {
+      "Paper": "https://academic.oup.com/bioinformatics/article/37/5/734/5893556",
+      "Homepage": "https://opig.stats.ox.ac.uk/webapps/covabdab"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.1 Sequence Datasets",
+    "legacy_entry": "**CoV-AbDab: the coronavirus antibody database**  \nMIJ Raybould, A Kovaltsuk, C Marks, CM Deane  \n[[Paper](https://academic.oup.com/bioinformatics/article/37/5/734/5893556)] • [[Homepage](https://opig.stats.ox.ac.uk/webapps/covabdab)]"
+  },
+  {
+    "id": "4c733a855c37e438",
+    "title": "Observed Antibody Space: A diverse database of cleaned, annotated, and translated unpaired and paired antibody sequences",
+    "authors": "Tobias H. Olsen, Fergus Boyles, Charlotte M. Deane",
+    "links": {
+      "Paper": "https://onlinelibrary.wiley.com/doi/10.1002/pro.4205",
+      "Homepage": "https://opig.stats.ox.ac.uk/webapps/oas"
+    },
+    "identifiers": {
+      "doi": "10.1002/pro.4205"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.1 Sequence Datasets",
+    "legacy_entry": "**Observed Antibody Space: A diverse database of cleaned, annotated, and translated unpaired and paired antibody sequences**  \nTobias H. Olsen, Fergus Boyles, Charlotte M. Deane  \n[[Paper](https://onlinelibrary.wiley.com/doi/10.1002/pro.4205)] • [[Homepage](https://opig.stats.ox.ac.uk/webapps/oas)]"
+  },
+  {
+    "id": "fec5514c95350446",
+    "title": "PAD: Data mining patented antibody sequences",
+    "authors": "K Krawczyk, A Buchanan, P Marcatili",
+    "links": {
+      "Paper": "https://www.tandfonline.com/doi/full/10.1080/19420862.2021.1892366",
+      "Homepage": "https://naturalantibody.com/pad/"
+    },
+    "identifiers": {
+      "doi": "10.1080/19420862.2021.1892366"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.1 Sequence Datasets",
+    "legacy_entry": "**PAD: Data mining patented antibody sequences**  \nK Krawczyk, A Buchanan, P Marcatili   \n[[Paper](https://www.tandfonline.com/doi/full/10.1080/19420862.2021.1892366)] • [[Homepage](https://naturalantibody.com/pad/)]"
+  },
+  {
+    "id": "80c9ae5aa3625f9b",
+    "title": "The Patent and Literature Antibody Database (PLAbDab): an evolving reference set of functionally diverse, literature-annotated antibody sequences and structures",
+    "authors": "Brennan Abanades, Tobias H Olsen, Matthew I J Raybould, Broncio Aguilar-Sanjuan, Wing Ki Wong, Guy Georges, Alexander Bujotzek, Charlotte M Deane",
+    "links": {
+      "Paper": "https://academic.oup.com/nar/article/52/D1/D545/7424429",
+      "Homepage": "https://opig.stats.ox.ac.uk/webapps/plabdab/",
+      "Code": "https://github.com/oxpig/PLAbDab"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.1 Sequence Datasets",
+    "legacy_entry": "**The Patent and Literature Antibody Database (PLAbDab): an evolving reference set of functionally diverse, literature-annotated antibody sequences and structures**  \nBrennan Abanades, Tobias H Olsen, Matthew I J Raybould, Broncio Aguilar-Sanjuan, Wing Ki Wong, Guy Georges, Alexander Bujotzek, Charlotte M Deane  \n[[Paper](https://academic.oup.com/nar/article/52/D1/D545/7424429)] • [[Homepage](https://opig.stats.ox.ac.uk/webapps/plabdab/)] • [[Code](https://github.com/oxpig/PLAbDab)]"
+  },
+  {
+    "id": "96e63af545aec04f",
+    "title": "sdAb-DB: the single domain antibody database",
+    "authors": "EE Wilton, MP Opyr, S Kailasam, RF Kothe, HJ Wieden",
+    "links": {
+      "Paper": "https://pubs.acs.org/doi/full/10.1021/acssynbio.8b00407",
+      "Homepage": "http://www.sdab-db.ca/"
+    },
+    "identifiers": {
+      "doi": "10.1021/acssynbio.8b00407"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.1 Sequence Datasets",
+    "legacy_entry": "**sdAb-DB: the single domain antibody database**  \nEE Wilton, MP Opyr, S Kailasam, RF Kothe, HJ Wieden  \n[[Paper](https://pubs.acs.org/doi/full/10.1021/acssynbio.8b00407)] • [[Homepage](http://www.sdab-db.ca/)]"
+  },
+  {
+    "id": "ec523127950b8b28",
+    "title": "AbDb: antibody structure database—a database of PDB-derived antibody structures",
+    "authors": "S Ferdous, ACR Martin",
+    "links": {
+      "Paper": "https://academic.oup.com/database/article/doi/10.1093/database/bay040/4989324",
+      "Homepage": "http://www.abybank.org/abdb/"
+    },
+    "identifiers": {
+      "doi": "10.1093/database/bay040/4989324"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**AbDb: antibody structure database—a database of PDB-derived antibody structures**  \nS Ferdous, ACR Martin  \n[[Paper](https://academic.oup.com/database/article/doi/10.1093/database/bay040/4989324)] • [[Homepage](http://www.abybank.org/abdb/)]"
+  },
+  {
+    "id": "9a4691026b40717e",
+    "title": "AB‐bind: antibody binding mutational database for computational affinity predictions",
+    "authors": "S Sirin, JR Apgar, EM Bennett, AE Keating",
+    "links": {
+      "Paper": "https://onlinelibrary.wiley.com/doi/full/10.1002/pro.2829",
+      "Code": "https://github.com/sarahsirin/AB-Bind-Database"
+    },
+    "identifiers": {
+      "doi": "10.1002/pro.2829"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**AB‐bind: antibody binding mutational database for computational affinity predictions**  \nS Sirin, JR Apgar, EM Bennett, AE Keating  \n[[Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/pro.2829)] • [[Code](https://github.com/sarahsirin/AB-Bind-Database)]"
+  },
+  {
+    "id": "35387c140a2b7119",
+    "title": "abYsis: Integrated Antibody Sequence and Structure—Management, Analysis, and Prediction",
+    "authors": "Mark B Swindells, Craig T Porter, Matthew Couch, Jacob Hurst, KR Abhinandan, Jens H Nielsen, Gary Macindoe, James Hetherington, Andrew CR Martin",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/abs/pii/S0022283616303333",
+      "HomePage": "http://www.abysis.org/"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**abYsis: Integrated Antibody Sequence and Structure—Management, Analysis, and Prediction**  \nMark B Swindells, Craig T Porter, Matthew Couch, Jacob Hurst, KR Abhinandan, Jens H Nielsen, Gary Macindoe, James Hetherington, Andrew CR Martin  \n[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0022283616303333)] • [[HomePage](http://www.abysis.org/)]"
+  },
+  {
+    "id": "172a4c56adef9a9e",
+    "title": "INDI—integrated nanobody database for immunoinformatics",
+    "authors": "Piotr Deszyński, Jakub Młokosiewicz, Adam Volanakis, Igor Jaszczyszyn, Natalie Castellana, Stefano Bonissone, Rajkumar Ganesan, Konrad Krawczyk",
+    "links": {
+      "Paper": "https://academic.oup.com/nar/article/50/D1/D1273/6423188",
+      "Homepage": "https://naturalantibody.com/nanobodies/"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Nanobody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**INDI—integrated nanobody database for immunoinformatics**  \nPiotr Deszyński, Jakub Młokosiewicz, Adam Volanakis, Igor Jaszczyszyn, Natalie Castellana, Stefano Bonissone, Rajkumar Ganesan, Konrad Krawczyk  \n[[Paper](https://academic.oup.com/nar/article/50/D1/D1273/6423188)] • [[Homepage](https://naturalantibody.com/nanobodies/)]"
+  },
+  {
+    "id": "3f8360640ab36408",
+    "title": "SAbDab in the age of biotherapeutics: updates including SAbDab-nano, the nanobody structure tracker",
+    "authors": "Constantin Schneider, Matthew I J Raybould, Charlotte M Deane",
+    "links": {
+      "Paper": "https://academic.oup.com/nar/article/50/D1/D1368/6431822",
+      "Homepage": "https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Nanobody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**SAbDab in the age of biotherapeutics: updates including SAbDab-nano, the nanobody structure tracker**    \nConstantin Schneider, Matthew I J Raybould, Charlotte M Deane    \n[[Paper](https://academic.oup.com/nar/article/50/D1/D1368/6431822)] • [[Homepage](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab)]"
+  },
+  {
+    "id": "ef2f9e79fdba1c54",
+    "title": "SAAINT-DB: a comprehensive structural antibody database for antibody modeling and design",
+    "authors": "Xiaoqiang Huang, Jun Zhou, Shuang Chen, Xiaofeng Xia, Y. Eugene Chen & Jie Xu",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41401-025-01608-5",
+      "Code": "https://github.com/tommyhuangthu/SAAINT"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**SAAINT-DB: a comprehensive structural antibody database for antibody modeling and design**    \nXiaoqiang Huang, Jun Zhou, Shuang Chen, Xiaofeng Xia, Y. Eugene Chen & Jie Xu    \n[[Paper](https://www.nature.com/articles/s41401-025-01608-5)]  • [[Code](https://github.com/tommyhuangthu/SAAINT)]"
+  },
+  {
+    "id": "8c33a07f517b287e",
+    "title": "SKEMPI 2.0: an updated benchmark of changes in protein–protein binding energy, kinetics and thermodynamics upon mutation",
+    "authors": "Justina Jankauskaitė, Brian Jiménez-García, Justas Dapkūnas, Juan Fernández-Recio, Iain H Moal",
+    "links": {
+      "Paper": "https://academic.oup.com/bioinformatics/article/35/3/462/5055583",
+      "Homepage": "https://life.bsc.es/pid/skempi2/"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**SKEMPI 2.0: an updated benchmark of changes in protein–protein binding energy, kinetics and thermodynamics upon mutation**  \nJustina Jankauskaitė, Brian Jiménez-García, Justas Dapkūnas, Juan Fernández-Recio, Iain H Moal  \n[[Paper](https://academic.oup.com/bioinformatics/article/35/3/462/5055583)] • [[Homepage](https://life.bsc.es/pid/skempi2/)]"
+  },
+  {
+    "id": "d979b9b61f3436e8",
+    "title": "Thera-SAbDab: the Therapeutic Structural Antibody Database",
+    "authors": "Matthew I J Raybould, Claire Marks, Alan P Lewis, Jiye Shi, Alexander Bujotzek, Bruck Taddese, Charlotte M Deane",
+    "links": {
+      "Paper": "https://academic.oup.com/nar/article/48/D1/D383/5573951",
+      "Homepage": "http://opig.stats.ox.ac.uk/webapps/therasabdab"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "datasets",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "0.2 Structure Datasets",
+    "legacy_entry": "**Thera-SAbDab: the Therapeutic Structural Antibody Database**  \nMatthew I J Raybould, Claire Marks, Alan P Lewis, Jiye Shi, Alexander Bujotzek, Bruck Taddese, Charlotte M Deane  \n[[Paper](https://academic.oup.com/nar/article/48/D1/D383/5573951)] • [[Homepage](http://opig.stats.ox.ac.uk/webapps/therasabdab)]"
+  },
+  {
+    "id": "7c9b53d84b832d6c",
+    "title": "A review of deep learning methods for antibodies",
+    "authors": "Jordan Graves, Jacob Byerly, Eduardo Priego, Naren Makkapati , S. Vince Parish, Brenda Medellin and Monica Berrondo",
+    "links": {
+      "Paper": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7344881/pdf/antibodies-09-00012.pdf"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**A review of deep learning methods for antibodies**  \nJordan Graves, Jacob Byerly, Eduardo Priego, Naren Makkapati , S. Vince Parish, Brenda Medellin and Monica Berrondo  \n[[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7344881/pdf/antibodies-09-00012.pdf)]"
+  },
+  {
+    "id": "eb6c8b6c962cfd14",
+    "title": "Progress and challenges for the machine learning-based design of fit-for-purpose monoclonal antibodies",
+    "authors": "Rahmad Akbar, Habib Bashour, Puneet Rawat, Philippe A. Robert, Eva Smorodina, Tudor-Stefan Cotet, Karine Flem-Karlsen, Robert Frank, Brij Bhushan Mehta, Mai Ha Vu, Talip Zengin, Jose Gutierrez-Marcos, Fridtjof Lund-Johansen, Jan Terje Andersen, and Victor Greif",
+    "links": {
+      "Paper": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8928824/"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Progress and challenges for the machine learning-based design of fit-for-purpose monoclonal antibodies**  \nRahmad Akbar, Habib Bashour, Puneet Rawat, Philippe A. Robert, Eva Smorodina, Tudor-Stefan Cotet, Karine Flem-Karlsen, Robert Frank, Brij Bhushan Mehta, Mai Ha Vu, Talip Zengin, Jose Gutierrez-Marcos, Fridtjof Lund-Johansen,  Jan Terje Andersen, and Victor Greif  \n[[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8928824/)]"
+  },
+  {
+    "id": "eb4ed476fe0a8ffd",
+    "title": "Advances in computational structure-based antibody design",
+    "authors": "Hummer, Alissa M., Brennan Abanades, and Charlotte M. Deane",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S0959440X22000586"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Advances in computational structure-based antibody design**  \nHummer, Alissa M., Brennan Abanades, and Charlotte M. Deane  \n[[Paper](https://www.sciencedirect.com/science/article/pii/S0959440X22000586)]"
+  },
+  {
+    "id": "1c36c1ac320bc952",
+    "title": "Computational and artificial intelligence-based methods for antibody development",
+    "authors": "Jisun Kim, Matthew McFee, Qiao Fang, Osama Abdin, Philip M. Kim",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S0165614722002796"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Computational and artificial intelligence-based methods for antibody development**  \nJisun Kim, Matthew McFee, Qiao Fang, Osama Abdin, Philip M. Kim  \n[[Paper](https://www.sciencedirect.com/science/article/pii/S0165614722002796)]"
+  },
+  {
+    "id": "2b392cc1411b1b4a",
+    "title": "Leveraging deep learning to improve vaccine design",
+    "authors": "Andrew P. Hederman, Margaret E. Ackerman",
+    "links": {
+      "Paper": "https://www.cell.com/trends/immunology/fulltext/S1471-4906(23)00046-7"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Leveraging deep learning to improve vaccine design**  \nAndrew P. Hederman, Margaret E. Ackerman  \n[[Paper](https://www.cell.com/trends/immunology/fulltext/S1471-4906(23)00046-7)]"
+  },
+  {
+    "id": "f92eb98ed39b750a",
+    "title": "In Silico Approaches to Deliver Better Antibodies by Design: The Past, the Present and the Future",
+    "authors": "Andreas Evers, Shipra Malhotra, Vanita D. Sood",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2305.07488"
+    },
+    "identifiers": {
+      "arxiv": "2305.07488"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**In Silico Approaches to Deliver Better Antibodies by Design: The Past, the Present and the Future**  \nAndreas Evers, Shipra Malhotra, Vanita D. Sood  \n[[Paper](https://arxiv.org/abs/2305.07488)]"
+  },
+  {
+    "id": "24c9a725ce5d4314",
+    "title": "AI Models for Protein Design are Driving Antibody Engineering",
+    "authors": "Michael Chungyoun, Jeffrey J. Gray",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/abs/pii/S2468451123000296"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**AI Models for Protein Design are Driving Antibody Engineering**  \nMichael Chungyoun, Jeffrey J. Gray  \n[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S2468451123000296)]"
+  },
+  {
+    "id": "d5629aeec59e692e",
+    "title": "Computational Methods in Immunology and Vaccinology: Design and Development of Antibodies and Immunogens",
+    "authors": "Federica Guarra and Giorgio Colombo",
+    "links": {
+      "Paper": "https://pubs.acs.org/doi/10.1021/acs.jctc.3c00513"
+    },
+    "identifiers": {
+      "doi": "10.1021/acs.jctc.3c00513"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Computational Methods in Immunology and Vaccinology: Design and Development of Antibodies and Immunogens**  \nFederica Guarra and Giorgio Colombo  \n[[Paper](https://pubs.acs.org/doi/10.1021/acs.jctc.3c00513)]"
+  },
+  {
+    "id": "f5be8bf181d79c37",
+    "title": "Simplifying complex antibody engineering using machine learning",
+    "authors": "Makowski, Emily K., Hsin-Ting Chen, and Peter M. Tessier",
+    "links": {
+      "Paper": "https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00118-7"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Simplifying complex antibody engineering using machine learning**  \nMakowski, Emily K., Hsin-Ting Chen, and Peter M. Tessier  \n[[Paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00118-7)]"
+  },
+  {
+    "id": "4c92029a4704faf8",
+    "title": "AI driven B-cell Immunotherapy Design",
+    "authors": "Bruna Moreira da Silva, David B. Ascher, Nicholas Geard, Douglas E. V. Pires",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2309.01122"
+    },
+    "identifiers": {
+      "arxiv": "2309.01122"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**AI driven B-cell Immunotherapy Design**  \nBruna Moreira da Silva, David B. Ascher, Nicholas Geard, Douglas E. V. Pires  \n[[Paper](https://arxiv.org/abs/2309.01122)]"
+  },
+  {
+    "id": "75a2018e1b53b069",
+    "title": "Best practices for machine learning in antibody discovery and development",
+    "authors": "Leonard Wossnig, Norbert Furtmann, Andrew Buchanan, Sandeep Kumar, Victor Greiff",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S1359644624001508"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Best practices for machine learning in antibody discovery and development**  \nLeonard Wossnig, Norbert Furtmann, Andrew Buchanan, Sandeep Kumar, Victor Greiff  \n[[Paper](https://www.sciencedirect.com/science/article/pii/S1359644624001508)]"
+  },
+  {
+    "id": "9a9f1cc961abad9d",
+    "title": "Next generation of multispecific antibody engineering",
+    "authors": "Daniel Keri, Matt Walker, Isha Singh, Kyle Nishikawa, Fernando Garces",
+    "links": {
+      "Paper": "https://academic.oup.com/abt/article/7/1/37/7463325"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Next generation of multispecific antibody engineering**  \nDaniel Keri, Matt Walker, Isha Singh, Kyle Nishikawa, Fernando Garces  \n[[Paper](https://academic.oup.com/abt/article/7/1/37/7463325)]"
+  },
+  {
+    "id": "dd1a2893c90824c9",
+    "title": "A primer on ML in antibody engineering",
+    "authors": "Abhishaike Mahajan",
+    "links": {
+      "Paper": "https://www.abhishaike.com/p/a-primer-on-ai-in-antibody-engineering"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**A primer on ML in antibody engineering**  \nAbhishaike Mahajan    \n[[Paper](https://www.abhishaike.com/p/a-primer-on-ai-in-antibody-engineering)]"
+  },
+  {
+    "id": "481074dfbf7d7939",
+    "title": "Antibody design using deep learning: from sequence and structure design to affinity maturation",
+    "authors": "Sara Joubbi, Alessio Micheli, Paolo Milazzo, Giuseppe Maccari, Giorgio Ciano, Dario Cardamone, Duccio Medini",
+    "links": {
+      "Paper": "https://academic.oup.com/bib/article/25/4/bbae307/7705535"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Antibody design using deep learning: from sequence and structure design to affinity maturation**  \nSara Joubbi, Alessio Micheli, Paolo Milazzo, Giuseppe Maccari, Giorgio Ciano, Dario Cardamone, Duccio Medini  \n[[Paper](https://academic.oup.com/bib/article/25/4/bbae307/7705535)]"
+  },
+  {
+    "id": "7329d126a89fe716",
+    "title": "AI-accelerated therapeutic antibody development: practical insights",
+    "authors": "Luca Santuari, Marianne Bachmann Salvy, Ioannis Xenarios, Bulak Arpat",
+    "links": {
+      "Paper": "https://www.frontiersin.org/journals/drug-discovery/articles/10.3389/fddsv.2024.1447867/full"
+    },
+    "identifiers": {
+      "doi": "10.3389/fddsv.2024.1447867/full"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**AI-accelerated therapeutic antibody development: practical insights**  \nLuca Santuari, Marianne Bachmann Salvy, Ioannis Xenarios, Bulak Arpat  \n[[Paper](https://www.frontiersin.org/journals/drug-discovery/articles/10.3389/fddsv.2024.1447867/full)]"
+  },
+  {
+    "id": "b645a9e8c81448c6",
+    "title": "AI-driven antibody design with generative diffusion models: current insights and future directions",
+    "authors": "Xin-heng He, Jun-rui Li, James Xu, Hong Shan, Shi-yi Shen, Si-han Gao & H. Eric Xu",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41401-024-01380-y"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody",
+      "Diffusion"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**AI-driven antibody design with generative diffusion models: current insights and future directions**  \nXin-heng He, Jun-rui Li, James Xu, Hong Shan, Shi-yi Shen, Si-han Gao & H. Eric Xu  \n[[Paper](https://www.nature.com/articles/s41401-024-01380-y)]"
+  },
+  {
+    "id": "ded11d3c312389ac",
+    "title": "Applying computational protein design to therapeutic antibody discovery -- current state and perspectives",
+    "authors": "Weronika Bielska, Igor Jaszczyszyn, Pawel Dudzic, Bartosz Janusz, Dawid Chomicz, Sonia Wrobel, Victor Greiff, Ryan Feehan, Jared Adolf-Bryfogle, Konrad Krawczyk",
+    "links": {
+      "Paper": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1571371/full"
+    },
+    "identifiers": {
+      "doi": "10.3389/fimmu.2025.1571371/full"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Applying computational protein design to therapeutic antibody discovery -- current state and perspectives**  \nWeronika Bielska, Igor Jaszczyszyn, Pawel Dudzic, Bartosz Janusz, Dawid Chomicz, Sonia Wrobel, Victor Greiff, Ryan Feehan, Jared Adolf-Bryfogle, Konrad Krawczyk  \n[[Paper](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1571371/full)]"
+  },
+  {
+    "id": "8460f75c64f669e3",
+    "title": "Artificial intelligence-driven computational methods for antibody design and optimization",
+    "authors": "Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, Azamat Armanuly,Begench Hangeldiyev, Hyunkyu Jung, Sooyeon Lee, Meeyoung Cha & Ho Min Kim",
+    "links": {
+      "Paper": "https://www.tandfonline.com/doi/full/10.1080/19420862.2025.2528902"
+    },
+    "identifiers": {
+      "doi": "10.1080/19420862.2025.2528902"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Artificial intelligence-driven computational methods for antibody design and optimization**    \nLuiz Felipe Vecchietti, Bryan Nathanael Wijaya, Azamat Armanuly,Begench Hangeldiyev, Hyunkyu Jung, Sooyeon Lee, Meeyoung Cha & Ho Min Kim    \n[[Paper](https://www.tandfonline.com/doi/full/10.1080/19420862.2025.2528902)]"
+  },
+  {
+    "id": "c3b7cd38b50079fa",
+    "title": "Artificial intelligence in antibody design and development: harnessing the power of computational approaches",
+    "authors": "Soudabeh Kavousipour, Mahdi Barazesh, Shiva Mohammadi",
+    "links": {
+      "Paper": "https://link.springer.com/article/10.1007/s11517-025-03429-4"
+    },
+    "identifiers": {
+      "doi": "10.1007/s11517-025-03429-4"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "reviews",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "1. Reviews",
+    "legacy_entry": "**Artificial intelligence in antibody design and development: harnessing the power of computational approaches**    \nSoudabeh Kavousipour, Mahdi Barazesh, Shiva Mohammadi  \n[[Paper](https://link.springer.com/article/10.1007/s11517-025-03429-4)]"
+  },
+  {
+    "id": "c5171a84492ccec8",
+    "title": "ABlooper: fast accurate antibody CDR loop structure prediction with accuracy estimation",
+    "authors": "Brennan Abanades, Guy Georges, Alexander Bujotzek, Charlotte M Deane",
+    "links": {
+      "Paper": "https://academic.oup.com/bioinformatics/article/38/7/1877/6517780",
+      "Code": "https://github.com/oxpig/ABlooper"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**ABlooper: fast accurate antibody CDR loop structure prediction with accuracy estimation**    \nBrennan Abanades, Guy Georges, Alexander Bujotzek, Charlotte M Deane  \n[[Paper](https://academic.oup.com/bioinformatics/article/38/7/1877/6517780)] • [[Code](https://github.com/oxpig/ABlooper)]"
+  },
+  {
+    "id": "b2617abb78326940",
+    "title": "ImmuneBuilder: Deep-Learning models for predicting the structures of immune proteins",
+    "authors": "Brennan Abanades, Wing Ki Wong, Fergus Boyles, Guy Georges, Alexander Bujotzek & Charlotte M. Deane",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s42003-023-04927-7",
+      "Code": "https://github.com/oxpig/ImmuneBuilder"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**ImmuneBuilder: Deep-Learning models for predicting the structures of immune proteins**    \nBrennan Abanades, Wing Ki Wong, Fergus Boyles, Guy Georges, Alexander Bujotzek & Charlotte M. Deane  \n[[Paper](https://www.nature.com/articles/s42003-023-04927-7)] • [[Code](https://github.com/oxpig/ImmuneBuilder)]"
+  },
+  {
+    "id": "1d3c7557f72ec16f",
+    "title": "ABodyBuilder3: improved and scalable antibody structure predictions",
+    "authors": "Henry Kenlay, Frédéric A Dreyer, Daniel Cutting, Daniel Nissley, Charlotte M Deane",
+    "links": {
+      "Paper": "https://academic.oup.com/bioinformatics/article/40/10/btae576/7810444",
+      "Code": "https://github.com/Exscientia/ABodyBuilder3"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**ABodyBuilder3: improved and scalable antibody structure predictions**    \nHenry Kenlay, Frédéric A Dreyer, Daniel Cutting, Daniel Nissley, Charlotte M Deane  \n[[Paper](https://academic.oup.com/bioinformatics/article/40/10/btae576/7810444)] • [[Code](https://github.com/Exscientia/ABodyBuilder3)]"
+  },
+  {
+    "id": "7c34a918e558309e",
+    "title": "Antibody structure prediction using interpretable deep learning",
+    "authors": "Ruffolo JA, Sulam J, Gray JJ",
+    "links": {
+      "Paper": "https://www.sciencedirect.com/science/article/pii/S2666389921002804",
+      "Code": "https://github.com/RosettaCommons/DeepAb"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**Antibody structure prediction using interpretable deep learning**    \nRuffolo JA, Sulam J, Gray JJ  \n[[Paper](https://www.sciencedirect.com/science/article/pii/S2666389921002804)] • [[Code](https://github.com/RosettaCommons/DeepAb)]"
+  },
+  {
+    "id": "29e5d23ccaa0db30",
+    "title": "Equifold: protein structure prediction with a novel coarse-grained structure representation",
+    "authors": "Jae Hyeon Lee, Payman Yadollahpour, Andrew Watkins, Nathan C. Frey, Andrew Leaver-Fay, Stephen Ra, Kyunghyun Cho, Vladimir Gligorijević, Aviv Regev, Richard Bonneau",
+    "links": {
+      "Paper": "https://doi.org/10.1101/2022.10.07.511322",
+      "Code": "https://github.com/Genentech/equifold"
+    },
+    "identifiers": {
+      "doi": "10.1101/2022.10.07.511322"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**Equifold: protein structure prediction with a novel coarse-grained structure representation**    \nJae Hyeon Lee, Payman Yadollahpour, Andrew Watkins, Nathan C. Frey, Andrew Leaver-Fay, Stephen Ra, Kyunghyun Cho, Vladimir Gligorijević, Aviv Regev, Richard Bonneau  \n[[Paper](https://doi.org/10.1101/2022.10.07.511322)] • [[Code](https://github.com/Genentech/equifold)]"
+  },
+  {
+    "id": "38a85c1238d0706e",
+    "title": "Highly accurate protein structure prediction with AlphaFold",
+    "authors": "John Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41586-021-03819-2",
+      "Code": "https://github.com/deepmind/alphafold"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**Highly accurate protein structure prediction with AlphaFold**    \nJohn Jumper, Richard Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russ Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, Rishub Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli & Demis Hassabis  \n[[Paper](https://www.nature.com/articles/s41586-021-03819-2)] • [[Code](https://github.com/deepmind/alphafold)]"
+  },
+  {
+    "id": "39e2ea795ad26ebf",
+    "title": "Evolutionary-scale prediction of atomic-level protein structure with a language model",
+    "authors": "Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives",
+    "links": {
+      "Paper": "https://www.science.org/doi/10.1126/science.ade2574",
+      "Code": "https://github.com/facebookresearch/esm"
+    },
+    "identifiers": {
+      "doi": "10.1126/science.ade2574"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**Evolutionary-scale prediction of atomic-level protein structure with a language model**    \nZeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives  \n[[Paper](https://www.science.org/doi/10.1126/science.ade2574)] • [[Code](https://github.com/facebookresearch/esm)]"
+  },
+  {
+    "id": "fa2f0da31d9bf911",
+    "title": "Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies",
+    "authors": "Jeffrey A. Ruffolo, Lee-Shin Chu, Sai Pooja Mahajan & Jeffrey J. Gray",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41467-023-38063-x",
+      "Code": "https://github.com/Graylab/IgFold"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies**    \nJeffrey A. Ruffolo, Lee-Shin Chu, Sai Pooja Mahajan & Jeffrey J. Gray  \n[[Paper](https://www.nature.com/articles/s41467-023-38063-x)] • [[Code](https://github.com/Graylab/IgFold)]"
+  },
+  {
+    "id": "61826325313a8905",
+    "title": "tFold-Ab: Fast and Accurate Antibody Structure Prediction without Sequence Homologs",
+    "authors": "Jiaxiang Wu, Fandi Wu, Biaobin Jiang, Wei Liu, Peilin Zhao",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2022.11.10.515918v1",
+      "Code": "https://github.com/TencentAI4S/tfold"
+    },
+    "identifiers": {
+      "doi": "10.1101/2022.11.10.515918"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**tFold-Ab: Fast and Accurate Antibody Structure Prediction without Sequence Homologs**    \nJiaxiang Wu, Fandi Wu, Biaobin Jiang, Wei Liu, Peilin Zhao   \n[[Paper](https://www.biorxiv.org/content/10.1101/2022.11.10.515918v1)] • [[Code](https://github.com/TencentAI4S/tfold)]"
+  },
+  {
+    "id": "6a9110c10bb8ef60",
+    "title": "xTrimoABFold: De novo Antibody Structure Prediction without MSA",
+    "authors": "Yining Wang, Xumeng Gong, Shaochuan Li, Bing Yang, YiWu Sun, Chuan Shi, Yangang Wang, Cheng Yang, Hui Li, Le Song",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2212.00735"
+    },
+    "identifiers": {
+      "arxiv": "2212.00735"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.1 Antibody Sturcture Prediction",
+    "legacy_entry": "**xTrimoABFold: De novo Antibody Structure Prediction without MSA**    \nYining Wang, Xumeng Gong, Shaochuan Li, Bing Yang, YiWu Sun, Chuan Shi, Yangang Wang, Cheng Yang, Hui Li, Le Song  \n[[Paper](https://arxiv.org/abs/2212.00735)]"
+  },
+  {
+    "id": "83cfd1fc7532b5d6",
+    "title": "Protein complex prediction with alphafold-multimer",
+    "authors": "Richard Evans, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek, Russ Bates, Sam Blackwell, Jason Yim, Olaf Ronneberger, Sebastian Bodenstein, Michal Zielinski, Alex Bridgland, Anna Potapenko, Andrew Cowie, Kathryn Tunyasuvunakool, Rishub Jain, Ellen Clancy, Pushmeet Kohli, John Jumper, Demis Hassabis",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2",
+      "Code": "https://github.com/deepmind/alphafold"
+    },
+    "identifiers": {
+      "doi": "10.1101/2021.10.04.463034"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Protein complex prediction with alphafold-multimer**    \nRichard Evans, Michael O’Neill, Alexander Pritzel, Natasha Antropova, Andrew Senior, Tim Green, Augustin Žídek, Russ Bates, Sam Blackwell, Jason Yim, Olaf Ronneberger, Sebastian Bodenstein, Michal Zielinski, Alex Bridgland, Anna Potapenko, Andrew Cowie, Kathryn Tunyasuvunakool, Rishub Jain, Ellen Clancy, Pushmeet Kohli, John Jumper, Demis Hassabis  \n[[Paper](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2)] • [[Code](https://github.com/deepmind/alphafold)]"
+  },
+  {
+    "id": "4be8dfbbdfb68c6b",
+    "title": "Fast and accurate modeling and design of antibody-antigen complex using tFold",
+    "authors": "Fandi Wu, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen Qin, Fan Yang, Ningqiao Huang, Yang Xiao, Rubo Wang, Huaxian Jia, Yu Rong, Yuyi Liu, Houtim Lai, Tingyang Xu, Wei Liu, Peilin Zhao, Jianhua Yao",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2024.02.05.578892.abstract",
+      "Code": "https://github.com/TencentAI4S/tfold"
+    },
+    "identifiers": {
+      "doi": "10.1101/2024.02.05.578892.abstract"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Fast and accurate modeling and design of antibody-antigen complex using tFold**    \nFandi Wu, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen Qin, Fan Yang, Ningqiao Huang, Yang Xiao, Rubo Wang, Huaxian Jia, Yu Rong, Yuyi Liu, Houtim Lai, Tingyang Xu, Wei Liu, Peilin Zhao, Jianhua Yao  \n[[Paper](https://www.biorxiv.org/content/10.1101/2024.02.05.578892.abstract)] • [[Code](https://github.com/TencentAI4S/tfold)]"
+  },
+  {
+    "id": "b5f1375574906b95",
+    "title": "Accurate prediction of protein structures and interactions using a three-track neural network",
+    "authors": "Minkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas, Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang, Qian Cong, Lisa N Kinch, R Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R Glassman, Andy DeGiovanni, Jose H Pereira, Andria V Rodrigues, Alberdina A van Dijk, Ana C Ebrecht, Diederik J Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K Rathinaswamy, Udit Dalwadi, Calvin K Yip, John E Burke, K Christopher Garcia, Nick V Grishin, Paul D Adams, Randy J Read, David Baker",
+    "links": {
+      "Paper": "https://www.science.org/doi/abs/10.1126/science.abj8754",
+      "Code": "https://github.com/RosettaCommons/RoseTTAFold"
+    },
+    "identifiers": {
+      "doi": "10.1126/science.abj8754"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Accurate prediction of protein structures and interactions using a three-track neural network**    \nMinkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas, Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang, Qian Cong, Lisa N Kinch, R Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R Glassman, Andy DeGiovanni, Jose H Pereira, Andria V Rodrigues, Alberdina A van Dijk, Ana C Ebrecht, Diederik J Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K Rathinaswamy, Udit Dalwadi, Calvin K Yip, John E Burke, K Christopher Garcia, Nick V Grishin, Paul D Adams, Randy J Read, David Baker  \n[[Paper](https://www.science.org/doi/abs/10.1126/science.abj8754)] • [[Code](https://github.com/RosettaCommons/RoseTTAFold)]"
+  },
+  {
+    "id": "773db35fea9e3077",
+    "title": "Generalized biomolecular modeling and design with RoseTTAFold All-Atom",
+    "authors": "Rohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Alex Kang, Evans Brackenbrough, Asim K Bera, Minkyung Baek, Frank DiMaio, David Baker",
+    "links": {
+      "Paper": "https://www.science.org/doi/10.1126/science.adl2528",
+      "Code": "https://github.com/baker-laboratory/RoseTTAFold-All-Atom"
+    },
+    "identifiers": {
+      "doi": "10.1126/science.adl2528"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Generalized biomolecular modeling and design with RoseTTAFold All-Atom**    \nRohith Krishna, Jue Wang, Woody Ahern, Pascal Sturmfels, Preetham Venkatesh, Indrek Kalvet, Gyu Rie Lee, Felix S Morey-Burrows, Ivan Anishchenko, Ian R Humphreys, Ryan McHugh, Dionne Vafeados, Xinting Li, George A Sutherland, Andrew Hitchcock, C Neil Hunter, Alex Kang, Evans Brackenbrough, Asim K Bera, Minkyung Baek, Frank DiMaio, David Baker  \n[[Paper](https://www.science.org/doi/10.1126/science.adl2528)] • [[Code](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)]"
+  },
+  {
+    "id": "8236054badbb627f",
+    "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+    "authors": "Abramson, Josh and Adler, Jonas and Dunger, Jack and Evans, Richard and Green, Tim and Pritzel, Alexander and Ronneberger, Olaf and Willmore, Lindsay and Ballard, Andrew J. and Bambrick, Joshua and Bodenstein, Sebastian W. and Evans, David A. and Hung, Chia-Chun and O’Neill, Michael and Reiman, David and Tunyasuvunakool, Kathryn and Wu, Zachary and Žemgulytė, Akvilė and Arvaniti, Eirini and Beattie, Charles and Bertolli, Ottavia and Bridgland, Alex and Cherepanov, Alexey and Congreve, Miles and Cowen-Rivers, Alexander I. and Cowie, Andrew and Figurnov, Michael and Fuchs, Fabian B. and Gladman, Hannah and Jain, Rishub and Khan, Yousuf A. and Low, Caroline M. R. and Perlin, Kuba and Potapenko, Anna and Savy, Pascal and Singh, Sukhdeep and Stecula, Adrian and Thillaisundaram, Ashok and Tong, Catherine and Yakneen, Sergei and Zhong, Ellen D. and Zielinski, Michal and Žídek, Augustin and Bapst, Victor and Kohli, Pushmeet and Jaderberg, Max and Hassabis, Demis and Jumper, John M.",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41586-024-07487-w",
+      "Code": "https://github.com/google-deepmind/alphafold3"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Accurate structure prediction of biomolecular interactions with AlphaFold 3**    \nAbramson, Josh and Adler, Jonas and Dunger, Jack and Evans, Richard and Green, Tim and Pritzel, Alexander and Ronneberger, Olaf and Willmore, Lindsay and Ballard, Andrew J. and Bambrick, Joshua and Bodenstein, Sebastian W. and Evans, David A. and Hung, Chia-Chun and O’Neill, Michael and Reiman, David and Tunyasuvunakool, Kathryn and Wu, Zachary and Žemgulytė, Akvilė and Arvaniti, Eirini and Beattie, Charles and Bertolli, Ottavia and Bridgland, Alex and Cherepanov, Alexey and Congreve, Miles and Cowen-Rivers, Alexander I. and Cowie, Andrew and Figurnov, Michael and Fuchs, Fabian B. and Gladman, Hannah and Jain, Rishub and Khan, Yousuf A. and Low, Caroline M. R. and Perlin, Kuba and Potapenko, Anna and Savy, Pascal and Singh, Sukhdeep and Stecula, Adrian and Thillaisundaram, Ashok and Tong, Catherine and Yakneen, Sergei and Zhong, Ellen D. and Zielinski, Michal and Žídek, Augustin and Bapst, Victor and Kohli, Pushmeet and Jaderberg, Max and Hassabis, Demis and Jumper, John M.  \n[[Paper](https://www.nature.com/articles/s41586-024-07487-w)] • [[Code](https://github.com/google-deepmind/alphafold3)]"
+  },
+  {
+    "id": "b5c658656f70eb46",
+    "title": "Chai-1: Decoding the molecular interactions of life",
+    "authors": "Chai Discovery, Jacques Boitreaud, Jack Dent, Matthew McPartlon, Joshua Meier, Vinicius Reis, Alex Rogozhnikov, Kevin Wu",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2024.10.10.615955",
+      "Code": "https://github.com/chaidiscovery/chai-lab"
+    },
+    "identifiers": {
+      "doi": "10.1101/2024.10.10.615955"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Chai-1: Decoding the molecular interactions of life**    \nChai Discovery, Jacques Boitreaud, Jack Dent, Matthew McPartlon, Joshua Meier, Vinicius Reis, Alex Rogozhnikov, Kevin Wu  \n[[Paper](https://www.biorxiv.org/content/10.1101/2024.10.10.615955)] • [[Code](https://github.com/chaidiscovery/chai-lab)]"
+  },
+  {
+    "id": "6095b317edf9f488",
+    "title": "Boltz-1 Democratizing Biomolecular Interaction Modeling",
+    "authors": "Jeremy Wohlwend, Gabriele Corso, Saro Passaro, Mateo Reveiz, Ken Leidal, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2024.11.19.624167",
+      "Code": "https://github.com/jwohlwend/boltz"
+    },
+    "identifiers": {
+      "doi": "10.1101/2024.11.19.624167"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Boltz-1 Democratizing Biomolecular Interaction Modeling**    \nJeremy Wohlwend, Gabriele Corso, Saro Passaro, Mateo Reveiz, Ken Leidal, Wojtek Swiderski, Tally Portnoi, Itamar Chinn, Jacob Silterra, Tommi Jaakkola, Regina Barzilay  \n[[Paper](https://www.biorxiv.org/content/10.1101/2024.11.19.624167)] • [[Code](https://github.com/jwohlwend/boltz)]"
+  },
+  {
+    "id": "f96300a9a2636a5e",
+    "title": "Protenix - Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction",
+    "authors": "Xinshi Chen, Yuxuan Zhang, Chan Lu, Wenzhi Ma, Jiaqi Guan, Chengyue Gong, Jincai Yang, Hanyu Zhang, Ke Zhang, Shenghao Wu, Kuangqi Zhou, Yanping Yang, Zhenyu Liu, Lan Wang, Bo Shi, Shaochen Shi, Wenzhi Xiao",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2025.01.08.631967",
+      "Code": "https://github.com/bytedance/Protenix"
+    },
+    "identifiers": {
+      "doi": "10.1101/2025.01.08.631967"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2.2 Antibody-antigen Complex Sturcture Prediction",
+    "legacy_entry": "**Protenix - Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction**    \nXinshi Chen, Yuxuan Zhang, Chan Lu, Wenzhi Ma, Jiaqi Guan, Chengyue Gong, Jincai Yang, Hanyu Zhang, Ke Zhang, Shenghao Wu, Kuangqi Zhou, Yanping Yang, Zhenyu Liu, Lan Wang, Bo Shi, Shaochen Shi, Wenzhi Xiao  \n[[Paper](https://www.biorxiv.org/content/10.1101/2025.01.08.631967)] • [[Code](https://github.com/bytedance/Protenix)]"
+  },
+  {
+    "id": "e4f78afca5e71cfe",
+    "title": "Robust deep learning–based protein sequence design using ProteinMPNN",
+    "authors": "Justas Dauparas, Ivan Anishchenko, Nathaniel Bennett, Hua Bai, Robert J Ragotte, Lukas F Milles, Basile IM Wicky, Alexis Courbet, Rob J de Haas, Neville Bethel, Philip JY Leung, Timothy F Huddy, Sam Pellock, Doug Tischer, Frederick Chan, Brian Koepnick, Hannah Nguyen, Alex Kang, Banumathi Sankaran, Asim K Bera, Neil P King, David Baker",
+    "links": {
+      "Paper": "https://doi.org/10.1126/science.add2187",
+      "Code": "https://github.com/dauparas/ProteinMPNN"
+    },
+    "identifiers": {
+      "doi": "10.1126/science.add2187"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2. Inverse Folding",
+    "legacy_entry": "**Robust deep learning–based protein sequence design using ProteinMPNN**    \nJustas Dauparas, Ivan Anishchenko, Nathaniel Bennett, Hua Bai, Robert J Ragotte, Lukas F Milles, Basile IM Wicky, Alexis Courbet, Rob J de Haas, Neville Bethel, Philip JY Leung, Timothy F Huddy, Sam Pellock, Doug Tischer, Frederick Chan, Brian Koepnick, Hannah Nguyen, Alex Kang, Banumathi Sankaran, Asim K Bera, Neil P King, David Baker  \n[[Paper](https://doi.org/10.1126/science.add2187)] • [[Code](https://github.com/dauparas/ProteinMPNN)]"
+  },
+  {
+    "id": "e5e037e90599ab00",
+    "title": "Learning inverse folding from millions of predicted structures",
+    "authors": "Chloe Hsu, Robert Verkuil, Jason Liu, Zeming Lin, Brian Hie, Tom Sercu, Adam Lerer, Alexander Rives",
+    "links": {
+      "Paper": "https://proceedings.mlr.press/v162/hsu22a/hsu22a.pdf",
+      "Code": "https://github.com/facebookresearch/esm"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Inverse folding"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2. Inverse Folding",
+    "legacy_entry": "**Learning inverse folding from millions of predicted structures**    \nChloe Hsu, Robert Verkuil, Jason Liu, Zeming Lin, Brian Hie, Tom Sercu, Adam Lerer, Alexander Rives  \n[[Paper](https://proceedings.mlr.press/v162/hsu22a/hsu22a.pdf)] • [[Code](https://github.com/facebookresearch/esm)]"
+  },
+  {
+    "id": "757be116cd9f6146",
+    "title": "Structure-informed Language Models Are Protein Designers",
+    "authors": "Zaixiang Zheng, Yifan Deng, Dongyu Xue, Yi Zhou, Fei Ye, Quanquan Gu",
+    "links": {
+      "Paper": "https://dl.acm.org/doi/10.5555/3618408.3620189",
+      "Code": "https://github.com/BytedProtein/ByProt"
+    },
+    "identifiers": {
+      "doi": "10.5555/3618408.3620189"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2. Inverse Folding",
+    "legacy_entry": "**Structure-informed Language Models Are Protein Designers**    \nZaixiang Zheng, Yifan Deng, Dongyu Xue, Yi Zhou, Fei Ye, Quanquan Gu  \n[[Paper](https://dl.acm.org/doi/10.5555/3618408.3620189)] • [[Code](https://github.com/BytedProtein/ByProt)]"
+  },
+  {
+    "id": "dd08cfd149f254dc",
+    "title": "Inverse folding for antibody sequence design using deep learning",
+    "authors": "Frédéric A. Dreyer, Daniel Cutting, Constantin Schneider, Henry Kenlay, Charlotte M. Deane",
+    "links": {
+      "Paper": "https://icml-compbio.github.io/2023/papers/WCBICML2023_paper61.pdf",
+      "Code": "https://zenodo.org/records/8164693"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Inverse folding"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2. Inverse Folding",
+    "legacy_entry": "**Inverse folding for antibody sequence design using deep learning**    \nFrédéric A. Dreyer, Daniel Cutting, Constantin Schneider, Henry Kenlay, Charlotte M. Deane \n[[Paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper61.pdf)] • [[Code](https://zenodo.org/records/8164693)]"
+  },
+  {
+    "id": "91e27d84588d0e34",
+    "title": "AntiFold: improved structure-based antibody design using inverse folding",
+    "authors": "Magnus Haraldson Høie, Alissa M Hummer, Tobias H Olsen, Broncio Aguilar-Sanjuan, Morten Nielsen, Charlotte M Deane",
+    "links": {
+      "Paper": "https://doi.org/10.1093/bioadv/vbae202",
+      "Code": "https://github.com/oxpig/AntiFold"
+    },
+    "identifiers": {
+      "doi": "10.1093/bioadv/vbae202"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Inverse folding"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2. Inverse Folding",
+    "legacy_entry": "**AntiFold: improved structure-based antibody design using inverse folding**    \nMagnus Haraldson Høie, Alissa M Hummer, Tobias H Olsen, Broncio Aguilar-Sanjuan, Morten Nielsen, Charlotte M Deane  \n[[Paper](https://doi.org/10.1093/bioadv/vbae202)] • [[Code](https://github.com/oxpig/AntiFold)]"
+  },
+  {
+    "id": "511744509e6d7841",
+    "title": "IgDesign: In vitro validated antibody design against multiple therapeutic antigens using inverse folding",
+    "authors": "Amir Shanehsazzadeh, Julian Alverio, George Kasun, Simon Levine, Ido Calman, Jibran A. Khan, Chelsea Chung, Nicolas Diaz, Breanna K. Luton, Ysis Tarter, Cailen McCloskey, Katherine B. Bateman, Hayley Carter, Dalton Chapman, Rebecca Consbruck, Alec Jaeger, Christa Kohnert, Gaelin Kopec-Belliveau, John M. Sutton, Zheyuan Guo, Gustavo Canales, Kai Ejan, Emily Marsh, Alyssa Ruelos, Rylee Ripley, Brooke Stoddard, Rodante Caguiat, Kyra Chapman, Matthew Saunders, Jared Sharp, Douglas Ganini da Silva, Audree Feltner, Jake Ripley, Megan E. Bryant, Danni Castillo, Joshua Meier, Christian M. Stegmann, Katherine Moran, Christine Lemke, Shaheed Abdulhaqq, Lillian R. Klug, Sharrol Bachas",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2023.12.08.570889",
+      "Code": "https://github.com/AbSciBio/igdesign"
+    },
+    "identifiers": {
+      "doi": "10.1101/2023.12.08.570889"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Inverse folding"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "2. Inverse Folding",
+    "legacy_entry": "**IgDesign: In vitro validated antibody design against multiple therapeutic antigens using inverse folding**    \nAmir Shanehsazzadeh, Julian Alverio, George Kasun, Simon Levine, Ido Calman, Jibran A. Khan, Chelsea Chung, Nicolas Diaz, Breanna K. Luton, Ysis Tarter, Cailen McCloskey, Katherine B. Bateman, Hayley Carter, Dalton Chapman, Rebecca Consbruck, Alec Jaeger, Christa Kohnert, Gaelin Kopec-Belliveau, John M. Sutton, Zheyuan Guo, Gustavo Canales, Kai Ejan, Emily Marsh, Alyssa Ruelos, Rylee Ripley, Brooke Stoddard, Rodante Caguiat, Kyra Chapman, Matthew Saunders, Jared Sharp, Douglas Ganini da Silva, Audree Feltner, Jake Ripley, Megan E. Bryant, Danni Castillo, Joshua Meier, Christian M. Stegmann, Katherine Moran, Christine Lemke, Shaheed Abdulhaqq, Lillian R. Klug, Sharrol Bachas  \n[[Paper](https://www.biorxiv.org/content/10.1101/2023.12.08.570889)] • [[Code](https://github.com/AbSciBio/igdesign)]"
+  },
+  {
+    "id": "cdf07615f525c1a4",
+    "title": "IgLM: Infilling language modeling for antibody sequence design",
+    "authors": "Richard W. Shuai, Jeffrey A. Ruffolo, Jeffrey J. Gray",
+    "links": {
+      "Paper": "https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5",
+      "Code": "https://github.com/Graylab/IgLM"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-based Design",
+    "legacy_entry": "**IgLM: Infilling language modeling for antibody sequence design**    \nRichard W. Shuai, Jeffrey A. Ruffolo, Jeffrey J. Gray  \n[[Paper](https://www.cell.com/cell-systems/fulltext/S2405-4712(23)00271-5)] • [[Code](https://github.com/Graylab/IgLM)]"
+  },
+  {
+    "id": "5fda4186092b959a",
+    "title": "De novo generation of SARS-CoV-2 antibody CDRH3 with a pre-trained generative large language model",
+    "authors": "Haohuai He, Bing He, Lei Guan, Yu Zhao, Feng Jiang, Guanxing Chen, Qingge Zhu, Calvin Yu-Chian Chen, Ting Li, Jianhua Yao",
+    "links": {
+      "Paper": "https://www.nature.com/articles/s41467-024-50903-y",
+      "Code": "https://github.com/TencentAILabHealthcare/PALM"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-based Design",
+    "legacy_entry": "**De novo generation of SARS-CoV-2 antibody CDRH3 with a pre-trained generative large language model**    \nHaohuai He, Bing He, Lei Guan, Yu Zhao, Feng Jiang, Guanxing Chen, Qingge Zhu, Calvin Yu-Chian Chen, Ting Li, Jianhua Yao  \n[[Paper](https://www.nature.com/articles/s41467-024-50903-y)] • [[Code](https://github.com/TencentAILabHealthcare/PALM)]"
+  },
+  {
+    "id": "eee55cacafd13217",
+    "title": "AbLang: an antibody language model for completing antibody sequences",
+    "authors": "Tobias H Olsen, Iain H Moal, Charlotte M Deane",
+    "links": {
+      "Paper": "https://doi.org/10.1093/bioadv/vbac046",
+      "Code": "https://github.com/oxpig/AbLang"
+    },
+    "identifiers": {
+      "doi": "10.1093/bioadv/vbac046"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-based Design",
+    "legacy_entry": "**AbLang: an antibody language model for completing antibody sequences**    \nTobias H Olsen, Iain H Moal, Charlotte M Deane  \n[[Paper](https://doi.org/10.1093/bioadv/vbac046)] • [[Code](https://github.com/oxpig/AbLang)]"
+  },
+  {
+    "id": "ac0d3d9e284f42b1",
+    "title": "Addressing the antibody germline bias and its effect on language models for improved antibody design",
+    "authors": "Tobias H Olsen, Iain H Moal, Charlotte M Deane",
+    "links": {
+      "Paper": "https://doi.org/10.1093/bioinformatics/btae618",
+      "Code": "https://github.com/oxpig/AbLang2"
+    },
+    "identifiers": {
+      "doi": "10.1093/bioinformatics/btae618"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-based Design",
+    "legacy_entry": "**Addressing the antibody germline bias and its effect on language models for improved antibody design**    \nTobias H Olsen, Iain H Moal, Charlotte M Deane  \n[[Paper](https://doi.org/10.1093/bioinformatics/btae618)] • [[Code](https://github.com/oxpig/AbLang2)]"
+  },
+  {
+    "id": "2bee28bd0e3b1c15",
+    "title": "Large scale paired antibody language models",
+    "authors": "Henry Kenlay, Frédéric A. Dreyer, Aleksandr Kovaltsuk, Dom Miketa, Douglas Pires, Charlotte M. Deane",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2403.17889",
+      "Code": "https://zenodo.org/records/10876909"
+    },
+    "identifiers": {
+      "arxiv": "2403.17889"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "sequence",
+    "tags": [
+      "Antibody",
+      "Language model"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-based Design",
+    "legacy_entry": "**Large scale paired antibody language models**    \nHenry Kenlay, Frédéric A. Dreyer, Aleksandr Kovaltsuk, Dom Miketa, Douglas Pires, Charlotte M. Deane  \n[[Paper](https://arxiv.org/abs/2403.17889)] • [[Code](https://zenodo.org/records/10876909)]"
+  },
+  {
+    "id": "5dd1d8cc78a24042",
+    "title": "Antibody-antigen Docking and Design via Hierarchical Equivariant Refinement",
+    "authors": "Wengong Jin, Regina Barzilay, Tommi Jaakkola",
+    "links": {
+      "Paper": "https://arxiv.org/pdf/2207.06616",
+      "Code": "https://github.com/wengong-jin/abdockgen"
+    },
+    "identifiers": {
+      "arxiv": "2207.06616"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "prediction",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**Antibody-antigen Docking and Design via Hierarchical Equivariant Refinement**    \nWengong Jin, Regina Barzilay, Tommi Jaakkola  \n[[Paper](https://arxiv.org/pdf/2207.06616)] • [[Code](https://github.com/wengong-jin/abdockgen)]"
+  },
+  {
+    "id": "ae557e649509584b",
+    "title": "Antigen-specific antibody design and optimization with diffusion-based generative models for protein structures",
+    "authors": "Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma",
+    "links": {
+      "Paper": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/3fa7d76a0dc1179f1e98d1bc62403756-Abstract-Conference.html",
+      "Code": "https://github.com/luost26/diffab"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody",
+      "Diffusion"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**Antigen-specific antibody design and optimization with diffusion-based generative models for protein structures**    \nShitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma  \n[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3fa7d76a0dc1179f1e98d1bc62403756-Abstract-Conference.html)] • [[Code](https://github.com/luost26/diffab)]"
+  },
+  {
+    "id": "ec4ebf293a4bbfbd",
+    "title": "MEAN: Conditional Antibody Design as 3D Equivariant Graph Translation",
+    "authors": "Xiangzhe Kong, Wenbing Huang, Yang Liu",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2208.06073",
+      "Code": "https://github.com/THUNLP-MT/MEAN"
+    },
+    "identifiers": {
+      "arxiv": "2208.06073"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**MEAN: Conditional Antibody Design as 3D Equivariant Graph Translation**    \nXiangzhe Kong, Wenbing Huang, Yang Liu  \n[[Paper](https://arxiv.org/abs/2208.06073)] • [[Code](https://github.com/THUNLP-MT/MEAN)]"
+  },
+  {
+    "id": "bd767b0ed6d7a4cb",
+    "title": "End-to-End Full-Atom Antibody Design",
+    "authors": "Xiangzhe Kong, Wenbing Huang, Yang Liu",
+    "links": {
+      "Paper": "https://arxiv.org/abs/2302.00203",
+      "Code": "https://github.com/THUNLP-MT/dyMEAN"
+    },
+    "identifiers": {
+      "arxiv": "2302.00203"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**End-to-End Full-Atom Antibody Design**    \nXiangzhe Kong, Wenbing Huang, Yang Liu  \n[[Paper](https://arxiv.org/abs/2302.00203)] • [[Code](https://github.com/THUNLP-MT/dyMEAN)]"
+  },
+  {
+    "id": "77c41ec02203e7fe",
+    "title": "GeoAB: Towards Realistic Antibody Design and Reliable Affinity Maturation",
+    "authors": "Haitao Lin, Lirong Wu, Yufei Huang, Yunfan Liu, Odin Zhang, Yuanqing Zhou, Rui Sun, Stan Z. Li",
+    "links": {
+      "Paper": "https://openreview.net/forum?id=6pHP51F55x",
+      "Code": "https://github.com/EDAPINENUT/GeoAB"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**GeoAB: Towards Realistic Antibody Design and Reliable Affinity Maturation**    \nHaitao Lin, Lirong Wu, Yufei Huang, Yunfan Liu, Odin Zhang, Yuanqing Zhou, Rui Sun, Stan Z. Li  \n[[Paper](https://openreview.net/forum?id=6pHP51F55x)] • [[Code](https://github.com/EDAPINENUT/GeoAB)]"
+  },
+  {
+    "id": "c9c9e2a1fcdad744",
+    "title": "AbX: Antibody Design Using a Score-based Diffusion Model Guided by Evolutionary, Physical, and Geometric Constraints",
+    "authors": "Tian Zhu, Milong Ren, Haicang Zhang",
+    "links": {
+      "Paper": "https://openreview.net/forum?id=1YsQI04KaN",
+      "Code": "https://github.com/CarbonMatrixLab/AbX"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody",
+      "Diffusion"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**AbX: Antibody Design Using a Score-based Diffusion Model Guided by Evolutionary, Physical, and Geometric Constraints**    \nTian Zhu, Milong Ren, Haicang Zhang  \n[[Paper](https://openreview.net/forum?id=1YsQI04KaN)] • [[Code](https://github.com/CarbonMatrixLab/AbX)]"
+  },
+  {
+    "id": "836c569e3edd7a63",
+    "title": "Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization",
+    "authors": "Xiangxin Zhou, Dongyu Xue, Ruizhe Chen, Zaixiang Zheng, Liang Wang, Quanquan Gu",
+    "links": {
+      "Paper": "https://arxiv.org/pdf/2403.16576"
+    },
+    "identifiers": {
+      "arxiv": "2403.16576"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization**    \nXiangxin Zhou, Dongyu Xue, Ruizhe Chen, Zaixiang Zheng, Liang Wang, Quanquan Gu  \n[[Paper](https://arxiv.org/pdf/2403.16576)] • [No Code]"
+  },
+  {
+    "id": "8102c11b97a6731f",
+    "title": "Atomically accurate de novo design of antibodies with RFdiffusion",
+    "authors": "Nathaniel R Bennett, Joseph L Watson, Robert J Ragotte, Andrew J Borst, DéJenaé L See, Connor Weidle, Riti Biswas, Yutong Yu, Ellen L Shrock, Russell Ault, Philip JY Leung, Buwei Huang, Inna Goreshnik, John Tam, Kenneth D Carr, Benedikt Singer, Cameron Criswell, Basile IM Wicky, Dionne Vafeados, Mariana Garcia Sanchez, Ho Min Kim, Susana Vázquez Torres, Sidney Chan, Shirley M Sun, Timothy Spear, Yi Sun, Keelan O’Reilly, John M Maris, Nikolaos G Sgourakis, Roman A Melnyk, Chang C Liu, David Baker",
+    "links": {
+      "Paper": "https://www.biorxiv.org/content/10.1101/2024.03.14.585103",
+      "Code": "https://github.com/RosettaCommons/RFantibody"
+    },
+    "identifiers": {
+      "doi": "10.1101/2024.03.14.585103"
+    },
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "generation",
+    "tags": [
+      "Antibody",
+      "Diffusion"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**Atomically accurate de novo design of antibodies with RFdiffusion**    \nNathaniel R Bennett, Joseph L Watson, Robert J Ragotte, Andrew J Borst, DéJenaé L See, Connor Weidle, Riti Biswas, Yutong Yu, Ellen L Shrock, Russell Ault, Philip JY Leung, Buwei Huang, Inna Goreshnik, John Tam, Kenneth D Carr, Benedikt Singer, Cameron Criswell, Basile IM Wicky, Dionne Vafeados, Mariana Garcia Sanchez, Ho Min Kim, Susana Vázquez Torres, Sidney Chan, Shirley M Sun, Timothy Spear, Yi Sun, Keelan O’Reilly, John M Maris, Nikolaos G Sgourakis, Roman A Melnyk, Chang C Liu, David Baker  \n[[Paper](https://www.biorxiv.org/content/10.1101/2024.03.14.585103)] • [[Code](https://github.com/RosettaCommons/RFantibody)]"
+  },
+  {
+    "id": "8204487dd57564b0",
+    "title": "IgGM: A Generative Model for Functional Antibody and Nanobody Design",
+    "authors": "Rubo Wang, Fandi Wu, Xingyu Gao, Jiaxiang Wu, Peilin Zhao, Jianhua Yao",
+    "links": {
+      "Paper": "https://openreview.net/forum?id=zmmfsJpYcq",
+      "Code": "https://github.com/TencentAI4S/IgGM"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody",
+      "Nanobody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**IgGM: A Generative Model for Functional Antibody and Nanobody Design**    \nRubo Wang, Fandi Wu, Xingyu Gao, Jiaxiang Wu, Peilin Zhao, Jianhua Yao  \n[[Paper](https://openreview.net/forum?id=zmmfsJpYcq)] • [[Code](https://github.com/TencentAI4S/IgGM)]"
+  },
+  {
+    "id": "7c8a15c6bebcd4f3",
+    "title": "Multi-objective antibody design with constrained preference optimization",
+    "authors": "Milong Ren, ZaiKai He, Haicang Zhang",
+    "links": {
+      "Paper": "https://openreview.net/forum?id=4ktJJBvvUd",
+      "Code": "https://github.com/CarbonMatrixLab/AbNovo"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "binders",
+    "tags": [
+      "Antibody"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**Multi-objective antibody design with constrained preference optimization**    \nMilong Ren, ZaiKai He, Haicang Zhang  \n[[Paper](https://openreview.net/forum?id=4ktJJBvvUd)] • [[Code](https://github.com/CarbonMatrixLab/AbNovo)]"
+  },
+  {
+    "id": "9c62c8d10be975ac",
+    "title": "An All-Atom Generative Model for Designing Protein Complexes",
+    "authors": "Ruizhe Chen, Dongyu Xue, Xiangxin Zhou, Zaixiang Zheng, xiangxiang Zeng, Quanquan Gu",
+    "links": {
+      "Paper": "https://openreview.net/forum?id=Afmi28vgIf",
+      "Code": "https://github.com/bytedance/apm"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "generation",
+    "tags": [],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**An All-Atom Generative Model for Designing Protein Complexes**    \nRuizhe Chen, Dongyu Xue, Xiangxin Zhou, Zaixiang Zheng, xiangxiang Zeng, Quanquan Gu  \n[[Paper](https://openreview.net/forum?id=Afmi28vgIf)] • [[Code](https://github.com/bytedance/apm)]"
+  },
+  {
+    "id": "a1f67b4a9a199868",
+    "title": "Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design",
+    "authors": "Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, Junchi Yan",
+    "links": {
+      "Paper": "https://openreview.net/forum?id=Ja2le9YnqN",
+      "Code": "https://github.com/yangnianzu0515/MFDesign"
+    },
+    "identifiers": {},
+    "source": "legacy README",
+    "published": "",
+    "abstract": "",
+    "topic": "generation",
+    "tags": [
+      "Antibody",
+      "Joint design"
+    ],
+    "status": "curated",
+    "first_seen": "",
+    "versions": [],
+    "evidence": "legacy curation; metadata not reverified",
+    "related_dois": [],
+    "legacy_section": "3.1 Sequence-Structure Co-design",
+    "legacy_entry": "**Repurposing AlphaFold3-like Protein Folding Models for Antibody Sequence and Structure Co-design**    \nNianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, Junchi Yan  \n[[Paper](https://openreview.net/forum?id=Ja2le9YnqN)] • [[Code](https://github.com/yangnianzu0515/MFDesign)]"
+  }
+]
