@@ -2,6 +2,7 @@ import sys
 import unittest
 from pathlib import Path
 from unittest.mock import patch
+import urllib.error
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from update_papers import biorxiv, europepmc, arxiv
 import xml.etree.ElementTree as ET
@@ -27,6 +28,11 @@ class SourceTests(unittest.TestCase):
             list(biorxiv('2026-09-01', '2026-09-02', 1))
 
     @patch('update_papers.request')
+    def test_biorxiv_empty_non_ok_is_not_failure(self, request):
+        request.return_value = {'messages': [{'status': 'no results', 'total': 0}], 'collection': []}
+        self.assertEqual(list(biorxiv('2026-09-01', '2026-09-02', 1)), [])
+
+    @patch('update_papers.request')
     def test_europepmc_preserves_pmid(self, request):
         request.return_value = {'resultList': {'result': [{'title': 'Protein design', 'source': 'MED', 'id': '123', 'doi': '10.1000/a'}]}}
         self.assertEqual(list(europepmc('2026-09-01', '2026-09-02', 1))[0]['identifiers']['pmid'], '123')
@@ -39,3 +45,14 @@ class SourceTests(unittest.TestCase):
         request.return_value = ET.fromstring('<feed/>')
         with self.assertRaises(RuntimeError):
             list(arxiv('2026-09-01', '2026-09-02', 1))
+
+    @patch('update_papers.time.sleep')
+    @patch('update_papers.request')
+    def test_arxiv_falls_back_when_export_returns_406(self, request, sleep):
+        request.side_effect = [
+            urllib.error.HTTPError('https://export.arxiv.org/api/query?x', 406, 'Not Acceptable', None, None),
+            ET.fromstring('<feed xmlns="http://www.w3.org/2005/Atom" xmlns:o="http://a9.com/-/spec/opensearch/1.1/"><o:totalResults>0</o:totalResults></feed>')
+        ]
+        self.assertEqual(list(arxiv('2026-09-01', '2026-09-02', 1)), [])
+        self.assertTrue(request.call_args_list[0].args[0].startswith('https://export.arxiv.org/api/query?'))
+        self.assertTrue(request.call_args_list[1].args[0].startswith('https://arxiv.org/api/query?'))

@@ -3,6 +3,7 @@ import argparse
 from datetime import date, timedelta
 import json
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -54,6 +55,8 @@ def biorxiv(start, end, max_pages):
         data = request(f'https://api.biorxiv.org/details/biorxiv/{start}/{end}/{cursor}')
         message = data['messages'][0]
         if message.get('status') != 'ok':
+            if int(message.get('total', 0)) == 0 and not data.get('collection'):
+                return
             raise RuntimeError('bioRxiv returned non-ok status')
         rows = data['collection']
         for row in rows:
@@ -80,8 +83,15 @@ def arxiv(start, end, max_pages):
     query = f'({objects}) AND ({methods}) AND submittedDate:[{begin}0000 TO {finish}2359]'
     for page in range(max_pages):
         time.sleep(3)
-        root = request('https://export.arxiv.org/api/query?' + urllib.parse.urlencode(
-            dict(search_query=query, start=page * 100, max_results=100, sortBy='submittedDate', sortOrder='descending')), xml=True)
+        payload = urllib.parse.urlencode(dict(
+            search_query=query, start=page * 100, max_results=100, sortBy='submittedDate', sortOrder='descending'))
+        for endpoint in ('https://export.arxiv.org/api/query?', 'https://arxiv.org/api/query?'):
+            try:
+                root = request(endpoint + payload, xml=True)
+                break
+            except urllib.error.HTTPError as error:
+                if error.code != 406 or endpoint == 'https://arxiv.org/api/query?':
+                    raise
         rows = root.findall('a:entry', ns)
         total_node = root.find('o:totalResults', ns)
         if total_node is None:
