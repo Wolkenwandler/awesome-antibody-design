@@ -11,7 +11,7 @@ from render_papers import render, entry
 class CatalogTests(unittest.TestCase):
     def test_migration_preserves_entries_and_links(self):
         import re
-        text = (ROOT / 'README.md').read_text()
+        text = '\n\n'.join(p['legacy_entry'] for p in read_json(ROOT / 'data/papers.json') if 'legacy_entry' in p)
         papers = migrate(text)
         self.assertEqual(len(papers), len(re.findall(r'^\*\*', text, re.M)))
         expected = re.findall(r'\[\[([^\]]+)\]\(([^\n]+?)\)\]', text)
@@ -50,7 +50,7 @@ class CatalogTests(unittest.TestCase):
 
     def test_render_is_deterministic(self):
         render()
-        before = {p: p.read_bytes() for p in (ROOT / 'papers').rglob('*.md')}
+        before = {p: p.read_bytes() for p in [ROOT / 'README.md', *(ROOT / 'papers').rglob('*.md')]}
         render()
         self.assertEqual(before, {p: p.read_bytes() for p in before})
 

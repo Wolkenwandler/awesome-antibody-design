@@ -66,6 +66,7 @@ jobs:
           title: 'docs: review new protein and antibody literature'
           body-path: .run/summary.md
           add-paths: |
+            README.md
             data/papers.json
             papers/
       - name: Surface incomplete retrieval

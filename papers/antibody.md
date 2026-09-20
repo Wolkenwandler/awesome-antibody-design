@@ -19,7 +19,7 @@
 
 K Krawczyk, A Buchanan, P Marcatili
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -36,7 +36,7 @@ K Krawczyk, A Buchanan, P Marcatili
 
 Jeffrey A. Ruffolo, Lee-Shin Chu, Sai Pooja Mahajan & Jeffrey J. Gray
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -53,7 +53,7 @@ Jeffrey A. Ruffolo, Lee-Shin Chu, Sai Pooja Mahajan & Jeffrey J. Gray
 
 Andreas Evers, Shipra Malhotra, Vanita D. Sood
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -70,7 +70,7 @@ Andreas Evers, Shipra Malhotra, Vanita D. Sood
 
 Makowski, Emily K., Hsin-Ting Chen, and Peter M. Tessier
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -87,7 +87,7 @@ Makowski, Emily K., Hsin-Ting Chen, and Peter M. Tessier
 
 Xiaoqiang Huang, Jun Zhou, Shuang Chen, Xiaofeng Xia, Y. Eugene Chen & Jie Xu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -104,7 +104,7 @@ Xiaoqiang Huang, Jun Zhou, Shuang Chen, Xiaofeng Xia, Y. Eugene Chen & Jie Xu
 
 Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -121,7 +121,7 @@ Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
 S Ferdous, ACR Martin
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -138,7 +138,7 @@ S Ferdous, ACR Martin
 
 Xiangzhe Kong, Wenbing Huang, Yang Liu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -155,7 +155,7 @@ Xiangzhe Kong, Wenbing Huang, Yang Liu
 
 Rahmad Akbar, Habib Bashour, Puneet Rawat, Philippe A. Robert, Eva Smorodina, Tudor-Stefan Cotet, Karine Flem-Karlsen, Robert Frank, Brij Bhushan Mehta, Mai Ha Vu, Talip Zengin, Jose Gutierrez-Marcos, Fridtjof Lund-Johansen, Jan Terje Andersen, and Victor Greif
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -172,7 +172,7 @@ Rahmad Akbar, Habib Bashour, Puneet Rawat, Philippe A. Robert, Eva Smorodina, Tu
 
 Hummer, Alissa M., Brennan Abanades, and Charlotte M. Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -189,7 +189,7 @@ Hummer, Alissa M., Brennan Abanades, and Charlotte M. Deane
 
 Weronika Bielska, Igor Jaszczyszyn, Pawel Dudzic, Bartosz Janusz, Dawid Chomicz, Sonia Wrobel, Victor Greiff, Ryan Feehan, Jared Adolf-Bryfogle, Konrad Krawczyk
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -206,7 +206,7 @@ Weronika Bielska, Igor Jaszczyszyn, Pawel Dudzic, Bartosz Janusz, Dawid Chomicz,
 
 Abhishaike Mahajan
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -223,7 +223,7 @@ Abhishaike Mahajan
 
 Frédéric A. Dreyer, Daniel Cutting, Constantin Schneider, Henry Kenlay, Charlotte M. Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -240,7 +240,7 @@ Frédéric A. Dreyer, Daniel Cutting, Constantin Schneider, Henry Kenlay, Charlo
 
 Matthew I J Raybould, Claire Marks, Alan P Lewis, Jiye Shi, Alexander Bujotzek, Bruck Taddese, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -257,7 +257,7 @@ Matthew I J Raybould, Claire Marks, Alan P Lewis, Jiye Shi, Alexander Bujotzek, 
 
 Federica Guarra and Giorgio Colombo
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -274,7 +274,7 @@ Federica Guarra and Giorgio Colombo
 
 Richard W. Shuai, Jeffrey A. Ruffolo, Jeffrey J. Gray
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -291,7 +291,7 @@ Richard W. Shuai, Jeffrey A. Ruffolo, Jeffrey J. Gray
 
 Tian Zhu, Milong Ren, Haicang Zhang
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -308,7 +308,7 @@ Tian Zhu, Milong Ren, Haicang Zhang
 
 Brennan Abanades, Guy Georges, Alexander Bujotzek, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -325,7 +325,7 @@ Brennan Abanades, Guy Georges, Alexander Bujotzek, Charlotte M Deane
 
 Soudabeh Kavousipour, Mahdi Barazesh, Shiva Mohammadi
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -342,7 +342,7 @@ Soudabeh Kavousipour, Mahdi Barazesh, Shiva Mohammadi
 
 Xiangzhe Kong, Wenbing Huang, Yang Liu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -359,7 +359,7 @@ Xiangzhe Kong, Wenbing Huang, Yang Liu
 
 Xin-heng He, Jun-rui Li, James Xu, Hong Shan, Shi-yi Shen, Si-han Gao & H. Eric Xu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -376,7 +376,7 @@ Xin-heng He, Jun-rui Li, James Xu, Hong Shan, Shi-yi Shen, Si-han Gao & H. Eric 
 
 MIJ Raybould, A Kovaltsuk, C Marks, CM Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -393,7 +393,7 @@ MIJ Raybould, A Kovaltsuk, C Marks, CM Deane
 
 Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -410,7 +410,7 @@ Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma
 
 Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -427,7 +427,7 @@ Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
 Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, Junchi Yan
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -444,7 +444,7 @@ Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, J
 
 Daniel Keri, Matt Walker, Isha Singh, Kyle Nishikawa, Fernando Garces
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -461,7 +461,7 @@ Daniel Keri, Matt Walker, Isha Singh, Kyle Nishikawa, Fernando Garces
 
 S Sirin, JR Apgar, EM Bennett, AE Keating
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -478,7 +478,7 @@ S Sirin, JR Apgar, EM Bennett, AE Keating
 
 EE Wilton, MP Opyr, S Kailasam, RF Kothe, HJ Wieden
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -495,7 +495,7 @@ EE Wilton, MP Opyr, S Kailasam, RF Kothe, HJ Wieden
 
 Magnus Haraldson Høie, Alissa M Hummer, Tobias H Olsen, Broncio Aguilar-Sanjuan, Morten Nielsen, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -512,7 +512,7 @@ Magnus Haraldson Høie, Alissa M Hummer, Tobias H Olsen, Broncio Aguilar-Sanjuan
 
 Jakub Młokosiewicz, Piotr Deszyński, Wiktoria Wilman, Igor Jaszczyszyn, Rajkumar Ganesan, Aleksandr Kovaltsuk, Jinwoo Leem, Jacob D Galson, Konrad Krawczyk
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -529,7 +529,7 @@ Jakub Młokosiewicz, Piotr Deszyński, Wiktoria Wilman, Igor Jaszczyszyn, Rajkum
 
 Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, Azamat Armanuly,Begench Hangeldiyev, Hyunkyu Jung, Sooyeon Lee, Meeyoung Cha & Ho Min Kim
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -546,7 +546,7 @@ Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, Azamat Armanuly,Begench Hangeldi
 
 Xiangxin Zhou, Dongyu Xue, Ruizhe Chen, Zaixiang Zheng, Liang Wang, Quanquan Gu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -563,7 +563,7 @@ Xiangxin Zhou, Dongyu Xue, Ruizhe Chen, Zaixiang Zheng, Liang Wang, Quanquan Gu
 
 Rubo Wang, Fandi Wu, Xingyu Gao, Jiaxiang Wu, Peilin Zhao, Jianhua Yao
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -580,7 +580,7 @@ Rubo Wang, Fandi Wu, Xingyu Gao, Jiaxiang Wu, Peilin Zhao, Jianhua Yao
 
 Nathaniel R Bennett, Joseph L Watson, Robert J Ragotte, Andrew J Borst, DéJenaé L See, Connor Weidle, Riti Biswas, Yutong Yu, Ellen L Shrock, Russell Ault, Philip JY Leung, Buwei Huang, Inna Goreshnik, John Tam, Kenneth D Carr, Benedikt Singer, Cameron Criswell, Basile IM Wicky, Dionne Vafeados, Mariana Garcia Sanchez, Ho Min Kim, Susana Vázquez Torres, Sidney Chan, Shirley M Sun, Timothy Spear, Yi Sun, Keelan O’Reilly, John M Maris, Nikolaos G Sgourakis, Roman A Melnyk, Chang C Liu, David Baker
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -597,7 +597,7 @@ Nathaniel R Bennett, Joseph L Watson, Robert J Ragotte, Andrew J Borst, DéJena�
 
 Brennan Abanades, Tobias H Olsen, Matthew I J Raybould, Broncio Aguilar-Sanjuan, Wing Ki Wong, Guy Georges, Alexander Bujotzek, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -614,7 +614,7 @@ Brennan Abanades, Tobias H Olsen, Matthew I J Raybould, Broncio Aguilar-Sanjuan,
 
 Jordan Graves, Jacob Byerly, Eduardo Priego, Naren Makkapati , S. Vince Parish, Brenda Medellin and Monica Berrondo
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -631,7 +631,7 @@ Jordan Graves, Jacob Byerly, Eduardo Priego, Naren Makkapati , S. Vince Parish, 
 
 Milong Ren, ZaiKai He, Haicang Zhang
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -648,7 +648,7 @@ Milong Ren, ZaiKai He, Haicang Zhang
 
 Ruffolo JA, Sulam J, Gray JJ
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -665,7 +665,7 @@ Ruffolo JA, Sulam J, Gray JJ
 
 Haitao Lin, Lirong Wu, Yufei Huang, Yunfan Liu, Odin Zhang, Yuanqing Zhou, Rui Sun, Stan Z. Li
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -682,7 +682,7 @@ Haitao Lin, Lirong Wu, Yufei Huang, Yunfan Liu, Odin Zhang, Yuanqing Zhou, Rui S
 
 Leonard Wossnig, Norbert Furtmann, Andrew Buchanan, Sandeep Kumar, Victor Greiff
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -699,7 +699,7 @@ Leonard Wossnig, Norbert Furtmann, Andrew Buchanan, Sandeep Kumar, Victor Greiff
 
 Luca Santuari, Marianne Bachmann Salvy, Ioannis Xenarios, Bulak Arpat
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -716,7 +716,7 @@ Luca Santuari, Marianne Bachmann Salvy, Ioannis Xenarios, Bulak Arpat
 
 Yining Wang, Xumeng Gong, Shaochuan Li, Bing Yang, YiWu Sun, Chuan Shi, Yangang Wang, Cheng Yang, Hui Li, Le Song
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -733,7 +733,7 @@ Yining Wang, Xumeng Gong, Shaochuan Li, Bing Yang, YiWu Sun, Chuan Shi, Yangang 
 
 Jiaxiang Wu, Fandi Wu, Biaobin Jiang, Wei Liu, Peilin Zhao
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -750,7 +750,7 @@ Jiaxiang Wu, Fandi Wu, Biaobin Jiang, Wei Liu, Peilin Zhao
 
 Haohuai He, Bing He, Lei Guan, Yu Zhao, Feng Jiang, Guanxing Chen, Qingge Zhu, Calvin Yu-Chian Chen, Ting Li, Jianhua Yao
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -767,7 +767,7 @@ Haohuai He, Bing He, Lei Guan, Yu Zhao, Feng Jiang, Guanxing Chen, Qingge Zhu, C
 
 Wengong Jin, Regina Barzilay, Tommi Jaakkola
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -784,7 +784,7 @@ Wengong Jin, Regina Barzilay, Tommi Jaakkola
 
 Amir Shanehsazzadeh, Julian Alverio, George Kasun, Simon Levine, Ido Calman, Jibran A. Khan, Chelsea Chung, Nicolas Diaz, Breanna K. Luton, Ysis Tarter, Cailen McCloskey, Katherine B. Bateman, Hayley Carter, Dalton Chapman, Rebecca Consbruck, Alec Jaeger, Christa Kohnert, Gaelin Kopec-Belliveau, John M. Sutton, Zheyuan Guo, Gustavo Canales, Kai Ejan, Emily Marsh, Alyssa Ruelos, Rylee Ripley, Brooke Stoddard, Rodante Caguiat, Kyra Chapman, Matthew Saunders, Jared Sharp, Douglas Ganini da Silva, Audree Feltner, Jake Ripley, Megan E. Bryant, Danni Castillo, Joshua Meier, Christian M. Stegmann, Katherine Moran, Christine Lemke, Shaheed Abdulhaqq, Lillian R. Klug, Sharrol Bachas
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -801,7 +801,7 @@ Amir Shanehsazzadeh, Julian Alverio, George Kasun, Simon Levine, Ido Calman, Jib
 
 Tobias H. Olsen, Fergus Boyles, Charlotte M. Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -818,7 +818,7 @@ Tobias H. Olsen, Fergus Boyles, Charlotte M. Deane
 
 Fandi Wu, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen Qin, Fan Yang, Ningqiao Huang, Yang Xiao, Rubo Wang, Huaxian Jia, Yu Rong, Yuyi Liu, Houtim Lai, Tingyang Xu, Wei Liu, Peilin Zhao, Jianhua Yao
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -835,7 +835,7 @@ Fandi Wu, Yu Zhao, Jiaxiang Wu, Biaobin Jiang, Bing He, Longkai Huang, Chenchen 
 
 Sara Joubbi, Alessio Micheli, Paolo Milazzo, Giuseppe Maccari, Giorgio Ciano, Dario Cardamone, Duccio Medini
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -852,7 +852,7 @@ Sara Joubbi, Alessio Micheli, Paolo Milazzo, Giuseppe Maccari, Giorgio Ciano, Da
 
 Constantin Schneider, Matthew I J Raybould, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -869,7 +869,7 @@ Constantin Schneider, Matthew I J Raybould, Charlotte M Deane
 
 Mark B Swindells, Craig T Porter, Matthew Couch, Jacob Hurst, KR Abhinandan, Jens H Nielsen, Gary Macindoe, James Hetherington, Andrew CR Martin
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -886,7 +886,7 @@ Mark B Swindells, Craig T Porter, Matthew Couch, Jacob Hurst, KR Abhinandan, Jen
 
 Henry Kenlay, Frédéric A. Dreyer, Aleksandr Kovaltsuk, Dom Miketa, Douglas Pires, Charlotte M. Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -903,7 +903,7 @@ Henry Kenlay, Frédéric A. Dreyer, Aleksandr Kovaltsuk, Dom Miketa, Douglas Pir
 
 Michael Chungyoun, Jeffrey J. Gray
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -920,7 +920,7 @@ Michael Chungyoun, Jeffrey J. Gray
 
 Henry Kenlay, Frédéric A Dreyer, Daniel Cutting, Daniel Nissley, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -937,7 +937,7 @@ Henry Kenlay, Frédéric A Dreyer, Daniel Cutting, Daniel Nissley, Charlotte M D
 
 Jisun Kim, Matthew McFee, Qiao Fang, Osama Abdin, Philip M. Kim
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -954,7 +954,7 @@ Jisun Kim, Matthew McFee, Qiao Fang, Osama Abdin, Philip M. Kim
 
 Piotr Deszyński, Jakub Młokosiewicz, Adam Volanakis, Igor Jaszczyszyn, Natalie Castellana, Stefano Bonissone, Rajkumar Ganesan, Konrad Krawczyk
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 

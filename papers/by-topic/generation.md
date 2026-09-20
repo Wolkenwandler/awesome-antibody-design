@@ -19,7 +19,7 @@
 
 Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, Junchi Yan
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -36,7 +36,7 @@ Nianzu Yang, Jian Ma, Songlin Jiang, Huaijin Wu, Shuangjia Zheng, Wengong Jin, J
 
 Ruizhe Chen, Dongyu Xue, Xiangxin Zhou, Zaixiang Zheng, xiangxiang Zeng, Quanquan Gu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -53,7 +53,7 @@ Ruizhe Chen, Dongyu Xue, Xiangxin Zhou, Zaixiang Zheng, xiangxiang Zeng, Quanqua
 
 Nathaniel R Bennett, Joseph L Watson, Robert J Ragotte, Andrew J Borst, DéJenaé L See, Connor Weidle, Riti Biswas, Yutong Yu, Ellen L Shrock, Russell Ault, Philip JY Leung, Buwei Huang, Inna Goreshnik, John Tam, Kenneth D Carr, Benedikt Singer, Cameron Criswell, Basile IM Wicky, Dionne Vafeados, Mariana Garcia Sanchez, Ho Min Kim, Susana Vázquez Torres, Sidney Chan, Shirley M Sun, Timothy Spear, Yi Sun, Keelan O’Reilly, John M Maris, Nikolaos G Sgourakis, Roman A Melnyk, Chang C Liu, David Baker
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 

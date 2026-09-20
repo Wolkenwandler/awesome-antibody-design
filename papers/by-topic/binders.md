@@ -19,7 +19,7 @@
 
 Xiangzhe Kong, Wenbing Huang, Yang Liu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -36,7 +36,7 @@ Xiangzhe Kong, Wenbing Huang, Yang Liu
 
 Tian Zhu, Milong Ren, Haicang Zhang
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -53,7 +53,7 @@ Tian Zhu, Milong Ren, Haicang Zhang
 
 Xiangzhe Kong, Wenbing Huang, Yang Liu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -70,7 +70,7 @@ Xiangzhe Kong, Wenbing Huang, Yang Liu
 
 Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -87,7 +87,7 @@ Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma
 
 Xiangxin Zhou, Dongyu Xue, Ruizhe Chen, Zaixiang Zheng, Liang Wang, Quanquan Gu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -104,7 +104,7 @@ Xiangxin Zhou, Dongyu Xue, Ruizhe Chen, Zaixiang Zheng, Liang Wang, Quanquan Gu
 
 Rubo Wang, Fandi Wu, Xingyu Gao, Jiaxiang Wu, Peilin Zhao, Jianhua Yao
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -121,7 +121,7 @@ Rubo Wang, Fandi Wu, Xingyu Gao, Jiaxiang Wu, Peilin Zhao, Jianhua Yao
 
 Milong Ren, ZaiKai He, Haicang Zhang
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -138,7 +138,7 @@ Milong Ren, ZaiKai He, Haicang Zhang
 
 Haitao Lin, Lirong Wu, Yufei Huang, Yunfan Liu, Odin Zhang, Yuanqing Zhou, Rui Sun, Stan Z. Li
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 

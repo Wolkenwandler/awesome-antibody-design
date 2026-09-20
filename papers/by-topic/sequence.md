@@ -19,7 +19,7 @@
 
 Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -36,7 +36,7 @@ Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
 Chloe Hsu, Robert Verkuil, Jason Liu, Zeming Lin, Brian Hie, Tom Sercu, Adam Lerer, Alexander Rives
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -53,7 +53,7 @@ Chloe Hsu, Robert Verkuil, Jason Liu, Zeming Lin, Brian Hie, Tom Sercu, Adam Ler
 
 Justas Dauparas, Ivan Anishchenko, Nathaniel Bennett, Hua Bai, Robert J Ragotte, Lukas F Milles, Basile IM Wicky, Alexis Courbet, Rob J de Haas, Neville Bethel, Philip JY Leung, Timothy F Huddy, Sam Pellock, Doug Tischer, Frederick Chan, Brian Koepnick, Hannah Nguyen, Alex Kang, Banumathi Sankaran, Asim K Bera, Neil P King, David Baker
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -70,7 +70,7 @@ Justas Dauparas, Ivan Anishchenko, Nathaniel Bennett, Hua Bai, Robert J Ragotte,
 
 Frédéric A. Dreyer, Daniel Cutting, Constantin Schneider, Henry Kenlay, Charlotte M. Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -87,7 +87,7 @@ Frédéric A. Dreyer, Daniel Cutting, Constantin Schneider, Henry Kenlay, Charlo
 
 Richard W. Shuai, Jeffrey A. Ruffolo, Jeffrey J. Gray
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -104,7 +104,7 @@ Richard W. Shuai, Jeffrey A. Ruffolo, Jeffrey J. Gray
 
 Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -121,7 +121,7 @@ Tobias H Olsen, Iain H Moal, Charlotte M Deane
 
 Magnus Haraldson Høie, Alissa M Hummer, Tobias H Olsen, Broncio Aguilar-Sanjuan, Morten Nielsen, Charlotte M Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -138,7 +138,7 @@ Magnus Haraldson Høie, Alissa M Hummer, Tobias H Olsen, Broncio Aguilar-Sanjuan
 
 Zaixiang Zheng, Yifan Deng, Dongyu Xue, Yi Zhou, Fei Ye, Quanquan Gu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -155,7 +155,7 @@ Zaixiang Zheng, Yifan Deng, Dongyu Xue, Yi Zhou, Fei Ye, Quanquan Gu
 
 Haohuai He, Bing He, Lei Guan, Yu Zhao, Feng Jiang, Guanxing Chen, Qingge Zhu, Calvin Yu-Chian Chen, Ting Li, Jianhua Yao
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -172,7 +172,7 @@ Haohuai He, Bing He, Lei Guan, Yu Zhao, Feng Jiang, Guanxing Chen, Qingge Zhu, C
 
 Amir Shanehsazzadeh, Julian Alverio, George Kasun, Simon Levine, Ido Calman, Jibran A. Khan, Chelsea Chung, Nicolas Diaz, Breanna K. Luton, Ysis Tarter, Cailen McCloskey, Katherine B. Bateman, Hayley Carter, Dalton Chapman, Rebecca Consbruck, Alec Jaeger, Christa Kohnert, Gaelin Kopec-Belliveau, John M. Sutton, Zheyuan Guo, Gustavo Canales, Kai Ejan, Emily Marsh, Alyssa Ruelos, Rylee Ripley, Brooke Stoddard, Rodante Caguiat, Kyra Chapman, Matthew Saunders, Jared Sharp, Douglas Ganini da Silva, Audree Feltner, Jake Ripley, Megan E. Bryant, Danni Castillo, Joshua Meier, Christian M. Stegmann, Katherine Moran, Christine Lemke, Shaheed Abdulhaqq, Lillian R. Klug, Sharrol Bachas
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -189,7 +189,7 @@ Amir Shanehsazzadeh, Julian Alverio, George Kasun, Simon Levine, Ido Calman, Jib
 
 Henry Kenlay, Frédéric A. Dreyer, Aleksandr Kovaltsuk, Dom Miketa, Douglas Pires, Charlotte M. Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 

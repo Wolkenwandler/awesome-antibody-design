@@ -19,7 +19,7 @@
 
 Andreas Evers, Shipra Malhotra, Vanita D. Sood
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -36,7 +36,7 @@ Andreas Evers, Shipra Malhotra, Vanita D. Sood
 
 Makowski, Emily K., Hsin-Ting Chen, and Peter M. Tessier
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -53,7 +53,7 @@ Makowski, Emily K., Hsin-Ting Chen, and Peter M. Tessier
 
 Rahmad Akbar, Habib Bashour, Puneet Rawat, Philippe A. Robert, Eva Smorodina, Tudor-Stefan Cotet, Karine Flem-Karlsen, Robert Frank, Brij Bhushan Mehta, Mai Ha Vu, Talip Zengin, Jose Gutierrez-Marcos, Fridtjof Lund-Johansen, Jan Terje Andersen, and Victor Greif
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -70,7 +70,7 @@ Rahmad Akbar, Habib Bashour, Puneet Rawat, Philippe A. Robert, Eva Smorodina, Tu
 
 Hummer, Alissa M., Brennan Abanades, and Charlotte M. Deane
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -87,7 +87,7 @@ Hummer, Alissa M., Brennan Abanades, and Charlotte M. Deane
 
 Weronika Bielska, Igor Jaszczyszyn, Pawel Dudzic, Bartosz Janusz, Dawid Chomicz, Sonia Wrobel, Victor Greiff, Ryan Feehan, Jared Adolf-Bryfogle, Konrad Krawczyk
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -104,7 +104,7 @@ Weronika Bielska, Igor Jaszczyszyn, Pawel Dudzic, Bartosz Janusz, Dawid Chomicz,
 
 Abhishaike Mahajan
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -121,7 +121,7 @@ Abhishaike Mahajan
 
 Federica Guarra and Giorgio Colombo
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -138,7 +138,7 @@ Federica Guarra and Giorgio Colombo
 
 Soudabeh Kavousipour, Mahdi Barazesh, Shiva Mohammadi
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -155,7 +155,7 @@ Soudabeh Kavousipour, Mahdi Barazesh, Shiva Mohammadi
 
 Xin-heng He, Jun-rui Li, James Xu, Hong Shan, Shi-yi Shen, Si-han Gao & H. Eric Xu
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -172,7 +172,7 @@ Xin-heng He, Jun-rui Li, James Xu, Hong Shan, Shi-yi Shen, Si-han Gao & H. Eric 
 
 Daniel Keri, Matt Walker, Isha Singh, Kyle Nishikawa, Fernando Garces
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -189,7 +189,7 @@ Daniel Keri, Matt Walker, Isha Singh, Kyle Nishikawa, Fernando Garces
 
 Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, Azamat Armanuly,Begench Hangeldiyev, Hyunkyu Jung, Sooyeon Lee, Meeyoung Cha & Ho Min Kim
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -206,7 +206,7 @@ Luiz Felipe Vecchietti, Bryan Nathanael Wijaya, Azamat Armanuly,Begench Hangeldi
 
 Jordan Graves, Jacob Byerly, Eduardo Priego, Naren Makkapati , S. Vince Parish, Brenda Medellin and Monica Berrondo
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -223,7 +223,7 @@ Jordan Graves, Jacob Byerly, Eduardo Priego, Naren Makkapati , S. Vince Parish, 
 
 Leonard Wossnig, Norbert Furtmann, Andrew Buchanan, Sandeep Kumar, Victor Greiff
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -240,7 +240,7 @@ Leonard Wossnig, Norbert Furtmann, Andrew Buchanan, Sandeep Kumar, Victor Greiff
 
 Luca Santuari, Marianne Bachmann Salvy, Ioannis Xenarios, Bulak Arpat
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -257,7 +257,7 @@ Luca Santuari, Marianne Bachmann Salvy, Ioannis Xenarios, Bulak Arpat
 
 Bruna Moreira da Silva, David B. Ascher, Nicholas Geard, Douglas E. V. Pires
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -274,7 +274,7 @@ Bruna Moreira da Silva, David B. Ascher, Nicholas Geard, Douglas E. V. Pires
 
 Sara Joubbi, Alessio Micheli, Paolo Milazzo, Giuseppe Maccari, Giorgio Ciano, Dario Cardamone, Duccio Medini
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -291,7 +291,7 @@ Sara Joubbi, Alessio Micheli, Paolo Milazzo, Giuseppe Maccari, Giorgio Ciano, Da
 
 Andrew P. Hederman, Margaret E. Ackerman
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -308,7 +308,7 @@ Andrew P. Hederman, Margaret E. Ackerman
 
 Michael Chungyoun, Jeffrey J. Gray
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
@@ -325,7 +325,7 @@ Michael Chungyoun, Jeffrey J. Gray
 
 Jisun Kim, Matthew McFee, Qiao Fang, Osama Abdin, Philip M. Kim
 
-历史精选，元数据尚未重新核实
+人工精选，元数据尚未重新核实
 
 </details>
 
